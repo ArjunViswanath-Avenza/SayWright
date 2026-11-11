@@ -1,0 +1,260 @@
+{
+ "image": "frmAcknowledgement-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    640,
+    842
+   ],
+   "id": "flxParent"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    1,
+    639,
+    91
+   ],
+   "id": "flxFlow"
+  },
+  {
+   "type": "text",
+   "text": "Tranfer sent",
+   "bbox_2d": [
+    33,
+    20,
+    176,
+    49
+   ],
+   "id": "lblTransfer"
+  },
+  {
+   "type": "text",
+   "text": "3 of 3",
+   "bbox_2d": [
+    563,
+    25,
+    606,
+    45
+   ],
+   "id": "lbl3of3"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    34,
+    63,
+    606,
+    70
+   ],
+   "id": "flxTrack"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    49,
+    131,
+    591,
+    641
+   ],
+   "id": "flxTransferDetail"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    265,
+    157,
+    375,
+    267
+   ],
+   "id": "flxSuccess"
+  },
+  {
+   "type": "image",
+   "text": "",
+   "bbox_2d": [
+    280,
+    172,
+    360,
+    252
+   ],
+   "id": "imgTick"
+  },
+  {
+   "type": "text",
+   "text": "On its way",
+   "bbox_2d": [
+    258,
+    277,
+    382,
+    306
+   ],
+   "id": "lblTransfersent"
+  },
+  {
+   "type": "text",
+   "text": "$1,200.00 is on its way to Rahul Mehta.It",
+   "bbox_2d": [
+    167,
+    323,
+    473,
+    343
+   ],
+   "id": "lblDes1"
+  },
+  {
+   "type": "text",
+   "text": "should land the same business day.",
+   "bbox_2d": [
+    186,
+    351,
+    454,
+    371
+   ],
+   "id": "lblDes2"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    90,
+    390,
+    550,
+    610
+   ],
+   "id": "flxDetails"
+  },
+  {
+   "type": "text",
+   "text": "Reference",
+   "bbox_2d": [
+    114,
+    426,
+    192,
+    446
+   ],
+   "id": "lblReference"
+  },
+  {
+   "type": "text",
+   "text": "TRF-2026-100482",
+   "bbox_2d": [
+    379,
+    426,
+    526,
+    447
+   ],
+   "id": "lblId1"
+  },
+  {
+   "type": "text",
+   "text": "From",
+   "bbox_2d": [
+    114,
+    471,
+    153,
+    491
+   ],
+   "id": "lblFrom"
+  },
+  {
+   "type": "text",
+   "text": "123456XXXX",
+   "bbox_2d": [
+    418,
+    471,
+    527,
+    492
+   ],
+   "id": "lblId2"
+  },
+  {
+   "type": "text",
+   "text": "To",
+   "bbox_2d": [
+    113,
+    516,
+    131,
+    536
+   ],
+   "id": "lblTo"
+  },
+  {
+   "type": "text",
+   "text": "4455XXXX",
+   "bbox_2d": [
+    438,
+    516,
+    526,
+    537
+   ],
+   "id": "lblId3"
+  },
+  {
+   "type": "text",
+   "text": "Posted",
+   "bbox_2d": [
+    114,
+    556,
+    166,
+    576
+   ],
+   "id": "lblPosted"
+  },
+  {
+   "type": "text",
+   "text": "5 Oct, 09:47",
+   "bbox_2d": [
+    425,
+    556,
+    526,
+    577
+   ],
+   "id": "lblId4"
+  },
+  {
+   "type": "button",
+   "text": "Back to accounts",
+   "bbox_2d": [
+    49,
+    661,
+    591,
+    711
+   ],
+   "id": "btnback"
+  },
+  {
+   "type": "button",
+   "text": "Another transfer",
+   "bbox_2d": [
+    49,
+    729,
+    591,
+    779
+   ],
+   "id": "Button0e71f6afe8c2844"
+  },
+  {
+   "type": "text",
+   "text": "Download receipt(PDF)",
+   "bbox_2d": [
+    221,
+    796,
+    419,
+    817
+   ],
+   "id": "lblDownload"
+  }
+ ]
+}

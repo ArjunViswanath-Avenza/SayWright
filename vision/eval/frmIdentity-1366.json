@@ -1,0 +1,370 @@
+{
+ "image": "frmIdentity-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1366,
+    900
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    20,
+    1366,
+    100
+   ],
+   "id": "flxHeader1"
+  },
+  {
+   "type": "text",
+   "text": "Avenza",
+   "bbox_2d": [
+    105,
+    70,
+    233,
+    112
+   ],
+   "id": "SignIn.lblAvenza"
+  },
+  {
+   "type": "text",
+   "text": "Bank",
+   "bbox_2d": [
+    231,
+    70,
+    321,
+    112
+   ],
+   "id": "SignIn.lblBank"
+  },
+  {
+   "type": "text",
+   "text": "Already have an account?",
+   "bbox_2d": [
+    951,
+    80,
+    1182,
+    103
+   ],
+   "id": "SignIn.lblAlhaveAcc"
+  },
+  {
+   "type": "text",
+   "text": "Sign in",
+   "bbox_2d": [
+    1201,
+    73,
+    1299,
+    110
+   ],
+   "id": "SignIn.lblSIgnIn"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    100,
+    1366,
+    180
+   ],
+   "id": "flxHeader2"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    115,
+    130,
+    1164,
+    138
+   ],
+   "id": "flow.flxLine"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    116,
+    131,
+    355,
+    137
+   ],
+   "id": "flow.flxInsideline"
+  },
+  {
+   "type": "text",
+   "text": "Identity documents",
+   "bbox_2d": [
+    125,
+    112,
+    217,
+    123
+   ],
+   "id": "flow.lblTxt1"
+  },
+  {
+   "type": "text",
+   "text": "Step 4 of 7",
+   "bbox_2d": [
+    1045,
+    112,
+    1138,
+    134
+   ],
+   "id": "flow.lblTxt2"
+  },
+  {
+   "type": "text",
+   "text": "Prove your identity",
+   "bbox_2d": [
+    300,
+    190,
+    711,
+    246
+   ],
+   "id": "lblProve"
+  },
+  {
+   "type": "text",
+   "text": "Photos must show all four corners, with no glare. JPG or PNG, up to 10 MB each.",
+   "bbox_2d": [
+    300,
+    250,
+    1021,
+    273
+   ],
+   "id": "lblTxt2"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    258,
+    315,
+    1108,
+    900
+   ],
+   "id": "flxDetailsbg"
+  },
+  {
+   "type": "text",
+   "text": "Document Type",
+   "bbox_2d": [
+    302,
+    345,
+    487,
+    374
+   ],
+   "id": "lblDoctype"
+  },
+  {
+   "type": "dropdown",
+   "text": "Passport",
+   "bbox_2d": [
+    302,
+    390,
+    649,
+    460
+   ],
+   "id": "lbxPassport"
+  },
+  {
+   "type": "text",
+   "text": "Document Number",
+   "bbox_2d": [
+    707,
+    345,
+    930,
+    374
+   ],
+   "id": "lblDocno"
+  },
+  {
+   "type": "input",
+   "text": "",
+   "bbox_2d": [
+    701,
+    390,
+    1048,
+    460
+   ],
+   "id": "tbxDocno"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    300,
+    503,
+    1072,
+    653
+   ],
+   "id": "flxDtlrow2"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    351,
+    544,
+    428,
+    614
+   ],
+   "id": "flxImgbg"
+  },
+  {
+   "type": "image",
+   "text": "",
+   "bbox_2d": [
+    352,
+    545,
+    427,
+    613
+   ],
+   "id": "imgCheck"
+  },
+  {
+   "type": "text",
+   "text": "Passport — photo page",
+   "bbox_2d": [
+    451,
+    549,
+    731,
+    578
+   ],
+   "id": "lblPassportphoto"
+  },
+  {
+   "type": "text",
+   "text": "passport-front.jpg · 2.1 MB",
+   "bbox_2d": [
+    451,
+    584,
+    688,
+    607
+   ],
+   "id": "lblpassportfront"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    849,
+    544,
+    1041,
+    614
+   ],
+   "id": "flxReplace"
+  },
+  {
+   "type": "button",
+   "text": "Replace",
+   "bbox_2d": [
+    850,
+    545,
+    1040,
+    613
+   ],
+   "id": "btnRP"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    300,
+    691,
+    1072,
+    841
+   ],
+   "id": "flxDtlrow3"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    351,
+    732,
+    428,
+    802
+   ],
+   "id": "flxImg2bg"
+  },
+  {
+   "type": "image",
+   "text": "",
+   "bbox_2d": [
+    352,
+    733,
+    427,
+    801
+   ],
+   "id": "imgTick"
+  },
+  {
+   "type": "text",
+   "text": "Passport — signature page",
+   "bbox_2d": [
+    451,
+    737,
+    774,
+    766
+   ],
+   "id": "lblPassportsignaturepage"
+  },
+  {
+   "type": "text",
+   "text": "passport-back.jpg · 1.8 MB",
+   "bbox_2d": [
+    451,
+    772,
+    690,
+    795
+   ],
+   "id": "lblpassportback"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    849,
+    732,
+    1041,
+    802
+   ],
+   "id": "flxReplace2"
+  },
+  {
+   "type": "button",
+   "text": "Replace",
+   "bbox_2d": [
+    850,
+    733,
+    1040,
+    801
+   ],
+   "id": "btnReplace"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    306,
+    877,
+    1078,
+    900
+   ],
+   "id": "flxDtlrow4"
+  }
+ ]
+}

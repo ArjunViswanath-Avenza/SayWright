@@ -1,0 +1,161 @@
+{
+ "image": "frmSynth71-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    640,
+    900
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    60,
+    227,
+    580,
+    674
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Card details",
+   "bbox_2d": [
+    89,
+    251,
+    203,
+    274
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Your data is encrypted end to end.",
+   "bbox_2d": [
+    89,
+    282,
+    393,
+    305
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "From account",
+   "bbox_2d": [
+    89,
+    323,
+    188,
+    340
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "Select account",
+   "bbox_2d": [
+    89,
+    346,
+    308,
+    390
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "text",
+   "text": "To account",
+   "bbox_2d": [
+    326,
+    323,
+    405,
+    340
+   ],
+   "id": "lblField8"
+  },
+  {
+   "type": "input",
+   "text": "Select account",
+   "bbox_2d": [
+    326,
+    346,
+    545,
+    390
+   ],
+   "id": "tbx9"
+  },
+  {
+   "type": "text",
+   "text": "Mobile number",
+   "bbox_2d": [
+    89,
+    404,
+    196,
+    421
+   ],
+   "id": "lblField10"
+  },
+  {
+   "type": "input",
+   "text": "Enter mobile number",
+   "bbox_2d": [
+    89,
+    427,
+    545,
+    477
+   ],
+   "id": "tbx11"
+  },
+  {
+   "type": "text",
+   "text": "Reference",
+   "bbox_2d": [
+    89,
+    494,
+    162,
+    511
+   ],
+   "id": "lblField12"
+  },
+  {
+   "type": "input",
+   "text": "Add a reference",
+   "bbox_2d": [
+    89,
+    517,
+    545,
+    561
+   ],
+   "id": "tbx13"
+  },
+  {
+   "type": "button",
+   "text": "Verify",
+   "bbox_2d": [
+    89,
+    586,
+    545,
+    636
+   ],
+   "id": "btn14"
+  },
+  {
+   "type": "text",
+   "text": "Need help?",
+   "bbox_2d": [
+    89,
+    652,
+    181,
+    673
+   ],
+   "id": "lblLink15"
+  }
+ ]
+}

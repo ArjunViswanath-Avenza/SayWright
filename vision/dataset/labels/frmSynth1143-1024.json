@@ -1,0 +1,117 @@
+{
+ "image": "frmSynth1143-1024.png",
+ "width": 1024,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1024,
+    900
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    232,
+    253,
+    792,
+    647
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Sign in",
+   "bbox_2d": [
+    261,
+    283,
+    378,
+    323
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "We will send a code to your phone.",
+   "bbox_2d": [
+    261,
+    331,
+    560,
+    353
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "OTP",
+   "bbox_2d": [
+    261,
+    370,
+    302,
+    393
+   ],
+   "id": "lblField3"
+  },
+  {
+   "type": "input",
+   "text": "Enter 6-digit code",
+   "bbox_2d": [
+    261,
+    399,
+    752,
+    439
+   ],
+   "id": "tbx4"
+  },
+  {
+   "type": "text",
+   "text": "Card number",
+   "bbox_2d": [
+    261,
+    457,
+    385,
+    480
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "XXXX XXXX XXXX XXXX",
+   "bbox_2d": [
+    261,
+    486,
+    752,
+    536
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "button",
+   "text": "Transfer now",
+   "bbox_2d": [
+    261,
+    559,
+    752,
+    609
+   ],
+   "id": "btn7"
+  },
+  {
+   "type": "text",
+   "text": "Open an account",
+   "bbox_2d": [
+    261,
+    625,
+    398,
+    646
+   ],
+   "id": "lblLink8"
+  }
+ ]
+}

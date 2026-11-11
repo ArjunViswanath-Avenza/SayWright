@@ -1,0 +1,394 @@
+{
+ "image": "frmAcknowledgement-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1366,
+    847
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    343,
+    227,
+    1023,
+    845
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    393,
+    485,
+    973,
+    705
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    29,
+    1365,
+    122
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    847,
+    1366,
+    900
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    1,
+    1365,
+    29
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Back to accounts",
+   "bbox_2d": [
+    394,
+    735,
+    683,
+    785
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Another transfer",
+   "bbox_2d": [
+    712,
+    735,
+    972,
+    785
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    628,
+    252,
+    738,
+    362
+   ]
+  },
+  {
+   "type": "image",
+   "text": "",
+   "bbox_2d": [
+    628,
+    252,
+    738,
+    362
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1274,
+    51,
+    1322,
+    99
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    250,
+    154,
+    290,
+    192
+   ]
+  },
+  {
+   "type": "image",
+   "text": "",
+   "bbox_2d": [
+    250,
+    154,
+    290,
+    192
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    614,
+    154,
+    652,
+    192
+   ]
+  },
+  {
+   "type": "image",
+   "text": "",
+   "bbox_2d": [
+    614,
+    154,
+    652,
+    192
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    989,
+    154,
+    1027,
+    192
+   ]
+  },
+  {
+   "type": "image",
+   "text": "",
+   "bbox_2d": [
+    989,
+    154,
+    1027,
+    192
+   ]
+  },
+  {
+   "type": "text",
+   "text": "MF",
+   "bbox_2d": [
+    1285,
+    54,
+    1319,
+    88
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Avenza",
+   "bbox_2d": [
+    58,
+    54,
+    184,
+    97
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Bank",
+   "bbox_2d": [
+    187,
+    54,
+    275,
+    97
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Maya Fernandes",
+   "bbox_2d": [
+    1104,
+    62,
+    1253,
+    85
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Accounts",
+   "bbox_2d": [
+    327,
+    63,
+    409,
+    87
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Transfers",
+   "bbox_2d": [
+    457,
+    63,
+    541,
+    87
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Profile",
+   "bbox_2d": [
+    590,
+    63,
+    645,
+    87
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Details",
+   "bbox_2d": [
+    306,
+    161,
+    363,
+    183
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Confirm",
+   "bbox_2d": [
+    668,
+    161,
+    737,
+    185
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Done",
+   "bbox_2d": [
+    1044,
+    161,
+    1090,
+    185
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Transfer sent",
+   "bbox_2d": [
+    590,
+    371,
+    777,
+    406
+   ]
+  },
+  {
+   "type": "text",
+   "text": "$1,200.00 is on its way to Rahul Mehta. It should land the same business day.",
+   "bbox_2d": [
+    508,
+    416,
+    857,
+    468
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Reference",
+   "bbox_2d": [
+    424,
+    519,
+    515,
+    543
+   ]
+  },
+  {
+   "type": "text",
+   "text": "TRF-2026-100482",
+   "bbox_2d": [
+    780,
+    519,
+    943,
+    543
+   ]
+  },
+  {
+   "type": "text",
+   "text": "From",
+   "bbox_2d": [
+    424,
+    564,
+    469,
+    588
+   ]
+  },
+  {
+   "type": "text",
+   "text": "123456XXXX",
+   "bbox_2d": [
+    824,
+    564,
+    943,
+    588
+   ]
+  },
+  {
+   "type": "text",
+   "text": "To",
+   "bbox_2d": [
+    423,
+    609,
+    444,
+    633
+   ]
+  },
+  {
+   "type": "text",
+   "text": "4455XXXX",
+   "bbox_2d": [
+    845,
+    609,
+    943,
+    633
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Posted",
+   "bbox_2d": [
+    424,
+    649,
+    484,
+    673
+   ]
+  },
+  {
+   "type": "text",
+   "text": "5 0ct, 09:47",
+   "bbox_2d": [
+    831,
+    648,
+    943,
+    677
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Download receipt(PDF)",
+   "bbox_2d": [
+    584,
+    804,
+    782,
+    825
+   ]
+  }
+ ],
+ "stats": {
+  "model": "ocr+pixels",
+  "ocr_s": 7.2,
+  "wall_s": 8.5,
+  "lines": 24,
+  "blocks": 13
+ }
+}

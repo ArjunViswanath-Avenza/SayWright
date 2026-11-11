@@ -1,0 +1,117 @@
+{
+ "image": "frmSynth1139-1024.png",
+ "width": 1024,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1024,
+    900
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    232,
+    298,
+    792,
+    602
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Reset password",
+   "bbox_2d": [
+    261,
+    320,
+    544,
+    362
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Your data is encrypted end to end.",
+   "bbox_2d": [
+    261,
+    370,
+    565,
+    393
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "Expiry",
+   "bbox_2d": [
+    261,
+    411,
+    322,
+    434
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "MM/YY",
+   "bbox_2d": [
+    261,
+    440,
+    497,
+    484
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "text",
+   "text": "CVV",
+   "bbox_2d": [
+    516,
+    411,
+    557,
+    434
+   ],
+   "id": "lblField8"
+  },
+  {
+   "type": "input",
+   "text": "123",
+   "bbox_2d": [
+    516,
+    440,
+    752,
+    484
+   ],
+   "id": "tbx9"
+  },
+  {
+   "type": "button",
+   "text": "Sign In",
+   "bbox_2d": [
+    261,
+    508,
+    752,
+    564
+   ],
+   "id": "btn10"
+  },
+  {
+   "type": "text",
+   "text": "Need help?",
+   "bbox_2d": [
+    261,
+    580,
+    353,
+    601
+   ],
+   "id": "lblLink11"
+  }
+ ]
+}

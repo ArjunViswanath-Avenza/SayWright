@@ -1,0 +1,205 @@
+{
+ "image": "frmSynth1114-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    546,
+    900
+   ],
+   "id": "flxBrand"
+  },
+  {
+   "type": "text",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    60,
+    50,
+    277,
+    92
+   ],
+   "id": "lblLogo"
+  },
+  {
+   "type": "text",
+   "text": "Banking for every day.",
+   "bbox_2d": [
+    60,
+    152,
+    442,
+    236
+   ],
+   "id": "lblTagline"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    546,
+    0,
+    1366,
+    900
+   ],
+   "id": "flxRight"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    736,
+    182,
+    1176,
+    719
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Open an account",
+   "bbox_2d": [
+    761,
+    208,
+    1045,
+    248
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Expiry",
+   "bbox_2d": [
+    761,
+    266,
+    822,
+    289
+   ],
+   "id": "lblField4"
+  },
+  {
+   "type": "input",
+   "text": "MM/YY",
+   "bbox_2d": [
+    761,
+    295,
+    946,
+    339
+   ],
+   "id": "tbx5"
+  },
+  {
+   "type": "text",
+   "text": "CVV",
+   "bbox_2d": [
+    962,
+    266,
+    1003,
+    289
+   ],
+   "id": "lblField7"
+  },
+  {
+   "type": "input",
+   "text": "123",
+   "bbox_2d": [
+    962,
+    295,
+    1147,
+    339
+   ],
+   "id": "tbx8"
+  },
+  {
+   "type": "text",
+   "text": "OTP",
+   "bbox_2d": [
+    761,
+    359,
+    802,
+    382
+   ],
+   "id": "lblField9"
+  },
+  {
+   "type": "input",
+   "text": "Enter 6-digit code",
+   "bbox_2d": [
+    761,
+    388,
+    1147,
+    432
+   ],
+   "id": "tbx10"
+  },
+  {
+   "type": "text",
+   "text": "Mobile number",
+   "bbox_2d": [
+    761,
+    454,
+    903,
+    477
+   ],
+   "id": "lblField11"
+  },
+  {
+   "type": "input",
+   "text": "Enter mobile number",
+   "bbox_2d": [
+    761,
+    483,
+    1147,
+    527
+   ],
+   "id": "tbx12"
+  },
+  {
+   "type": "text",
+   "text": "Account number",
+   "bbox_2d": [
+    761,
+    542,
+    920,
+    565
+   ],
+   "id": "lblField13"
+  },
+  {
+   "type": "input",
+   "text": "Enter account number",
+   "bbox_2d": [
+    761,
+    571,
+    1147,
+    611
+   ],
+   "id": "tbx14"
+  },
+  {
+   "type": "button",
+   "text": "Continue",
+   "bbox_2d": [
+    761,
+    631,
+    1147,
+    681
+   ],
+   "id": "btn15"
+  },
+  {
+   "type": "text",
+   "text": "Need help?",
+   "bbox_2d": [
+    761,
+    697,
+    853,
+    718
+   ],
+   "id": "lblLink16"
+  }
+ ]
+}

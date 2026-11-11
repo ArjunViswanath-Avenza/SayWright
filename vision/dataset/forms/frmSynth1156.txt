@@ -1,0 +1,10 @@
+new form called synth 11 56
+add a label called lblHead1 with text "Verify your identity", top 22dp, left 120dp, skin CopydefLabel0b958727ed83141
+add a label called lblSub2 with text "We will send a code to your phone.", top 8dp, left 120dp, skin sknLblDescription
+add a label called lblField3 with text "Account number", top 20dp, left 120dp, skin sknlblHeading0f223320px
+add a text box called tbx4 with placeholder "Enter account number", width 45%, height 50dp, top 6dp, left 120dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a label called lblField5 with text "User Id", top 19dp, left 120dp, skin sknlblHeading0f223320px
+add a text box called tbx6 with placeholder "Enter user id", width 45%, height 44dp, top 6dp, left 120dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a label called lblField7 with text "Beneficiary name", top 14dp, left 120dp, skin sknlblHeading0f223320px
+add a text box called tbx8 with placeholder "Enter beneficiary name", width 45%, height 50dp, top 6dp, left 120dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a button called btn9 with text "Transfer now", width 45%, height 44dp, top 28dp, left 120dp, skin sknbtn15577d

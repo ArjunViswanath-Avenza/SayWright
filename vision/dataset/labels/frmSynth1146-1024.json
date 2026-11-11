@@ -1,0 +1,128 @@
+{
+ "image": "frmSynth1146-1024.png",
+ "width": 1024,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1024,
+    900
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    272,
+    267,
+    752,
+    633
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Contact us",
+   "bbox_2d": [
+    301,
+    300,
+    482,
+    340
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "From account",
+   "bbox_2d": [
+    301,
+    358,
+    400,
+    375
+   ],
+   "id": "lblField4"
+  },
+  {
+   "type": "input",
+   "text": "Select account",
+   "bbox_2d": [
+    301,
+    381,
+    503,
+    425
+   ],
+   "id": "tbx5"
+  },
+  {
+   "type": "text",
+   "text": "To account",
+   "bbox_2d": [
+    520,
+    358,
+    599,
+    375
+   ],
+   "id": "lblField7"
+  },
+  {
+   "type": "input",
+   "text": "Select account",
+   "bbox_2d": [
+    520,
+    381,
+    722,
+    425
+   ],
+   "id": "tbx8"
+  },
+  {
+   "type": "text",
+   "text": "Date of birth",
+   "bbox_2d": [
+    301,
+    444,
+    390,
+    461
+   ],
+   "id": "lblField9"
+  },
+  {
+   "type": "input",
+   "text": "DD/MM/YYYY",
+   "bbox_2d": [
+    301,
+    467,
+    722,
+    517
+   ],
+   "id": "tbx10"
+  },
+  {
+   "type": "button",
+   "text": "Continue",
+   "bbox_2d": [
+    301,
+    539,
+    722,
+    595
+   ],
+   "id": "btn11"
+  },
+  {
+   "type": "text",
+   "text": "Need help?",
+   "bbox_2d": [
+    301,
+    611,
+    393,
+    632
+   ],
+   "id": "lblLink12"
+  }
+ ]
+}

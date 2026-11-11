@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Saywright</title>
+<link rel="stylesheet" href="/ui/style.css">
+</head>
+<body>
+<header class="bar">
+  <div class="brand">
+    <svg class="logo" viewBox="0 0 32 32" aria-hidden="true"><rect x="3" y="12" width="3.5" height="8" rx="1.75"/><rect x="9" y="7" width="3.5" height="18" rx="1.75"/><rect x="15" y="3" width="3.5" height="26" rx="1.75"/><rect x="21" y="9" width="3.5" height="14" rx="1.75"/><rect x="27" y="13" width="2.5" height="6" rx="1.25"/></svg>
+    <div><div class="name">Saywright</div><div class="tag">Say it · See it · Ship it</div></div>
+  </div>
+  <div class="formbox">
+    <span class="muted small">Form</span>
+    <strong id="formId">…</strong>
+    <select id="openForm" title="Reopen a form you saved from Saywright"><option value="">Open saved…</option></select>
+    <button id="btnNew" class="ghost">New form</button>
+    <button id="btnDeleteForm" class="ghost" title="Delete a form you made in Saywright, or restore one you deleted">Delete form…</button>
+    <button id="btnImage" class="ghost" title="Give the image agent desktop, tablet and mobile screenshots (any of them). You can also drop or paste an image anywhere.">From image…</button>
+    <input id="imgFile" type="file" accept="image/png,image/jpeg,image/webp,image/bmp" hidden>
+  </div>
+  <div class="pills">
+    <span class="pill" id="pillProject" title="Visualizer project that Save writes into">Project …</span>
+    <span class="pill" id="pillStt" title="Local speech-to-text">Mic …</span>
+    <span class="pill" id="pillModel" title="Local model for free-form commands">Model …</span>
+  </div>
+  <div class="actions">
+    <button id="btnUndo" class="ghost" disabled title="Undo (Ctrl+Z)">Undo</button>
+    <button id="btnSave" class="primary" title="Write the form into the Visualizer project (Ctrl+S)">Save to Visualizer</button>
+    <button id="btnReact" class="dark" title="Generate a React app from the saved form">Export React</button>
+  </div>
+</header>
+
+<main class="layout">
+  <section class="panel left">
+    <h2>Say it</h2>
+    <button id="mic" class="mic" aria-pressed="false">
+      <span class="mic-ring"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 15a3.5 3.5 0 0 0 3.5-3.5v-6a3.5 3.5 0 1 0-7 0v6A3.5 3.5 0 0 0 12 15Zm6-3.5a1 1 0 1 0-2 0 4 4 0 0 1-8 0 1 1 0 1 0-2 0 6 6 0 0 0 5 5.9V20H8.5a1 1 0 1 0 0 2h7a1 1 0 1 0 0-2H13v-2.6a6 6 0 0 0 5-5.9Z"/></svg></span>
+      <span id="micLabel">Click or hold Space to talk</span>
+    </button>
+    <div id="heard" class="heard muted">What you say or type shows here.</div>
+    <form id="typed" class="typed">
+      <textarea id="cmd" rows="2" autocomplete="off" placeholder="Or type a command. Paste several lines to run a script. Enter sends."></textarea>
+      <button type="submit" class="primary">Send</button>
+    </form>
+    <section id="agent" class="agent" hidden aria-label="Image agent">
+      <div class="agent-head">
+        <h3>Image agent</h3>
+        <button id="agentClose" class="icon" title="Hide" aria-label="Hide the image agent">&#x2715;</button>
+      </div>
+      <form id="figmaForm" class="figma-links" aria-label="Figma frames, one per screen size">
+        <div class="figma-h small">Figma frames <span class="muted">(exact layers)</span></div>
+        <label class="figma-link"><span>Desktop</span><input data-figma="desktop" type="url" placeholder="Link to the desktop frame" autocomplete="off"></label>
+        <label class="figma-link"><span>Tablet</span><input data-figma="tablet" type="url" placeholder="Link to the tablet frame" autocomplete="off"></label>
+        <label class="figma-link"><span>Mobile</span><input data-figma="mobile" type="url" placeholder="Link to the mobile frame" autocomplete="off"></label>
+        <div class="figma-actions"><button id="figmaLoad" class="ghost" type="submit">Load links</button>
+          <span class="small muted">A size left empty is looked for in the same file.</span></div>
+      </form>
+      <div id="figmaInfo" class="small muted" hidden></div>
+      <div class="slots" role="group" aria-label="Screenshots of the screen, one per size">
+        <div class="slot" data-slot="desktop">
+          <button type="button" class="slot-pick" aria-label="Choose the desktop screenshot"><img alt="" hidden><span class="slot-plus" aria-hidden="true">+</span></button>
+          <span class="slot-name">Desktop</span>
+          <select class="slot-frame" hidden aria-label="Figma frame for Desktop"></select>
+          <button type="button" class="slot-clear" hidden aria-label="Remove the desktop screenshot">&#x2715;</button>
+        </div>
+        <div class="slot" data-slot="tablet">
+          <button type="button" class="slot-pick" aria-label="Choose the tablet screenshot"><img alt="" hidden><span class="slot-plus" aria-hidden="true">+</span></button>
+          <span class="slot-name">Tablet</span>
+          <select class="slot-frame" hidden aria-label="Figma frame for Tablet"></select>
+          <button type="button" class="slot-clear" hidden aria-label="Remove the tablet screenshot">&#x2715;</button>
+        </div>
+        <div class="slot" data-slot="mobile">
+          <button type="button" class="slot-pick" aria-label="Choose the mobile screenshot"><img alt="" hidden><span class="slot-plus" aria-hidden="true">+</span></button>
+          <span class="slot-name">Mobile</span>
+          <select class="slot-frame" hidden aria-label="Figma frame for Mobile"></select>
+          <button type="button" class="slot-clear" hidden aria-label="Remove the mobile screenshot">&#x2715;</button>
+        </div>
+      </div>
+      <div class="small muted">Any one is enough: screenshots, or frames from a Figma link. The widest builds the form; tablet and mobile set those breakpoints, and a size you leave empty follows the rules.</div>
+      <button id="agentBuild" class="primary" type="button" disabled>Build form</button>
+      <div id="agentStatus" class="agent-status small" role="status" aria-live="polite"></div>
+      <div id="agentSeen" class="agent-report small" hidden></div>
+      <div id="agentReport" class="agent-report small" hidden></div>
+      <div id="agentBody" hidden>
+        <label class="small" for="agentPrompt">Prompt (edit it, then run it again)</label>
+        <textarea id="agentPrompt" class="agent-prompt" rows="8" spellcheck="false" wrap="off"></textarea>
+        <div class="row-btns agent-btns">
+          <button id="agentRun" class="primary" type="button">Run prompt</button>
+          <button id="agentCopy" class="ghost" type="button">Copy</button>
+        </div>
+      </div>
+    </section>
+    <details class="hints">
+      <summary>Try saying</summary>
+      <ul id="hintList">
+        <li>add a heading saying Open an account</li>
+        <li>add a text box for first name</li>
+        <li>add a text box for last name to the right of first name, 48% each with a 2% gap</li>
+        <li>add an email text box below the first name field</li>
+        <li>add a button saying Continue</li>
+        <li>make the button 200 dp wide</li>
+        <li>change the text of the heading to Tell us about you</li>
+        <li>hide it · delete it · undo · save</li>
+      </ul>
+    </details>
+    <h3>History</h3>
+    <ol id="log" class="log"></ol>
+  </section>
+
+  <section class="panel center">
+    <div class="canvas-bar">
+      <h2>See it</h2>
+      <div class="seg" role="group" aria-label="Canvas mode">
+        <button data-mode="design" class="on" title="Click widgets to select them">Design</button>
+        <button data-mode="play" title="Run the form's controller: clicks work as in Live Preview">Play</button>
+      </div>
+      <div class="seg" role="group" aria-label="Breakpoint">
+        <button data-w="1366" data-bp="b1" class="on" title="Visualizer breakpoint b1: widths 1025–1366 px"><span>Desktop</span><small>1366px</small></button>
+        <button data-w="1024" data-bp="b2" title="Visualizer breakpoint b2: widths 641–1024 px"><span>Tablet</span><small>1024px</small></button>
+        <button data-w="640" data-bp="b3" title="Visualizer breakpoint b3: widths up to 640 px"><span>Mobile</span><small>640px</small></button>
+      </div>
+      <span id="bpInfo" class="bp-info"></span>
+      <span id="renderInfo" class="muted small"></span>
+    </div>
+    <div id="stage" class="stage">
+      <div class="ruler-corner" title="Form pixels (1 dp = 1 px)">px</div>
+      <canvas id="rulerTop" class="ruler ruler-top" aria-label="Horizontal scale in form pixels"></canvas>
+      <canvas id="rulerLeft" class="ruler ruler-left" aria-label="Vertical scale in form pixels"></canvas>
+      <div id="viewport" class="viewport">
+        <div id="frameBox" class="frame-box"><iframe id="frame" title="Form canvas: the saved Visualizer form running as React"></iframe></div>
+      </div>
+      <div id="pointer" class="pointer" aria-live="off"></div>
+      <div id="emptyHint" class="empty-hint" hidden>Empty form. Try <em>“add a heading saying Welcome back”</em>.</div>
+      <div id="canvasError" class="canvas-error" hidden></div>
+    </div>
+    <p class="foot muted small">The canvas is the form as Visualizer will get it: written as a <code>.sm</code> form, then run by the viz2react React runtime with the project's own skins.</p>
+  </section>
+
+  <section class="panel right">
+    <h2>Ship it</h2>
+    <div class="tabs" role="tablist">
+      <button class="tab on" data-tab="tree">Widgets</button>
+      <button class="tab" data-tab="spec">Spec</button>
+      <button class="tab" data-tab="out">Output</button>
+    </div>
+    <ol id="tree" class="tree" data-pane="tree"></ol>
+    <pre id="spec" class="code" data-pane="spec" hidden></pre>
+    <div id="out" class="out" data-pane="out" hidden>
+      <div class="card">
+        <div class="card-h">Visualizer</div>
+        <div id="saveInfo" class="muted small">Not saved yet. Say “save” or press Save to Visualizer.</div>
+      </div>
+      <div class="card">
+        <div class="card-h">React</div>
+        <div class="row-btns">
+          <button id="btnReactForm" class="ghost">This form</button>
+          <button id="btnReactAll" class="ghost">Whole project</button>
+        </div>
+        <div id="reactInfo" class="muted small">Exports are made from the saved Visualizer project.</div>
+      </div>
+    </div>
+    <aside id="props" class="props" aria-label="Widget properties" aria-hidden="true">
+      <div class="props-head">
+        <button id="propsBack" class="icon" title="Back to the widget list (Esc)" aria-label="Back to the widget list">&#x2190;</button>
+        <div class="props-title"><span id="propsType" class="badge"></span><span id="propsId" class="mono"></span></div>
+      </div>
+      <div id="propsBody" class="props-body"></div>
+      <div id="propsMsg" class="props-msg" role="status" aria-live="polite"></div>
+    </aside>
+  </section>
+</main>
+<datalist id="dimHints"><option value="preferred"><option value="100%"><option value="50%"><option value="48%"><option value="40dp"><option value="200dp"><option value="0dp"><option value="10dp"></datalist>
+<dialog id="dlg" class="dlg" aria-labelledby="dlgTitle">
+  <form method="dialog" id="dlgForm">
+    <h3 id="dlgTitle"></h3>
+    <p id="dlgText" class="muted small"></p>
+    <input id="dlgInput" type="text" autocomplete="off" spellcheck="false">
+    <p id="dlgHint" class="dlg-hint small"></p>
+    <div class="dlg-actions">
+      <button type="button" id="dlgCancel" class="ghost">Cancel</button>
+      <button type="submit" id="dlgOk" class="primary">OK</button>
+    </div>
+  </form>
+</dialog>
+<dialog id="formsDlg" class="dlg" aria-labelledby="formsDlgTitle">
+  <form method="dialog" id="formsForm">
+    <h3 id="formsDlgTitle">Delete a form</h3>
+    <p class="muted small">Only forms made in Saywright are listed. A deleted form goes to the trash and can be restored here. Skins and images it used stay in the project.</p>
+    <label class="small" for="formsPick">Form</label>
+    <select id="formsPick" class="forms-pick"></select>
+    <p id="formsWarn" class="dlg-hint small"></p>
+    <div id="formsTrash" class="forms-trash" hidden>
+      <label class="small" for="formsTrashPick">Deleted forms</label>
+      <div class="forms-row">
+        <select id="formsTrashPick" class="forms-pick"></select>
+        <button type="button" id="formsRestore" class="ghost">Restore</button>
+      </div>
+    </div>
+    <div class="dlg-actions">
+      <button type="button" id="formsCancel" class="ghost">Close</button>
+      <button type="submit" id="formsOk" class="primary danger-ok">Delete form</button>
+    </div>
+  </form>
+</dialog>
+<dialog id="skinDlg" class="dlg skin-dlg" aria-labelledby="skinDlgTitle">
+  <form method="dialog" id="skinForm">
+    <h3 id="skinDlgTitle">New skin</h3>
+    <div id="skinSample" class="skin-sample">Sample</div>
+    <div class="skin-grid">
+      <label for="skName">Name</label><input id="skName" type="text" autocomplete="off" spellcheck="false" placeholder="Made for you if empty">
+      <label>Background</label>
+      <div class="skin-row">
+        <div class="seg" role="group" aria-label="Background kind">
+          <button type="button" data-bgk="none">None</button><button type="button" data-bgk="solid" class="on">Solid</button><button type="button" data-bgk="grad">Gradient</button>
+        </div>
+        <input id="skBg" type="color" value="#6d5efc" aria-label="Background colour">
+        <input id="skBg2" type="color" value="#22d3ee" aria-label="Gradient end colour">
+        <input id="skAngle" type="number" min="0" max="359" value="135" aria-label="Gradient angle in degrees" title="Gradient angle in degrees">
+      </div>
+      <label class="sk-text" for="skColor">Text</label>
+      <div class="skin-row sk-text">
+        <input id="skColor" type="color" value="#ffffff" aria-label="Text colour">
+        <input id="skPx" type="number" min="6" max="200" value="16" aria-label="Font size in px" title="Font size in px"><span class="small muted">px</span>
+        <label class="small"><input id="skBold" type="checkbox"> Bold</label>
+      </div>
+      <label for="skBorderOn">Border</label>
+      <div class="skin-row">
+        <input id="skBorderOn" type="checkbox" aria-label="Has a border">
+        <input id="skBorder" type="color" value="#5b6b7a" aria-label="Border colour">
+        <input id="skBorderW" type="number" min="1" max="20" value="1" aria-label="Border width in px" title="Border width in px"><span class="small muted">px</span>
+      </div>
+      <label for="skRadius">Corners</label>
+      <div class="skin-row"><input id="skRadius" type="number" min="0" max="200" value="0" title="Corner radius in px"><span class="small muted">px radius</span></div>
+      <label for="skGlowOn">Glow</label>
+      <div class="skin-row">
+        <input id="skGlowOn" type="checkbox" aria-label="Has a glow or shadow">
+        <input id="skGlow" type="color" value="#6d5efc" aria-label="Glow colour">
+        <input id="skBlur" type="number" min="0" max="400" value="40" aria-label="Glow blur in px" title="Blur in px"><span class="small muted">px blur</span>
+      </div>
+    </div>
+    <p id="skinMsg" class="dlg-hint small"></p>
+    <div class="dlg-actions">
+      <button type="button" id="skinCancel" class="ghost">Cancel</button>
+      <button type="submit" id="skinOk" class="primary">Create and apply</button>
+    </div>
+  </form>
+</dialog>
+<div id="dropZone" class="drop-zone" hidden>
+  <div class="drop-card">
+    <div>Drop a screenshot or Figma export on the size it shows</div>
+    <div class="drop-slots">
+      <div class="drop-slot" data-slot="desktop">Desktop</div><div class="drop-slot" data-slot="tablet">Tablet</div><div class="drop-slot" data-slot="mobile">Mobile</div>
+    </div>
+    <div class="small muted">Anywhere else: a tall image goes to Mobile, others to the first free of Desktop and Tablet.</div>
+  </div>
+</div>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+<script src="/ui/app.js"></script>
+</body>
+</html>

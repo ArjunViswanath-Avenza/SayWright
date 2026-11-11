@@ -1,0 +1,9 @@
+new form called synth 11 52
+add a label called lblHead1 with text "Confirm transfer", top 26dp, left 120dp, skin sknlblAvenza0f223337pxBold
+add a label called lblSub2 with text "Use the credentials issued by your branch.", top 8dp, left 120dp, skin CopysknlblDescription0b6df324c89a54a
+add a label called lblField3 with text "Password", top 19dp, left 120dp, skin sknlblHeading0f223320px
+add a text box called tbx4 with placeholder "Enter your password", masked, width 55%, height 44dp, top 6dp, left 120dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a label called lblField5 with text "Full name", top 21dp, left 120dp, skin sknlblHeading0f223320px
+add a text box called tbx6 with placeholder "Enter your full name", width 55%, height 40dp, top 6dp, left 120dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a button called btn7 with text "Verify", width 55%, height 50dp, top 22dp, left 120dp, skin sknbtn15577d
+add a label called lblLink8 with text "Resend code", top 16dp, left 120dp, skin CopydefLabel0ac07d4ebd8e448

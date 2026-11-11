@@ -1,0 +1,205 @@
+{
+ "image": "frmDashboard-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "text",
+   "text": "Accounts",
+   "bbox_2d": [
+    25,
+    34,
+    104,
+    56
+   ],
+   "id": "MainHeader.lblAccounts"
+  },
+  {
+   "type": "text",
+   "text": "Transfers",
+   "bbox_2d": [
+    25,
+    34,
+    109,
+    57
+   ],
+   "id": "MainHeader.lblTransfer"
+  },
+  {
+   "type": "text",
+   "text": "Profile",
+   "bbox_2d": [
+    25,
+    34,
+    82,
+    57
+   ],
+   "id": "MainHeader.lblProfile"
+  },
+  {
+   "type": "text",
+   "text": "Avenza",
+   "bbox_2d": [
+    25,
+    24,
+    153,
+    66
+   ],
+   "id": "MainHeader.lblAvenza"
+  },
+  {
+   "type": "text",
+   "text": "Bank",
+   "bbox_2d": [
+    280,
+    24,
+    370,
+    66
+   ],
+   "id": "MainHeader.lblBank"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    90,
+    640,
+    900
+   ],
+   "id": "flxContent"
+  },
+  {
+   "type": "text",
+   "text": "5 accounts · last updated 09:42",
+   "bbox_2d": [
+    29,
+    156,
+    308,
+    179
+   ],
+   "id": "lblAccInfo"
+  },
+  {
+   "type": "text",
+   "text": "Good morning, Maya",
+   "bbox_2d": [
+    21,
+    106,
+    389,
+    148
+   ],
+   "id": "lblGM"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    31,
+    206,
+    176,
+    310
+   ],
+   "id": "flxTotBal"
+  },
+  {
+   "type": "text",
+   "text": "Total balence",
+   "bbox_2d": [
+    52,
+    227,
+    195,
+    264
+   ],
+   "id": "lblTotBal"
+  },
+  {
+   "type": "text",
+   "text": "$164,670.50",
+   "bbox_2d": [
+    52,
+    252,
+    136,
+    269
+   ],
+   "id": "lblToAMt"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    238,
+    206,
+    382,
+    310
+   ],
+   "id": "flxSpend"
+  },
+  {
+   "type": "text",
+   "text": "Available to spend",
+   "bbox_2d": [
+    251,
+    230,
+    393,
+    267
+   ],
+   "id": "lblAva"
+  },
+  {
+   "type": "text",
+   "text": "$66,981.15",
+   "bbox_2d": [
+    251,
+    260,
+    326,
+    277
+   ],
+   "id": "lblAmt2"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    445,
+    206,
+    589,
+    310
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Card outstanding",
+   "bbox_2d": [
+    458,
+    230,
+    572,
+    247
+   ],
+   "id": "lblCard"
+  },
+  {
+   "type": "text",
+   "text": "$2,310.65",
+   "bbox_2d": [
+    458,
+    260,
+    525,
+    277
+   ],
+   "id": "lblCardAmt"
+  },
+  {
+   "type": "text",
+   "text": "Your accounts",
+   "bbox_2d": [
+    38,
+    395,
+    175,
+    418
+   ],
+   "id": "lblYrAcc"
+  }
+ ]
+}

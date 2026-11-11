@@ -1,0 +1,106 @@
+{
+ "image": "frmSynth1148-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "text",
+   "text": "Confirm transfer",
+   "bbox_2d": [
+    120,
+    28,
+    395,
+    68
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "It only takes a few minutes.",
+   "bbox_2d": [
+    120,
+    76,
+    361,
+    99
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "Expiry",
+   "bbox_2d": [
+    120,
+    117,
+    166,
+    134
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "MM/YY",
+   "bbox_2d": [
+    120,
+    140,
+    258,
+    184
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "text",
+   "text": "CVV",
+   "bbox_2d": [
+    270,
+    117,
+    301,
+    134
+   ],
+   "id": "lblField8"
+  },
+  {
+   "type": "input",
+   "text": "123",
+   "bbox_2d": [
+    270,
+    140,
+    408,
+    184
+   ],
+   "id": "tbx9"
+  },
+  {
+   "type": "text",
+   "text": "Email address",
+   "bbox_2d": [
+    120,
+    203,
+    222,
+    220
+   ],
+   "id": "lblField10"
+  },
+  {
+   "type": "input",
+   "text": "name@example.com",
+   "bbox_2d": [
+    120,
+    226,
+    408,
+    276
+   ],
+   "id": "tbx11"
+  },
+  {
+   "type": "button",
+   "text": "Next",
+   "bbox_2d": [
+    120,
+    301,
+    408,
+    357
+   ],
+   "id": "btn12"
+  }
+ ]
+}

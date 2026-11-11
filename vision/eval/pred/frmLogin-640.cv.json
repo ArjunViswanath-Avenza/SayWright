@@ -1,0 +1,144 @@
+{
+ "image": "frmLogin-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    55,
+    1,
+    585,
+    675
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Sign In",
+   "bbox_2d": [
+    76,
+    446,
+    552,
+    506
+   ]
+  },
+  {
+   "type": "input",
+   "text": "Enter user id",
+   "bbox_2d": [
+    76,
+    181,
+    552,
+    241
+   ]
+  },
+  {
+   "type": "input",
+   "text": "Enter your password",
+   "bbox_2d": [
+    76,
+    306,
+    552,
+    366
+   ]
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    81,
+    386,
+    106,
+    411
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Sign in",
+   "bbox_2d": [
+    76,
+    40,
+    190,
+    80
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Use the credentials issued by your branch.",
+   "bbox_2d": [
+    76,
+    97,
+    358,
+    114
+   ]
+  },
+  {
+   "type": "text",
+   "text": "User Id",
+   "bbox_2d": [
+    82,
+    150,
+    132,
+    168
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Password",
+   "bbox_2d": [
+    79,
+    273,
+    150,
+    291
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Forget password?",
+   "bbox_2d": [
+    427,
+    275,
+    546,
+    292
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Keep me signed in on this device",
+   "bbox_2d": [
+    122,
+    389,
+    342,
+    406
+   ]
+  },
+  {
+   "type": "text",
+   "text": "New to Avenza Bank?",
+   "bbox_2d": [
+    245,
+    570,
+    391,
+    588
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Open an account",
+   "bbox_2d": [
+    244,
+    630,
+    358,
+    647
+   ]
+  }
+ ],
+ "stats": {
+  "model": "ocr+pixels",
+  "ocr_s": 2.9,
+  "wall_s": 3.3,
+  "lines": 11,
+  "blocks": 5
+ }
+}

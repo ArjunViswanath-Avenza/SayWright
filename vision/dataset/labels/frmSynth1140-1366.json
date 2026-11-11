@@ -1,0 +1,172 @@
+{
+ "image": "frmSynth1140-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1366,
+    900
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    443,
+    147,
+    923,
+    754
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Sign in",
+   "bbox_2d": [
+    472,
+    188,
+    589,
+    228
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "OTP",
+   "bbox_2d": [
+    472,
+    248,
+    513,
+    271
+   ],
+   "id": "lblField2"
+  },
+  {
+   "type": "input",
+   "text": "Enter 6-digit code",
+   "bbox_2d": [
+    472,
+    277,
+    893,
+    321
+   ],
+   "id": "tbx3"
+  },
+  {
+   "type": "text",
+   "text": "Account number",
+   "bbox_2d": [
+    472,
+    342,
+    631,
+    365
+   ],
+   "id": "lblField4"
+  },
+  {
+   "type": "input",
+   "text": "Enter account number",
+   "bbox_2d": [
+    472,
+    371,
+    893,
+    415
+   ],
+   "id": "tbx5"
+  },
+  {
+   "type": "text",
+   "text": "Amount",
+   "bbox_2d": [
+    472,
+    435,
+    548,
+    458
+   ],
+   "id": "lblField6"
+  },
+  {
+   "type": "input",
+   "text": "0.00",
+   "bbox_2d": [
+    472,
+    464,
+    893,
+    508
+   ],
+   "id": "tbx7"
+  },
+  {
+   "type": "text",
+   "text": "Reference",
+   "bbox_2d": [
+    472,
+    523,
+    569,
+    546
+   ],
+   "id": "lblField8"
+  },
+  {
+   "type": "input",
+   "text": "Add a reference",
+   "bbox_2d": [
+    472,
+    552,
+    893,
+    602
+   ],
+   "id": "tbx9"
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    472,
+    618,
+    494,
+    640
+   ],
+   "id": "flxCheck11"
+  },
+  {
+   "type": "text",
+   "text": "Keep me signed in on this device",
+   "bbox_2d": [
+    504,
+    618,
+    786,
+    640
+   ],
+   "id": "lblCheck12"
+  },
+  {
+   "type": "button",
+   "text": "Send code",
+   "bbox_2d": [
+    472,
+    666,
+    893,
+    716
+   ],
+   "id": "btn13"
+  },
+  {
+   "type": "text",
+   "text": "Forgot password?",
+   "bbox_2d": [
+    472,
+    732,
+    615,
+    753
+   ],
+   "id": "lblLink14"
+  }
+ ]
+}

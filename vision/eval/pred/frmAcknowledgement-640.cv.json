@@ -1,0 +1,274 @@
+{
+ "image": "frmAcknowledgement-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    640,
+    842
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    91,
+    639,
+    841
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    50,
+    132,
+    590,
+    640
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    90,
+    390,
+    550,
+    610
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    1,
+    639,
+    91
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    842,
+    640,
+    900
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Back to accounts",
+   "bbox_2d": [
+    49,
+    661,
+    591,
+    711
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    50,
+    730,
+    590,
+    778
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    265,
+    157,
+    375,
+    267
+   ]
+  },
+  {
+   "type": "image",
+   "text": "",
+   "bbox_2d": [
+    265,
+    157,
+    375,
+    267
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    34,
+    63,
+    606,
+    70
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Tranfer sent",
+   "bbox_2d": [
+    35,
+    20,
+    176,
+    49
+   ]
+  },
+  {
+   "type": "text",
+   "text": "3 of 3",
+   "bbox_2d": [
+    564,
+    25,
+    606,
+    44
+   ]
+  },
+  {
+   "type": "text",
+   "text": "On its way",
+   "bbox_2d": [
+    258,
+    277,
+    382,
+    305
+   ]
+  },
+  {
+   "type": "text",
+   "text": "$1,200.00 is on its way to Rahul Mehta.It",
+   "bbox_2d": [
+    167,
+    322,
+    473,
+    342
+   ]
+  },
+  {
+   "type": "text",
+   "text": "should land the same business day.",
+   "bbox_2d": [
+    186,
+    351,
+    453,
+    370
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Reference",
+   "bbox_2d": [
+    114,
+    426,
+    191,
+    445
+   ]
+  },
+  {
+   "type": "text",
+   "text": "TRF-2026-100482",
+   "bbox_2d": [
+    379,
+    425,
+    526,
+    446
+   ]
+  },
+  {
+   "type": "text",
+   "text": "From",
+   "bbox_2d": [
+    115,
+    471,
+    153,
+    490
+   ]
+  },
+  {
+   "type": "text",
+   "text": "123456XXXX",
+   "bbox_2d": [
+    419,
+    470,
+    527,
+    491
+   ]
+  },
+  {
+   "type": "text",
+   "text": "To",
+   "bbox_2d": [
+    113,
+    516,
+    131,
+    535
+   ]
+  },
+  {
+   "type": "text",
+   "text": "4455XXXX",
+   "bbox_2d": [
+    438,
+    515,
+    526,
+    536
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Posted",
+   "bbox_2d": [
+    114,
+    556,
+    166,
+    575
+   ]
+  },
+  {
+   "type": "text",
+   "text": "5 Oct, 09:47",
+   "bbox_2d": [
+    425,
+    555,
+    526,
+    581
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Another transfer",
+   "bbox_2d": [
+    257,
+    744,
+    383,
+    763
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Download receipt(PDF)",
+   "bbox_2d": [
+    221,
+    795,
+    419,
+    816
+   ]
+  }
+ ],
+ "stats": {
+  "model": "ocr+pixels",
+  "ocr_s": 2.3,
+  "wall_s": 2.6,
+  "lines": 16,
+  "blocks": 10
+ }
+}

@@ -1,0 +1,117 @@
+{
+ "image": "frmSynth1138-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "text",
+   "text": "Confirm transfer",
+   "bbox_2d": [
+    40,
+    24,
+    315,
+    64
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "From account",
+   "bbox_2d": [
+    40,
+    82,
+    139,
+    99
+   ],
+   "id": "lblField4"
+  },
+  {
+   "type": "input",
+   "text": "Select account",
+   "bbox_2d": [
+    40,
+    105,
+    178,
+    149
+   ],
+   "id": "tbx5"
+  },
+  {
+   "type": "text",
+   "text": "To account",
+   "bbox_2d": [
+    190,
+    82,
+    269,
+    99
+   ],
+   "id": "lblField7"
+  },
+  {
+   "type": "input",
+   "text": "Select account",
+   "bbox_2d": [
+    190,
+    105,
+    328,
+    149
+   ],
+   "id": "tbx8"
+  },
+  {
+   "type": "text",
+   "text": "User Id",
+   "bbox_2d": [
+    40,
+    165,
+    91,
+    182
+   ],
+   "id": "lblField9"
+  },
+  {
+   "type": "input",
+   "text": "Enter user id",
+   "bbox_2d": [
+    40,
+    188,
+    328,
+    228
+   ],
+   "id": "tbx10"
+  },
+  {
+   "type": "text",
+   "text": "Reference",
+   "bbox_2d": [
+    40,
+    242,
+    113,
+    259
+   ],
+   "id": "lblField11"
+  },
+  {
+   "type": "input",
+   "text": "Add a reference",
+   "bbox_2d": [
+    40,
+    265,
+    328,
+    309
+   ],
+   "id": "tbx12"
+  },
+  {
+   "type": "button",
+   "text": "Save changes",
+   "bbox_2d": [
+    40,
+    339,
+    328,
+    383
+   ],
+   "id": "btn13"
+  }
+ ]
+}

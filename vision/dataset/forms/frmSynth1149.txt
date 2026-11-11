@@ -1,0 +1,21 @@
+new form called synth 11 49
+make flxMain free
+add a flex called flxBg with layout free, width 100%, height 100%, skin CopyslFbox0e142d86d9d5243
+add a flex called flxCard with layout vertical, width 520dp, height preferred, center x 50%, center y 50%, skin CopyslFbox0a7856aec039c4d
+add a label called lblHead1 with text "Transfer money", top 35dp, left 28dp, skin sknlblHeading0f223320px
+add a label called lblSub2 with text "All fields are required.", top 8dp, left 28dp, skin sknLblDescription
+add a label called lblField3 with text "Amount", top 21dp, left 28dp, skin sknlblHeading0f223320px
+add a text box called tbx4 with placeholder "0.00", width 88%, height 50dp, top 6dp, left 28dp, skin skntbx5b6b7a15px
+add a label called lblField5 with text "Date of birth", top 16dp, left 28dp, skin sknlblHeading0f223320px
+add a text box called tbx6 with placeholder "DD/MM/YYYY", width 88%, height 40dp, top 6dp, left 28dp, skin skntbx5b6b7a15px
+add a label called lblField7 with text "Full name", top 21dp, left 28dp, skin sknlblHeading0f223320px
+add a text box called tbx8 with placeholder "Enter your full name", width 88%, height 50dp, top 6dp, left 28dp, skin skntbx5b6b7a15px
+add a label called lblField9 with text "Mobile number", top 14dp, left 28dp, skin sknlblHeading0f223320px
+add a text box called tbx10 with placeholder "Enter mobile number", width 88%, height 40dp, top 6dp, left 28dp, skin skntbx5b6b7a15px
+add a flex called flxRemember11 with layout horizontal, width preferred, height preferred, top 16dp, left 28dp
+add a flex called flxCheck12 with width 22dp, height 22dp, skin CopyslFbox0cf62699586c744
+select flxRemember11
+add a label called lblCheck13 with text "Keep me signed in on this device", left 10dp, skin sknLblDescription
+select flxCard
+add a button called btn14 with text "Send code", width 88%, height 44dp, top 19dp, left 28dp, skin CopydefBtnNormal0a5557b20e63745
+add a label called lblLink15 with text "Back to login", top 16dp, left 28dp, skin CopydefLabel0ac07d4ebd8e448

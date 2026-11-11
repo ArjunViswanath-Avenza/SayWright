@@ -1,0 +1,348 @@
+{
+ "image": "frmAddress-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1366,
+    900
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    11,
+    1365,
+    81
+   ],
+   "id": "flxHeader1"
+  },
+  {
+   "type": "text",
+   "text": "Avenza",
+   "bbox_2d": [
+    106,
+    61,
+    234,
+    103
+   ],
+   "id": "SignIn.lblAvenza"
+  },
+  {
+   "type": "text",
+   "text": "Bank",
+   "bbox_2d": [
+    232,
+    61,
+    322,
+    103
+   ],
+   "id": "SignIn.lblBank"
+  },
+  {
+   "type": "text",
+   "text": "Already have an account?",
+   "bbox_2d": [
+    952,
+    71,
+    1183,
+    94
+   ],
+   "id": "SignIn.lblAlhaveAcc"
+  },
+  {
+   "type": "text",
+   "text": "Sign in",
+   "bbox_2d": [
+    1202,
+    64,
+    1300,
+    101
+   ],
+   "id": "SignIn.lblSIgnIn"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    81,
+    1365,
+    171
+   ],
+   "id": "flxHeader2"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    104,
+    222,
+    1262,
+    232
+   ],
+   "id": "header2.flxFrstline"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    105,
+    223,
+    336,
+    231
+   ],
+   "id": "header2.flxInsindeline"
+  },
+  {
+   "type": "text",
+   "text": "Label",
+   "bbox_2d": [
+    106,
+    184,
+    171,
+    213
+   ],
+   "id": "header2.lblText1"
+  },
+  {
+   "type": "text",
+   "text": "Label",
+   "bbox_2d": [
+    1118,
+    184,
+    1167,
+    207
+   ],
+   "id": "header2.lblText2"
+  },
+  {
+   "type": "text",
+   "text": "Where do you live?",
+   "bbox_2d": [
+    251,
+    193,
+    662,
+    249
+   ],
+   "id": "lblTxt1"
+  },
+  {
+   "type": "text",
+   "text": "We post your card and statements here, so make sure it is current.",
+   "bbox_2d": [
+    251,
+    253,
+    841,
+    276
+   ],
+   "id": "lblTxt2"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    258,
+    329,
+    1108,
+    900
+   ],
+   "id": "flxDetailsbg"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    279,
+    346,
+    1085,
+    406
+   ],
+   "id": "flxRow1"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    299,
+    356,
+    339,
+    396
+   ],
+   "id": "imgBg"
+  },
+  {
+   "type": "image",
+   "text": "",
+   "bbox_2d": [
+    299,
+    356,
+    339,
+    396
+   ],
+   "id": "imgTick"
+  },
+  {
+   "type": "text",
+   "text": "Use the address printed on my passport",
+   "bbox_2d": [
+    357,
+    356,
+    839,
+    388
+   ],
+   "id": "lblSentence"
+  },
+  {
+   "type": "text",
+   "text": "Address line",
+   "bbox_2d": [
+    288,
+    428,
+    438,
+    457
+   ],
+   "id": "lblAddress"
+  },
+  {
+   "type": "input",
+   "text": "",
+   "bbox_2d": [
+    280,
+    467,
+    1086,
+    533
+   ],
+   "id": "tbxAddressline"
+  },
+  {
+   "type": "text",
+   "text": "Address line",
+   "bbox_2d": [
+    280,
+    560,
+    430,
+    589
+   ],
+   "id": "lblAddress2"
+  },
+  {
+   "type": "input",
+   "text": "",
+   "bbox_2d": [
+    280,
+    590,
+    1086,
+    656
+   ],
+   "id": "tbxAddress2"
+  },
+  {
+   "type": "text",
+   "text": "(optional)",
+   "bbox_2d": [
+    430,
+    565,
+    514,
+    588
+   ],
+   "id": "lblOptional"
+  },
+  {
+   "type": "text",
+   "text": "city",
+   "bbox_2d": [
+    280,
+    697,
+    323,
+    726
+   ],
+   "id": "city"
+  },
+  {
+   "type": "text",
+   "text": "state",
+   "bbox_2d": [
+    724,
+    697,
+    782,
+    726
+   ],
+   "id": "lblState"
+  },
+  {
+   "type": "input",
+   "text": "",
+   "bbox_2d": [
+    280,
+    739,
+    643,
+    799
+   ],
+   "id": "tbxcity"
+  },
+  {
+   "type": "dropdown",
+   "text": "TamilNadu",
+   "bbox_2d": [
+    721,
+    739,
+    1083,
+    799
+   ],
+   "id": "lstState"
+  },
+  {
+   "type": "text",
+   "text": "Pincode",
+   "bbox_2d": [
+    280,
+    829,
+    377,
+    858
+   ],
+   "id": "lblPincode"
+  },
+  {
+   "type": "text",
+   "text": "Country",
+   "bbox_2d": [
+    724,
+    829,
+    820,
+    858
+   ],
+   "id": "lblCountry"
+  },
+  {
+   "type": "input",
+   "text": "",
+   "bbox_2d": [
+    280,
+    871,
+    643,
+    900
+   ],
+   "id": "tbxPincode"
+  },
+  {
+   "type": "dropdown",
+   "text": "India",
+   "bbox_2d": [
+    721,
+    871,
+    1083,
+    900
+   ],
+   "id": "lstCountry"
+  }
+ ]
+}

@@ -1,0 +1,494 @@
+{
+ "image": "frmDashboard-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    91,
+    1365,
+    899
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1366,
+    108
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    896,
+    206,
+    1206,
+    310
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    111,
+    206,
+    420,
+    310
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    499,
+    206,
+    808,
+    310
+   ]
+  },
+  {
+   "type": "button",
+   "text": "New Transfer",
+   "bbox_2d": [
+    1091,
+    106,
+    1201,
+    151
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1176,
+    21,
+    1224,
+    69
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    131,
+    458,
+    173,
+    500
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    131,
+    539,
+    173,
+    581
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    131,
+    620,
+    173,
+    662
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    131,
+    701,
+    173,
+    743
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    131,
+    782,
+    173,
+    824
+   ]
+  },
+  {
+   "type": "text",
+   "text": "MF",
+   "bbox_2d": [
+    1179,
+    20,
+    1222,
+    71
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Avenza",
+   "bbox_2d": [
+    125,
+    22,
+    252,
+    65
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Bank",
+   "bbox_2d": [
+    255,
+    22,
+    343,
+    65
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Accounts",
+   "bbox_2d": [
+    415,
+    33,
+    494,
+    55
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Transfers",
+   "bbox_2d": [
+    523,
+    33,
+    606,
+    57
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Profile",
+   "bbox_2d": [
+    656,
+    33,
+    711,
+    57
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Maya Fernandes",
+   "bbox_2d": [
+    1016,
+    33,
+    1165,
+    56
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Good morning, Maya",
+   "bbox_2d": [
+    112,
+    105,
+    478,
+    147
+   ]
+  },
+  {
+   "type": "text",
+   "text": "5 accounts - last updated 09:42",
+   "bbox_2d": [
+    112,
+    155,
+    389,
+    178
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Total balence",
+   "bbox_2d": [
+    132,
+    226,
+    249,
+    250
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Available to spend",
+   "bbox_2d": [
+    520,
+    229,
+    682,
+    252
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Card outstanding",
+   "bbox_2d": [
+    918,
+    229,
+    1069,
+    252
+   ]
+  },
+  {
+   "type": "text",
+   "text": "$164,670.50",
+   "bbox_2d": [
+    132,
+    247,
+    299,
+    293
+   ]
+  },
+  {
+   "type": "text",
+   "text": "$66,981.15",
+   "bbox_2d": [
+    520,
+    255,
+    670,
+    301
+   ]
+  },
+  {
+   "type": "text",
+   "text": "$2,310.65",
+   "bbox_2d": [
+    918,
+    255,
+    1051,
+    301
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Your accounts",
+   "bbox_2d": [
+    111,
+    395,
+    282,
+    424
+   ]
+  },
+  {
+   "type": "text",
+   "text": "$12,450.75",
+   "bbox_2d": [
+    890,
+    457,
+    1015,
+    494
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Saving Account",
+   "bbox_2d": [
+    196,
+    459,
+    383,
+    487
+   ]
+  },
+  {
+   "type": "text",
+   "text": "123456XXXX",
+   "bbox_2d": [
+    198,
+    487,
+    316,
+    511
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Primary Savings",
+   "bbox_2d": [
+    891,
+    487,
+    1021,
+    508
+   ]
+  },
+  {
+   "type": "text",
+   "text": "$48,210.00",
+   "bbox_2d": [
+    890,
+    538,
+    1014,
+    575
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Current ACcount",
+   "bbox_2d": [
+    197,
+    540,
+    396,
+    569
+   ]
+  },
+  {
+   "type": "text",
+   "text": "778812XXXX",
+   "bbox_2d": [
+    196,
+    568,
+    316,
+    592
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Business Current",
+   "bbox_2d": [
+    891,
+    568,
+    1028,
+    589
+   ]
+  },
+  {
+   "type": "text",
+   "text": "$6,320.40",
+   "bbox_2d": [
+    890,
+    619,
+    1000,
+    656
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Salary Account",
+   "bbox_2d": [
+    196,
+    621,
+    377,
+    649
+   ]
+  },
+  {
+   "type": "text",
+   "text": "990045XXXX",
+   "bbox_2d": [
+    196,
+    649,
+    316,
+    673
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Payroll",
+   "bbox_2d": [
+    891,
+    649,
+    944,
+    670
+   ]
+  },
+  {
+   "type": "text",
+   "text": "$100,000.00",
+   "bbox_2d": [
+    890,
+    700,
+    1028,
+    737
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Fixed Deposit",
+   "bbox_2d": [
+    197,
+    702,
+    359,
+    730
+   ]
+  },
+  {
+   "type": "text",
+   "text": "556677XXXX",
+   "bbox_2d": [
+    196,
+    723,
+    316,
+    755
+   ]
+  },
+  {
+   "type": "text",
+   "text": "FD 2026",
+   "bbox_2d": [
+    891,
+    730,
+    959,
+    751
+   ]
+  },
+  {
+   "type": "text",
+   "text": "-$2,310.65",
+   "bbox_2d": [
+    891,
+    781,
+    1009,
+    818
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Credit Card",
+   "bbox_2d": [
+    197,
+    783,
+    331,
+    812
+   ]
+  },
+  {
+   "type": "text",
+   "text": "889900XXXX",
+   "bbox_2d": [
+    196,
+    811,
+    316,
+    835
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Platinum card",
+   "bbox_2d": [
+    891,
+    811,
+    999,
+    832
+   ]
+  }
+ ],
+ "stats": {
+  "model": "ocr+pixels",
+  "ocr_s": 5.3,
+  "wall_s": 6.7,
+  "lines": 37,
+  "blocks": 12
+ }
+}

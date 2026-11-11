@@ -1,0 +1,84 @@
+{
+ "image": "frmSynth1159-1024.png",
+ "width": 1024,
+ "height": 900,
+ "elements": [
+  {
+   "type": "text",
+   "text": "Update profile",
+   "bbox_2d": [
+    120,
+    33,
+    368,
+    75
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Your data is encrypted end to end.",
+   "bbox_2d": [
+    120,
+    83,
+    424,
+    106
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "Account number",
+   "bbox_2d": [
+    120,
+    128,
+    240,
+    145
+   ],
+   "id": "lblField3"
+  },
+  {
+   "type": "input",
+   "text": "Enter account number",
+   "bbox_2d": [
+    120,
+    151,
+    581,
+    201
+   ],
+   "id": "tbx4"
+  },
+  {
+   "type": "text",
+   "text": "Card number",
+   "bbox_2d": [
+    120,
+    217,
+    214,
+    234
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "XXXX XXXX XXXX XXXX",
+   "bbox_2d": [
+    120,
+    240,
+    581,
+    280
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "button",
+   "text": "Submit",
+   "bbox_2d": [
+    120,
+    302,
+    581,
+    358
+   ],
+   "id": "btn7"
+  }
+ ]
+}

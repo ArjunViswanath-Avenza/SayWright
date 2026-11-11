@@ -1,0 +1,216 @@
+{
+ "image": "frmSynth1131-1024.png",
+ "width": 1024,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    358,
+    900
+   ],
+   "id": "flxBrand"
+  },
+  {
+   "type": "text",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    60,
+    50,
+    277,
+    92
+   ],
+   "id": "lblLogo"
+  },
+  {
+   "type": "text",
+   "text": "Banking for every day.",
+   "bbox_2d": [
+    60,
+    152,
+    311,
+    236
+   ],
+   "id": "lblTagline"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    358,
+    0,
+    1024,
+    900
+   ],
+   "id": "flxRight"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    471,
+    161,
+    911,
+    739
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Transfer money",
+   "bbox_2d": [
+    496,
+    193,
+    757,
+    233
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "All fields are required.",
+   "bbox_2d": [
+    496,
+    241,
+    690,
+    264
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "Expiry",
+   "bbox_2d": [
+    496,
+    282,
+    542,
+    299
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "MM/YY",
+   "bbox_2d": [
+    496,
+    305,
+    681,
+    349
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "text",
+   "text": "CVV",
+   "bbox_2d": [
+    697,
+    282,
+    728,
+    299
+   ],
+   "id": "lblField8"
+  },
+  {
+   "type": "input",
+   "text": "123",
+   "bbox_2d": [
+    697,
+    305,
+    882,
+    349
+   ],
+   "id": "tbx9"
+  },
+  {
+   "type": "text",
+   "text": "Postal code",
+   "bbox_2d": [
+    496,
+    367,
+    581,
+    384
+   ],
+   "id": "lblField10"
+  },
+  {
+   "type": "input",
+   "text": "Enter postal code",
+   "bbox_2d": [
+    496,
+    390,
+    882,
+    440
+   ],
+   "id": "tbx11"
+  },
+  {
+   "type": "text",
+   "text": "Mobile number",
+   "bbox_2d": [
+    496,
+    462,
+    603,
+    479
+   ],
+   "id": "lblField12"
+  },
+  {
+   "type": "input",
+   "text": "Enter mobile number",
+   "bbox_2d": [
+    496,
+    485,
+    882,
+    535
+   ],
+   "id": "tbx13"
+  },
+  {
+   "type": "text",
+   "text": "OTP",
+   "bbox_2d": [
+    496,
+    556,
+    527,
+    573
+   ],
+   "id": "lblField14"
+  },
+  {
+   "type": "input",
+   "text": "Enter 6-digit code",
+   "bbox_2d": [
+    496,
+    579,
+    882,
+    623
+   ],
+   "id": "tbx15"
+  },
+  {
+   "type": "button",
+   "text": "Verify",
+   "bbox_2d": [
+    496,
+    651,
+    882,
+    701
+   ],
+   "id": "btn16"
+  },
+  {
+   "type": "text",
+   "text": "Need help?",
+   "bbox_2d": [
+    496,
+    717,
+    588,
+    738
+   ],
+   "id": "lblLink17"
+  }
+ ]
+}

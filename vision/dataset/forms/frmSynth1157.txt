@@ -1,0 +1,24 @@
+new form called synth 11 57
+add a label called lblHead1 with text "Open an account", top 28dp, left 120dp, skin CopydefLabel0b958727ed83141
+add a flex called flxPair2 with layout horizontal, width 45%, height preferred, top 18dp, left 120dp
+select flxPair2
+add a flex called flxCol3 with layout vertical, width 48%, height preferred, left 0%
+add a label called lblField4 with text "First name", skin sknlblHeading0f223320px
+add a text box called tbx5 with placeholder "Enter first name", width 100%, height 44dp, top 6dp, skin CopydefTextBoxNormal0d77bd26223a145
+select flxPair2
+add a flex called flxCol6 with layout vertical, width 48%, height preferred, left 4%
+add a label called lblField7 with text "Last name", skin sknlblHeading0f223320px
+add a text box called tbx8 with placeholder "Enter last name", width 100%, height 44dp, top 6dp, skin CopydefTextBoxNormal0d77bd26223a145
+select flxMain
+add a label called lblField9 with text "IBAN", top 19dp, left 120dp, skin sknlblHeading0f223320px
+add a text box called tbx10 with placeholder "Enter IBAN", width 45%, height 44dp, top 6dp, left 120dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a label called lblField11 with text "Confirm password", top 14dp, left 120dp, skin sknlblHeading0f223320px
+add a text box called tbx12 with placeholder "Re-enter password", masked, width 45%, height 40dp, top 6dp, left 120dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a label called lblField13 with text "Beneficiary name", top 17dp, left 120dp, skin sknlblHeading0f223320px
+add a text box called tbx14 with placeholder "Enter beneficiary name", width 45%, height 44dp, top 6dp, left 120dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a flex called flxRemember15 with layout horizontal, width preferred, height preferred, top 16dp, left 120dp
+add a flex called flxCheck16 with width 22dp, height 22dp, skin CopyslFbox0cf62699586c744
+select flxRemember15
+add a label called lblCheck17 with text "Keep me signed in on this device", left 10dp, skin sknLblDescription
+select flxMain
+add a button called btn18 with text "Transfer now", width 45%, height 44dp, top 26dp, left 120dp, skin sknbtn15577d

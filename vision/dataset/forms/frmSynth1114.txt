@@ -1,0 +1,27 @@
+new form called synth 11 14
+make flxMain horizontal
+add a flex called flxBrand with layout vertical, width 40%, height 100%, skin sknflx0f2233
+add a label called lblLogo with text "AvenzaBank", top 50dp, left 60dp, skin CopydefLabel0c4a8fec8b9624a
+add a label called lblTagline with text "Banking for every day.", width 70%, top 60dp, left 60dp, skin CopydefLabel0c4a8fec8b9624a
+select flxMain
+add a flex called flxRight with layout free, width 60%, height 100%, skin CopyslFbox0g86f15b4a96841
+add a flex called flxCard with layout vertical, width 440dp, height preferred, center x 50%, center y 50%, skin CopyslFbox0ad85847653fd46
+add a label called lblHead1 with text "Open an account", top 25dp, left 24dp, skin CopydefLabel0b958727ed83141
+add a flex called flxPair2 with layout horizontal, width 88%, height preferred, top 18dp, left 24dp
+select flxPair2
+add a flex called flxCol3 with layout vertical, width 48%, height preferred, left 0%
+add a label called lblField4 with text "Expiry", skin sknlblHeading0f223320px
+add a text box called tbx5 with placeholder "MM/YY", width 100%, height 44dp, top 6dp, skin CopydefTextBoxNormal0d77bd26223a145
+select flxPair2
+add a flex called flxCol6 with layout vertical, width 48%, height preferred, left 4%
+add a label called lblField7 with text "CVV", skin sknlblHeading0f223320px
+add a text box called tbx8 with placeholder "123", width 100%, height 44dp, top 6dp, skin CopydefTextBoxNormal0d77bd26223a145
+select flxCard
+add a label called lblField9 with text "OTP", top 20dp, left 24dp, skin sknlblHeading0f223320px
+add a text box called tbx10 with placeholder "Enter 6-digit code", width 88%, height 44dp, top 6dp, left 24dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a label called lblField11 with text "Mobile number", top 22dp, left 24dp, skin sknlblHeading0f223320px
+add a text box called tbx12 with placeholder "Enter mobile number", width 88%, height 44dp, top 6dp, left 24dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a label called lblField13 with text "Account number", top 15dp, left 24dp, skin sknlblHeading0f223320px
+add a text box called tbx14 with placeholder "Enter account number", width 88%, height 40dp, top 6dp, left 24dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a button called btn15 with text "Continue", width 88%, height 50dp, top 20dp, left 24dp, skin sknbtn15577d
+add a label called lblLink16 with text "Need help?", top 16dp, left 24dp, skin CopydefLabel0ac07d4ebd8e448

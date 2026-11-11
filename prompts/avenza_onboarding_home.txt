@@ -1,0 +1,129 @@
+create a flex skin called sknObPage with background 070720 to 0b0b2e, vertical
+create a flex skin called sknObGlowViolet with background 4f46e5 at 38%, radius 10, glow 4f46e5 at 38% blur 320 spread 150
+create a flex skin called sknObGlowCyan with background 22d3ee at 13%, radius 10, glow 22d3ee at 13% blur 280 spread 110
+create a flex skin called sknObLogo with background 6d5efc, radius 8
+create a flex skin called sknObGhost with background ffffff at 5%, border ffffff at 14%, radius 12
+create a flex skin called sknObPill with background ffffff at 5%, border ffffff at 18%, radius 15
+create a flex skin called sknObBadge with background 2563eb at 22%, border 2563eb at 30%, radius 15
+create a flex skin called sknObDot with background 22d3ee, radius 5
+create a flex skin called sknObCard with background 7c3aed to 22d3ee, angle 90, radius 22, glow 6d5efc at 45% blur 60
+create a flex skin called sknObCardBack with background ffffff at 4%, border ffffff at 10%, radius 18
+create a flex skin called sknObCardChip with background e2c275, radius 6
+create a flex skin called sknObIcon with background 6d5efc at 28%, radius 10
+create a flex skin called sknObIconCyan with background 22d3ee at 18%, radius 10
+create a flex skin called sknObStepNo with background ffffff at 8%, radius 18
+create a label skin called sknObNav with text ffffff at 85%, size 15
+create a label skin called sknObBrand with text ffffff, size 21, bold
+create a label skin called sknObHeadline with text ffffff, size 60, bold
+create a label skin called sknObBody with text c7c9d3, size 19
+create a label skin called sknObStrong with text ffffff, size 15, bold
+create a label skin called sknObMuted with text ffffff at 55%, size 13
+create a label skin called sknObBadgeText with text 7dd3fc, size 14
+create a label skin called sknObCardBrand with text ffffff, size 16, bold
+create a label skin called sknObCardText with text ffffff at 85%, size 14
+create a label skin called sknObCardNumber with text ffffff, size 18
+create a label skin called sknObStepNumber with text 7dd3fc, size 16, bold
+create a button skin called sknObBtnWhite with background ffffff, text 0a0a23, size 16, bold, radius 14
+create a button skin called sknObBtnGhost with background ffffff at 8%, text ffffff, size 16, bold, border ffffff at 18%, radius 14
+new form called onboarding home
+make flxMain free
+add a flex called flxPage with layout free, width 100%, height 906dp, skin sknObPage
+add a flex called flxGlowViolet with width 2dp, height 2dp, top 170dp, left 300dp, skin sknObGlowViolet
+select flxPage
+add a flex called flxGlowCyan with width 2dp, height 2dp, top 640dp, left 1130dp, skin sknObGlowCyan
+select flxPage
+add a flex called flxHeader with layout free, width 1130dp, height 44dp, top 20dp, left 118dp
+add a flex called flxLogoMark with layout free, width 28dp, height 28dp, left 0dp, center y 50%, skin sknObLogo
+add a label called lblLogoMark with text "A", center x 50%, center y 50%, skin sknObStrong
+select flxHeader
+add a label called lblBrand with text "avenza", left 38dp, center y 50%, skin sknObBrand
+add a label called lblNavPersonal with text "Personal", left 161dp, center y 50%, skin sknObNav
+add a label called lblNavBusiness with text "Business", left 255dp, center y 50%, skin sknObNav
+add a label called lblNavWealth with text "Wealth", left 349dp, center y 50%, skin sknObNav
+add a label called lblNavHelp with text "Help", left 431dp, center y 50%, skin sknObNav
+add a flex called flxLanguage with layout free, width 86dp, height 30dp, left 766dp, center y 50%, skin sknObPill
+add a label called lblLanguage with text "EN / AR", center x 50%, center y 50%, skin sknObNav
+select flxHeader
+add a button called btnResumeHeader with text "Resume application", width 170dp, height 42dp, left 865dp, center y 50%, skin sknObBtnGhost
+add a button called btnSignIn with text "Sign in", width 83dp, height 40dp, left 1047dp, center y 50%, skin sknObBtnWhite
+select flxPage
+add a flex called flxHero with layout vertical, width 620dp, height preferred, top 192dp, left 118dp
+add a flex called flxBadge with layout free, width 262dp, height 30dp, top 0dp, left 0dp, skin sknObBadge
+add a flex called flxBadgeDot with width 10dp, height 10dp, left 12dp, center y 50%, skin sknObDot
+select flxBadge
+add a label called lblBadge with text "Open an account in ~6 minutes", left 30dp, center y 50%, skin sknObBadgeText
+select flxHero
+add a label called lblHeadline with text "Banking that moves at your speed.", width 610dp, top 14dp, left 0dp, skin sknObHeadline
+add a label called lblSubtext with text "100% digital onboarding. All you need is your Emirates ID and a quick selfie. No branch visits, no paperwork.", width 500dp, top 14dp, left 0dp, skin sknObBody
+add a flex called flxActions with layout horizontal, width preferred, height preferred, top 28dp, left 0dp
+add a button called btnStart with text "Start new application →", width 243dp, height 55dp, skin sknObBtnWhite
+add a button called btnResume with text "Resume application", width 208dp, height 55dp, left 12dp, skin sknObBtnGhost
+select flxHero
+add a flex called flxFeatures with layout horizontal, width preferred, height preferred, top 28dp, left 0dp
+add a flex called flxDotInstant with width 10dp, height 10dp, center y 50%, skin sknObDot
+select flxFeatures
+add a label called lblInstant with text "Instant account", left 8dp, skin sknObNav
+add a flex called flxDotPaper with width 10dp, height 10dp, left 26dp, center y 50%, skin sknObDot
+select flxFeatures
+add a label called lblPaper with text "Zero paperwork", left 8dp, skin sknObNav
+add a flex called flxDotSecure with width 10dp, height 10dp, left 26dp, center y 50%, skin sknObDot
+select flxFeatures
+add a label called lblSecure with text "Bank-grade security", left 8dp, skin sknObNav
+select flxPage
+add a flex called flxVisual with layout free, width 509dp, height 454dp, top 163dp, left 741dp
+add a flex called flxCardBack with width 200dp, height 90dp, top 19dp, left 86dp, skin sknObCardBack
+select flxVisual
+add a flex called flxCard with layout free, width 435dp, height 272dp, top 66dp, left 37dp, skin sknObCard
+add a label called lblCardBrand with text "avenza", top 20dp, left 21dp, skin sknObCardBrand
+add a flex called flxCardChip with width 39dp, height 29dp, top 102dp, left 21dp, skin sknObCardChip
+select flxCard
+add a label called lblCardHolder with text "SARA AL MANSOORI", top 208dp, left 21dp, skin sknObCardText
+add a label called lblCardNumber with text "•••• 2048", top 230dp, left 21dp, skin sknObCardNumber
+add a label called lblCardType with text "DEBIT", top 230dp, left 368dp, skin sknObCardText
+select flxVisual
+add a flex called flxChipRate with layout free, width 215dp, height 60dp, top 0dp, left 294dp, skin sknObGhost
+add a flex called flxRateIcon with width 32dp, height 32dp, left 14dp, center y 50%, skin sknObIcon
+select flxChipRate
+add a label called lblRate with text "3.50% p.a.", top 9dp, left 58dp, skin sknObStrong
+add a label called lblRateNote with text "on Standard Savings", top 30dp, left 58dp, skin sknObMuted
+select flxVisual
+add a flex called flxChipOpened with layout free, width 215dp, height 60dp, top 379dp, left 0dp, skin sknObGhost
+add a flex called flxOpenedIcon with width 32dp, height 32dp, left 14dp, center y 50%, skin sknObIconCyan
+select flxChipOpened
+add a label called lblOpened with text "Account opened", top 9dp, left 58dp, skin sknObStrong
+add a label called lblOpenedNote with text "in 5 min 42 sec", top 30dp, left 58dp, skin sknObMuted
+select flxVisual
+add a flex called flxChipFace with layout free, width 215dp, height 60dp, top 394dp, left 294dp, skin sknObGhost
+add a flex called flxFaceIcon with width 32dp, height 32dp, left 14dp, center y 50%, skin sknObIconCyan
+select flxChipFace
+add a label called lblFace with text "Face match 99.2%", top 9dp, left 58dp, skin sknObStrong
+add a label called lblFaceNote with text "Verified in seconds", top 30dp, left 58dp, skin sknObMuted
+select flxPage
+add a flex called flxSteps with layout horizontal, width 1130dp, height 84dp, top 770dp, left 118dp
+add a flex called flxStepOne with layout free, width 270dp, height 84dp, skin sknObGhost
+add a flex called flxStepOneNo with layout free, width 36dp, height 36dp, left 20dp, center y 50%, skin sknObStepNo
+add a label called lblStepOneNo with text "1", center x 50%, center y 50%, skin sknObStepNumber
+select flxStepOne
+add a label called lblStepOne with text "Choose a product", top 18dp, left 72dp, skin sknObStrong
+add a label called lblStepOneNote with text "Savings, current, deposits", top 42dp, left 72dp, skin sknObMuted
+select flxSteps
+add a flex called flxStepTwo with layout free, width 270dp, height 84dp, left 17dp, skin sknObGhost
+add a flex called flxStepTwoNo with layout free, width 36dp, height 36dp, left 20dp, center y 50%, skin sknObStepNo
+add a label called lblStepTwoNo with text "2", center x 50%, center y 50%, skin sknObStepNumber
+select flxStepTwo
+add a label called lblStepTwo with text "Verify contact", top 18dp, left 72dp, skin sknObStrong
+add a label called lblStepTwoNote with text "Mobile and email OTP", top 42dp, left 72dp, skin sknObMuted
+select flxSteps
+add a flex called flxStepThree with layout free, width 270dp, height 84dp, left 17dp, skin sknObGhost
+add a flex called flxStepThreeNo with layout free, width 36dp, height 36dp, left 20dp, center y 50%, skin sknObStepNo
+add a label called lblStepThreeNo with text "3", center x 50%, center y 50%, skin sknObStepNumber
+select flxStepThree
+add a label called lblStepThree with text "Scan ID & selfie", top 18dp, left 72dp, skin sknObStrong
+add a label called lblStepThreeNote with text "Auto-filled in seconds", top 42dp, left 72dp, skin sknObMuted
+select flxSteps
+add a flex called flxStepFour with layout free, width 270dp, height 84dp, left 17dp, skin sknObGhost
+add a flex called flxStepFourNo with layout free, width 36dp, height 36dp, left 20dp, center y 50%, skin sknObStepNo
+add a label called lblStepFourNo with text "4", center x 50%, center y 50%, skin sknObStepNumber
+select flxStepFour
+add a label called lblStepFour with text "Start banking", top 18dp, left 72dp, skin sknObStrong
+add a label called lblStepFourNote with text "Card ready instantly", top 42dp, left 72dp, skin sknObMuted

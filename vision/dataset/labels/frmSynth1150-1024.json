@@ -1,0 +1,161 @@
+{
+ "image": "frmSynth1150-1024.png",
+ "width": 1024,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    307,
+    900
+   ],
+   "id": "flxBrand"
+  },
+  {
+   "type": "text",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    61,
+    51,
+    278,
+    93
+   ],
+   "id": "lblLogo"
+  },
+  {
+   "type": "text",
+   "text": "Your money, your way.",
+   "bbox_2d": [
+    61,
+    153,
+    275,
+    221
+   ],
+   "id": "lblTagline"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    307,
+    0,
+    1024,
+    900
+   ],
+   "id": "flxRight"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    446,
+    212,
+    886,
+    689
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Pay a bill",
+   "bbox_2d": [
+    471,
+    247,
+    623,
+    287
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Amount",
+   "bbox_2d": [
+    471,
+    307,
+    546,
+    330
+   ],
+   "id": "lblField2"
+  },
+  {
+   "type": "input",
+   "text": "0.00",
+   "bbox_2d": [
+    471,
+    336,
+    856,
+    386
+   ],
+   "id": "tbx3"
+  },
+  {
+   "type": "text",
+   "text": "Full name",
+   "bbox_2d": [
+    471,
+    400,
+    564,
+    423
+   ],
+   "id": "lblField4"
+  },
+  {
+   "type": "input",
+   "text": "Enter your full name",
+   "bbox_2d": [
+    471,
+    429,
+    856,
+    479
+   ],
+   "id": "tbx5"
+  },
+  {
+   "type": "text",
+   "text": "Mobile number",
+   "bbox_2d": [
+    471,
+    498,
+    613,
+    521
+   ],
+   "id": "lblField6"
+  },
+  {
+   "type": "input",
+   "text": "Enter mobile number",
+   "bbox_2d": [
+    471,
+    527,
+    856,
+    577
+   ],
+   "id": "tbx7"
+  },
+  {
+   "type": "button",
+   "text": "Sign In",
+   "bbox_2d": [
+    471,
+    601,
+    856,
+    651
+   ],
+   "id": "btn8"
+  },
+  {
+   "type": "text",
+   "text": "Forgot password?",
+   "bbox_2d": [
+    471,
+    667,
+    614,
+    688
+   ],
+   "id": "lblLink9"
+  }
+ ]
+}

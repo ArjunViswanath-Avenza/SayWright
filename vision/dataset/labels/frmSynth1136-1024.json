@@ -1,0 +1,194 @@
+{
+ "image": "frmSynth1136-1024.png",
+ "width": 1024,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    307,
+    900
+   ],
+   "id": "flxBrand"
+  },
+  {
+   "type": "text",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    60,
+    50,
+    277,
+    92
+   ],
+   "id": "lblLogo"
+  },
+  {
+   "type": "text",
+   "text": "Banking that stays out of your way.",
+   "bbox_2d": [
+    60,
+    152,
+    275,
+    254
+   ],
+   "id": "lblTagline"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    307,
+    0,
+    1024,
+    900
+   ],
+   "id": "flxRight"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    446,
+    183,
+    886,
+    718
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Pay a bill",
+   "bbox_2d": [
+    471,
+    220,
+    623,
+    260
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "It only takes a few minutes.",
+   "bbox_2d": [
+    471,
+    268,
+    712,
+    291
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "Full name",
+   "bbox_2d": [
+    471,
+    310,
+    564,
+    333
+   ],
+   "id": "lblField3"
+  },
+  {
+   "type": "input",
+   "text": "Enter your full name",
+   "bbox_2d": [
+    471,
+    339,
+    856,
+    379
+   ],
+   "id": "tbx4"
+  },
+  {
+   "type": "text",
+   "text": "Date of birth",
+   "bbox_2d": [
+    471,
+    401,
+    588,
+    424
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "DD/MM/YYYY",
+   "bbox_2d": [
+    471,
+    430,
+    856,
+    470
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "text",
+   "text": "Amount",
+   "bbox_2d": [
+    471,
+    488,
+    546,
+    511
+   ],
+   "id": "lblField7"
+  },
+  {
+   "type": "input",
+   "text": "0.00",
+   "bbox_2d": [
+    471,
+    517,
+    856,
+    561
+   ],
+   "id": "tbx8"
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    471,
+    577,
+    493,
+    599
+   ],
+   "id": "flxCheck10"
+  },
+  {
+   "type": "text",
+   "text": "Keep me signed in on this device",
+   "bbox_2d": [
+    503,
+    577,
+    784,
+    599
+   ],
+   "id": "lblCheck11"
+  },
+  {
+   "type": "button",
+   "text": "Next",
+   "bbox_2d": [
+    471,
+    624,
+    856,
+    680
+   ],
+   "id": "btn12"
+  },
+  {
+   "type": "text",
+   "text": "Need help?",
+   "bbox_2d": [
+    471,
+    696,
+    562,
+    717
+   ],
+   "id": "lblLink13"
+  }
+ ]
+}

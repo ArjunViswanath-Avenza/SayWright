@@ -1,0 +1,23 @@
+new form called synth 11 3
+make flxMain free
+add a flex called flxBg with layout free, width 100%, height 100%, skin CopyslFbox0g86f15b4a96841
+add a flex called flxCard with layout vertical, width 560dp, height preferred, center x 50%, center y 50%, skin CopyslFbox0a7856aec039c4d
+add a label called lblHead1 with text "Reset password", top 36dp, left 28dp, skin CopydefLabel0b958727ed83141
+add a flex called flxPair2 with layout horizontal, width 88%, height preferred, top 18dp, left 28dp
+select flxPair2
+add a flex called flxCol3 with layout vertical, width 48%, height preferred, left 0%
+add a label called lblField4 with text "Expiry", skin sknlblHeading0f223320px
+add a text box called tbx5 with placeholder "MM/YY", width 100%, height 44dp, top 6dp, skin skntbx5b6b7a15px
+select flxPair2
+add a flex called flxCol6 with layout vertical, width 48%, height preferred, left 4%
+add a label called lblField7 with text "CVV", skin sknlblHeading0f223320px
+add a text box called tbx8 with placeholder "123", width 100%, height 44dp, top 6dp, skin skntbx5b6b7a15px
+select flxCard
+add a label called lblField9 with text "Amount", top 18dp, left 28dp, skin sknlblHeading0f223320px
+add a text box called tbx10 with placeholder "0.00", width 88%, height 40dp, top 6dp, left 28dp, skin skntbx5b6b7a15px
+add a label called lblField11 with text "Full name", top 17dp, left 28dp, skin sknlblHeading0f223320px
+add a text box called tbx12 with placeholder "Enter your full name", width 88%, height 40dp, top 6dp, left 28dp, skin skntbx5b6b7a15px
+add a label called lblField13 with text "Confirm password", top 20dp, left 28dp, skin sknlblHeading0f223320px
+add a text box called tbx14 with placeholder "Re-enter password", masked, width 88%, height 50dp, top 6dp, left 28dp, skin skntbx5b6b7a15px
+add a button called btn15 with text "Submit", width 88%, height 44dp, top 20dp, left 28dp, skin sknbtn15577d
+add a label called lblLink16 with text "Forgot password?", top 16dp, left 28dp, skin CopydefLabel0ac07d4ebd8e448

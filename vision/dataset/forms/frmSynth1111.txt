@@ -1,0 +1,19 @@
+new form called synth 11 11
+make flxMain horizontal
+add a flex called flxBrand with layout vertical, width 40%, height 100%, skin sknflx0f2233
+add a label called lblLogo with text "AvenzaBank", top 50dp, left 60dp, skin CopydefLabel0g3ca6c356c1746
+add a label called lblTagline with text "Banking for every day.", width 70%, top 60dp, left 60dp, skin sknlblffffff30px
+select flxMain
+add a flex called flxRight with layout free, width 60%, height 100%, skin sknflxE3E9EE
+add a flex called flxCard with layout vertical, width 520dp, height preferred, center x 50%, center y 50%, skin sknflxE3E9EE
+add a label called lblHead1 with text "Reset password", top 37dp, left 24dp, skin sknlblHeading0f223320px
+add a label called lblSub2 with text "It only takes a few minutes.", top 8dp, left 24dp, skin sknLblDescription
+add a label called lblField3 with text "Beneficiary name", top 20dp, left 24dp, skin sknlblSubheading00000015px
+add a text box called tbx4 with placeholder "Enter beneficiary name", width 88%, height 40dp, top 6dp, left 24dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a label called lblField5 with text "Email address", top 21dp, left 24dp, skin sknlblSubheading00000015px
+add a text box called tbx6 with placeholder "name@example.com", width 88%, height 44dp, top 6dp, left 24dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a label called lblField7 with text "Amount", top 17dp, left 24dp, skin sknlblSubheading00000015px
+add a text box called tbx8 with placeholder "0.00", width 88%, height 50dp, top 6dp, left 24dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a label called lblField9 with text "Date of birth", top 14dp, left 24dp, skin sknlblSubheading00000015px
+add a text box called tbx10 with placeholder "DD/MM/YYYY", width 88%, height 44dp, top 6dp, left 24dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a button called btn11 with text "Send code", width 88%, height 50dp, top 25dp, left 24dp, skin CopydefBtnNormal0a5557b20e63745

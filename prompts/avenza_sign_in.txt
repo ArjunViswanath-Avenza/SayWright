@@ -1,0 +1,34 @@
+new form called login voice
+make flxMain horizontal
+add a flex called flxLeftPanel with layout vertical, width 35%, height 100%, skin sknflx0f2233
+add a flex called flxBrand with layout horizontal, width preferred, height preferred, top 50dp, left 60dp
+add a label called lblAvenza with text "Avenza", skin CopydefLabel0c08cfe8ca13b4b
+add a label called lblBank with text "Bank", skin CopydefLabel0c7937e5e36bd40
+select flxLeftPanel
+add a label called lblBanking with text "Banking that stays out of your way.", width 70%, top 90dp, left 60dp, skin CopydefLabel0g3ca6c356c1746
+add a label called lblInfo with text "Accounts, transfers and statements in one place. Secured with 256-bit encryption.", width 75%, top 100dp, left 60dp
+add a flex called flxBadges with layout horizontal, width preferred, height preferred, top 30dp, left 60dp
+add a label called lblFdic with text "FDIC insured", skin CopydefLabel0d9c36a8cc7b24d
+add a label called lblSupport with text "24/7 support", left 14dp, skin CopydefLabel0d9c36a8cc7b24d
+add a label called lblVersion with text "v2.4.0", left 14dp, skin CopydefLabel0d9c36a8cc7b24d
+select flxMain
+add a flex called flxRight with layout free, width 65%, height 100%, skin sknflxE3E9EE
+add a flex called flxCard with layout vertical, width 500dp, height 520dp, center x 50%, center y 50%, skin sknflxE3E9EE
+add a label called lblSignIn with text "Sign in", top 30dp, left 16dp, skin CopydefLabel0b958727ed83141
+add a label called lblSignInInfo with text "Use the credentials issued by your branch.", top 8dp, left 16dp
+add a label called lblUserId with text "User Id", top 16dp, left 16dp, skin sknlblSubheading00000015px
+add a text box called tbxUserId with placeholder "Enter user id", width 405dp, height 50dp, top 8dp, left 16dp, skin skntbx5b6b7a15px
+add a flex called flxPasswordRow with layout horizontal, width 405dp, height preferred, top 20dp, left 16dp
+add a label called lblPassword with text "Password", width 50%, skin sknlblSubheading00000015px
+add a label called lblForgot with text "Forget password?", width 50%, align right, skin CopydefLabel0ac07d4ebd8e448
+select flxCard
+add a text box called tbxPassword with placeholder "Enter your password", masked, width 405dp, height 50dp, top 8dp, left 16dp, skin skntbx5b6b7a15px
+add a flex called flxRemember with layout horizontal, width 405dp, height preferred, top 16dp, left 16dp
+add a flex called flxCheck with width 22dp, height 22dp, skin CopyslFbox0cf62699586c744
+select flxRemember
+add a label called lblRemember with text "Keep me signed in on this device", left 10dp, skin sknLblDescription
+select flxCard
+add a button called btnSignIn with text "Sign In", width 405dp, height 50dp, top 24dp, left 16dp
+add a flex called flxOpenAccount with layout horizontal, width preferred, height preferred, top 40dp, center x 50%
+add a label called lblNewToBank with text "New to Avenza Bank?", skin sknLblDescription
+add a label called lblOpenAccount with text "Open an account", left 6dp, skin CopydefLabel0ac07d4ebd8e448

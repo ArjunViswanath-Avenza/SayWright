@@ -1,0 +1,10 @@
+{
+  "name": "saywright",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Saywright: say it, see it, ship it. Voice-built Temenos Visualizer forms with a live React canvas.",
+  "main": "main.mjs",
+  "type": "module",
+  "scripts": { "start": "electron ." },
+  "devDependencies": { "electron": "33.2.1" }
+}

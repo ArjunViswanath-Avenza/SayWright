@@ -1,0 +1,20 @@
+new form called synth 11 5
+make flxMain horizontal
+add a flex called flxBrand with layout vertical, width 40%, height 100%, skin CopyslFbox0bb493771c5f743
+add a label called lblLogo with text "AvenzaBank", top 50dp, left 60dp, skin CopydefLabel0g3ca6c356c1746
+add a label called lblTagline with text "Banking for every day.", width 70%, top 60dp, left 60dp, skin sknlblffffff30px
+select flxMain
+add a flex called flxRight with layout free, width 60%, height 100%, skin CopyslFbox0e142d86d9d5243
+add a flex called flxCard with layout vertical, width 520dp, height preferred, center x 50%, center y 50%, skin CopyslFbox0ad85847653fd46
+add a label called lblHead1 with text "Verify your identity", top 36dp, left 24dp, skin CopydefLabel0b958727ed83141
+add a label called lblField2 with text "Mobile number", top 17dp, left 24dp, skin sknlblSubheading00000015px
+add a text box called tbx3 with placeholder "Enter mobile number", width 88%, height 40dp, top 6dp, left 24dp, skin skntbx5b6b7a15px
+add a label called lblField4 with text "Confirm password", top 14dp, left 24dp, skin sknlblSubheading00000015px
+add a text box called tbx5 with placeholder "Re-enter password", masked, width 88%, height 40dp, top 6dp, left 24dp, skin skntbx5b6b7a15px
+add a flex called flxRemember6 with layout horizontal, width preferred, height preferred, top 16dp, left 24dp
+add a flex called flxCheck7 with width 22dp, height 22dp, skin CopyslFbox0cf62699586c744
+select flxRemember6
+add a label called lblCheck8 with text "Keep me signed in on this device", left 10dp, skin sknLblDescription
+select flxCard
+add a button called btn9 with text "Pay now", width 88%, height 44dp, top 18dp, left 24dp, skin sknbtn15577d
+add a label called lblLink10 with text "Terms and conditions", top 16dp, left 24dp, skin CopydefLabel0ac07d4ebd8e448

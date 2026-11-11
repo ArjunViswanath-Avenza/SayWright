@@ -1,0 +1,117 @@
+{
+ "image": "frmSynth1135-1024.png",
+ "width": 1024,
+ "height": 900,
+ "elements": [
+  {
+   "type": "text",
+   "text": "Open an account",
+   "bbox_2d": [
+    120,
+    28,
+    404,
+    68
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Your data is encrypted end to end.",
+   "bbox_2d": [
+    120,
+    76,
+    424,
+    99
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "User Id",
+   "bbox_2d": [
+    120,
+    119,
+    188,
+    142
+   ],
+   "id": "lblField3"
+  },
+  {
+   "type": "input",
+   "text": "Enter user id",
+   "bbox_2d": [
+    120,
+    148,
+    683,
+    188
+   ],
+   "id": "tbx4"
+  },
+  {
+   "type": "text",
+   "text": "Beneficiary name",
+   "bbox_2d": [
+    120,
+    203,
+    286,
+    226
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "Enter beneficiary name",
+   "bbox_2d": [
+    120,
+    232,
+    683,
+    272
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "text",
+   "text": "City",
+   "bbox_2d": [
+    120,
+    287,
+    158,
+    310
+   ],
+   "id": "lblField7"
+  },
+  {
+   "type": "input",
+   "text": "Enter city",
+   "bbox_2d": [
+    120,
+    316,
+    683,
+    356
+   ],
+   "id": "tbx8"
+  },
+  {
+   "type": "button",
+   "text": "Sign In",
+   "bbox_2d": [
+    120,
+    377,
+    683,
+    421
+   ],
+   "id": "btn9"
+  },
+  {
+   "type": "text",
+   "text": "Back to login",
+   "bbox_2d": [
+    120,
+    437,
+    223,
+    458
+   ],
+   "id": "lblLink10"
+  }
+ ]
+}

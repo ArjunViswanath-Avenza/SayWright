@@ -1,0 +1,15 @@
+{
+ "image": "frmPersonalDetails-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [],
+ "stats": {
+  "model": "qwen2.5vl:7b",
+  "wall_s": 750.9,
+  "prompt_tokens": 1289,
+  "output_tokens": 3000,
+  "prompt_s": 99.0,
+  "output_s": 651.8,
+  "output_tok_per_s": 4.6
+ }
+}

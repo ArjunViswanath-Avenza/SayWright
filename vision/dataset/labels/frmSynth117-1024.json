@@ -1,0 +1,172 @@
+{
+ "image": "frmSynth117-1024.png",
+ "width": 1024,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1024,
+    900
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    252,
+    166,
+    772,
+    734
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Set up your login",
+   "bbox_2d": [
+    281,
+    202,
+    567,
+    242
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Postal code",
+   "bbox_2d": [
+    281,
+    257,
+    365,
+    274
+   ],
+   "id": "lblField2"
+  },
+  {
+   "type": "input",
+   "text": "Enter postal code",
+   "bbox_2d": [
+    281,
+    280,
+    737,
+    320
+   ],
+   "id": "tbx3"
+  },
+  {
+   "type": "text",
+   "text": "Amount",
+   "bbox_2d": [
+    281,
+    335,
+    338,
+    352
+   ],
+   "id": "lblField4"
+  },
+  {
+   "type": "input",
+   "text": "0.00",
+   "bbox_2d": [
+    281,
+    358,
+    737,
+    408
+   ],
+   "id": "tbx5"
+  },
+  {
+   "type": "text",
+   "text": "Reference",
+   "bbox_2d": [
+    281,
+    423,
+    354,
+    440
+   ],
+   "id": "lblField6"
+  },
+  {
+   "type": "input",
+   "text": "Add a reference",
+   "bbox_2d": [
+    281,
+    446,
+    737,
+    490
+   ],
+   "id": "tbx7"
+  },
+  {
+   "type": "text",
+   "text": "Full name",
+   "bbox_2d": [
+    281,
+    510,
+    351,
+    527
+   ],
+   "id": "lblField8"
+  },
+  {
+   "type": "input",
+   "text": "Enter your full name",
+   "bbox_2d": [
+    281,
+    533,
+    737,
+    583
+   ],
+   "id": "tbx9"
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    281,
+    599,
+    303,
+    621
+   ],
+   "id": "flxCheck11"
+  },
+  {
+   "type": "text",
+   "text": "Keep me signed in on this device",
+   "bbox_2d": [
+    313,
+    599,
+    595,
+    621
+   ],
+   "id": "lblCheck12"
+  },
+  {
+   "type": "button",
+   "text": "Pay now",
+   "bbox_2d": [
+    281,
+    646,
+    737,
+    696
+   ],
+   "id": "btn13"
+  },
+  {
+   "type": "text",
+   "text": "Resend code",
+   "bbox_2d": [
+    281,
+    712,
+    387,
+    733
+   ],
+   "id": "lblLink14"
+  }
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "image": "frmSynth1121-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    224,
+    900
+   ],
+   "id": "flxBrand"
+  },
+  {
+   "type": "text",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    61,
+    51,
+    278,
+    93
+   ],
+   "id": "lblLogo"
+  },
+  {
+   "type": "text",
+   "text": "Banking that stays out of your way.",
+   "bbox_2d": [
+    61,
+    153,
+    216,
+    405
+   ],
+   "id": "lblTagline"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    224,
+    0,
+    640,
+    900
+   ],
+   "id": "flxRight"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    172,
+    312,
+    640,
+    588
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Verify your identity",
+   "bbox_2d": [
+    197,
+    347,
+    530,
+    389
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "It only takes a few minutes.",
+   "bbox_2d": [
+    197,
+    397,
+    438,
+    420
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "Expiry",
+   "bbox_2d": [
+    197,
+    438,
+    243,
+    455
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "MM/YY",
+   "bbox_2d": [
+    197,
+    461,
+    416,
+    505
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "text",
+   "text": "CVV",
+   "bbox_2d": [
+    434,
+    438,
+    465,
+    455
+   ],
+   "id": "lblField8"
+  },
+  {
+   "type": "input",
+   "text": "123",
+   "bbox_2d": [
+    434,
+    461,
+    640,
+    505
+   ],
+   "id": "tbx9"
+  },
+  {
+   "type": "button",
+   "text": "Send code",
+   "bbox_2d": [
+    197,
+    531,
+    640,
+    587
+   ],
+   "id": "btn10"
+  }
+ ]
+}

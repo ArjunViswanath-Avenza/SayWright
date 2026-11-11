@@ -1,0 +1,161 @@
+{
+ "image": "frmSignInVision-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    464,
+    900
+   ],
+   "id": "flxLeftPanel"
+  },
+  {
+   "type": "text",
+   "text": "Banking that stays out of your way.",
+   "bbox_2d": [
+    68,
+    189,
+    397,
+    273
+   ],
+   "id": "lblBankingThatStays"
+  },
+  {
+   "type": "text",
+   "text": "Accounts, transfers and statements in one place. Secured with 256-bit encryption.",
+   "bbox_2d": [
+    68,
+    392,
+    405,
+    461
+   ],
+   "id": "lblAccountsTransfersAnd"
+  },
+  {
+   "type": "text",
+   "text": "FDIC insured 24/7 support v2.4.0",
+   "bbox_2d": [
+    68,
+    499,
+    318,
+    519
+   ],
+   "id": "lblFdicInsured24"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    464,
+    0,
+    1366,
+    900
+   ],
+   "id": "flxRightPanel"
+  },
+  {
+   "type": "text",
+   "text": "Sign in",
+   "bbox_2d": [
+    652,
+    46,
+    736,
+    75
+   ],
+   "id": "lblSignIn"
+  },
+  {
+   "type": "text",
+   "text": "Use the credentials issued by your branch.",
+   "bbox_2d": [
+    652,
+    99,
+    973,
+    119
+   ],
+   "id": "lblUseCredentialsIssued"
+  },
+  {
+   "type": "input",
+   "text": "Enter user id",
+   "bbox_2d": [
+    652,
+    171,
+    1133,
+    228
+   ],
+   "id": "tbxUserId"
+  },
+  {
+   "type": "text",
+   "text": "Forgot password?",
+   "bbox_2d": [
+    987,
+    263,
+    1123,
+    283
+   ],
+   "id": "lblForgotPassword"
+  },
+  {
+   "type": "input",
+   "text": "Enter your password",
+   "bbox_2d": [
+    652,
+    300,
+    1133,
+    357
+   ],
+   "id": "tbxPassword"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    660,
+    380,
+    680,
+    397
+   ],
+   "id": "flxCheck"
+  },
+  {
+   "type": "text",
+   "text": "Keep me signed in on this device",
+   "bbox_2d": [
+    777,
+    381,
+    795,
+    398
+   ],
+   "id": "lblKeepMeSigned"
+  },
+  {
+   "type": "button",
+   "text": "Sign In",
+   "bbox_2d": [
+    653,
+    438,
+    1123,
+    497
+   ],
+   "id": "btnSignIn"
+  },
+  {
+   "type": "text",
+   "text": "New to Avenza Bank? Open an account",
+   "bbox_2d": [
+    732,
+    566,
+    998,
+    583
+   ],
+   "id": "lblNewAvenzaBank"
+  }
+ ]
+}

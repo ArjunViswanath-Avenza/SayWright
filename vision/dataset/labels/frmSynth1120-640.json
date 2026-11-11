@@ -1,0 +1,150 @@
+{
+ "image": "frmSynth1120-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    640,
+    120
+   ],
+   "id": "flxHeader"
+  },
+  {
+   "type": "text",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    40,
+    28,
+    218,
+    62
+   ],
+   "id": "lblLogo"
+  },
+  {
+   "type": "text",
+   "text": "Your money, your way.",
+   "bbox_2d": [
+    40,
+    70,
+    240,
+    93
+   ],
+   "id": "lblTagline"
+  },
+  {
+   "type": "text",
+   "text": "Verify your identity",
+   "bbox_2d": [
+    40,
+    155,
+    355,
+    195
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "We will send a code to your phone.",
+   "bbox_2d": [
+    40,
+    203,
+    351,
+    226
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "From account",
+   "bbox_2d": [
+    40,
+    244,
+    139,
+    261
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "Select account",
+   "bbox_2d": [
+    40,
+    267,
+    194,
+    311
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "text",
+   "text": "To account",
+   "bbox_2d": [
+    206,
+    244,
+    286,
+    261
+   ],
+   "id": "lblField8"
+  },
+  {
+   "type": "input",
+   "text": "Select account",
+   "bbox_2d": [
+    206,
+    267,
+    360,
+    311
+   ],
+   "id": "tbx9"
+  },
+  {
+   "type": "text",
+   "text": "Reference",
+   "bbox_2d": [
+    40,
+    330,
+    113,
+    347
+   ],
+   "id": "lblField10"
+  },
+  {
+   "type": "input",
+   "text": "Add a reference",
+   "bbox_2d": [
+    40,
+    353,
+    360,
+    393
+   ],
+   "id": "tbx11"
+  },
+  {
+   "type": "button",
+   "text": "Sign In",
+   "bbox_2d": [
+    40,
+    412,
+    360,
+    468
+   ],
+   "id": "btn12"
+  },
+  {
+   "type": "text",
+   "text": "Back to login",
+   "bbox_2d": [
+    40,
+    484,
+    143,
+    505
+   ],
+   "id": "lblLink13"
+  }
+ ]
+}

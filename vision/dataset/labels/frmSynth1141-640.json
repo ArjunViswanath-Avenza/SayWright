@@ -1,0 +1,117 @@
+{
+ "image": "frmSynth1141-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    224,
+    900
+   ],
+   "id": "flxBrand"
+  },
+  {
+   "type": "text",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    61,
+    51,
+    278,
+    93
+   ],
+   "id": "lblLogo"
+  },
+  {
+   "type": "text",
+   "text": "Banking for every day.",
+   "bbox_2d": [
+    61,
+    153,
+    216,
+    321
+   ],
+   "id": "lblTagline"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    224,
+    0,
+    640,
+    900
+   ],
+   "id": "flxRight"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    172,
+    318,
+    640,
+    583
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Verify your identity",
+   "bbox_2d": [
+    197,
+    357,
+    512,
+    397
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Check the details before you continue.",
+   "bbox_2d": [
+    197,
+    405,
+    537,
+    428
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "Password",
+   "bbox_2d": [
+    197,
+    450,
+    291,
+    473
+   ],
+   "id": "lblField3"
+  },
+  {
+   "type": "input",
+   "text": "Enter your password",
+   "bbox_2d": [
+    197,
+    479,
+    640,
+    519
+   ],
+   "id": "tbx4"
+  },
+  {
+   "type": "button",
+   "text": "Verify",
+   "bbox_2d": [
+    197,
+    538,
+    640,
+    582
+   ],
+   "id": "btn5"
+  }
+ ]
+}

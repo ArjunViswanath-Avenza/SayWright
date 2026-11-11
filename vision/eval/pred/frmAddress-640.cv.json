@@ -1,0 +1,254 @@
+{
+ "image": "frmAddress-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    33,
+    201,
+    607,
+    900
+   ]
+  },
+  {
+   "type": "input",
+   "text": "",
+   "bbox_2d": [
+    1,
+    1,
+    639,
+    91
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    63,
+    218,
+    577,
+    268
+   ]
+  },
+  {
+   "type": "dropdown",
+   "text": "1 year",
+   "bbox_2d": [
+    63,
+    850,
+    577,
+    900
+   ]
+  },
+  {
+   "type": "dropdown",
+   "text": "TamilNadu",
+   "bbox_2d": [
+    338,
+    594,
+    544,
+    660
+   ]
+  },
+  {
+   "type": "input",
+   "text": "",
+   "bbox_2d": [
+    63,
+    594,
+    268,
+    660
+   ]
+  },
+  {
+   "type": "dropdown",
+   "text": "India",
+   "bbox_2d": [
+    338,
+    733,
+    544,
+    793
+   ]
+  },
+  {
+   "type": "input",
+   "text": "",
+   "bbox_2d": [
+    63,
+    733,
+    268,
+    793
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    52,
+    143,
+    157,
+    151
+   ]
+  },
+  {
+   "type": "image",
+   "text": "",
+   "bbox_2d": [
+    52,
+    143,
+    157,
+    151
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    83,
+    233,
+    108,
+    253
+   ]
+  },
+  {
+   "type": "image",
+   "text": "",
+   "bbox_2d": [
+    83,
+    233,
+    108,
+    253
+   ]
+  },
+  {
+   "type": "text",
+   "text": "where do you live?",
+   "bbox_2d": [
+    103,
+    100,
+    359,
+    152
+   ]
+  },
+  {
+   "type": "text",
+   "text": "We post",
+   "bbox_2d": [
+    114,
+    140,
+    160,
+    159
+   ]
+  },
+  {
+   "type": "text",
+   "text": "your card and statements here",
+   "bbox_2d": [
+    163,
+    140,
+    339,
+    159
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Use the address printed on my passport",
+   "bbox_2d": [
+    206,
+    232,
+    435,
+    248
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Address line",
+   "bbox_2d": [
+    71,
+    290,
+    161,
+    308
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Address line",
+   "bbox_2d": [
+    63,
+    422,
+    153,
+    440
+   ]
+  },
+  {
+   "type": "text",
+   "text": "(optional)",
+   "bbox_2d": [
+    213,
+    426,
+    296,
+    449
+   ]
+  },
+  {
+   "type": "text",
+   "text": "city",
+   "bbox_2d": [
+    63,
+    559,
+    88,
+    576
+   ]
+  },
+  {
+   "type": "text",
+   "text": "state",
+   "bbox_2d": [
+    284,
+    560,
+    319,
+    576
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Pincode",
+   "bbox_2d": [
+    63,
+    691,
+    121,
+    709
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Country",
+   "bbox_2d": [
+    283,
+    691,
+    340,
+    708
+   ]
+  },
+  {
+   "type": "text",
+   "text": "How long have you lived here?",
+   "bbox_2d": [
+    63,
+    823,
+    283,
+    840
+   ]
+  }
+ ],
+ "stats": {
+  "model": "ocr+pixels",
+  "ocr_s": 2.5,
+  "wall_s": 3.1,
+  "lines": 15,
+  "blocks": 10
+ }
+}

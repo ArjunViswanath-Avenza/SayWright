@@ -1,0 +1,161 @@
+{
+ "image": "frmSynth1150-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    410,
+    900
+   ],
+   "id": "flxBrand"
+  },
+  {
+   "type": "text",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    61,
+    51,
+    278,
+    93
+   ],
+   "id": "lblLogo"
+  },
+  {
+   "type": "text",
+   "text": "Your money, your way.",
+   "bbox_2d": [
+    61,
+    153,
+    346,
+    221
+   ],
+   "id": "lblTagline"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    410,
+    0,
+    1366,
+    900
+   ],
+   "id": "flxRight"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    668,
+    212,
+    1108,
+    689
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Pay a bill",
+   "bbox_2d": [
+    693,
+    247,
+    845,
+    287
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Amount",
+   "bbox_2d": [
+    693,
+    307,
+    768,
+    330
+   ],
+   "id": "lblField2"
+  },
+  {
+   "type": "input",
+   "text": "0.00",
+   "bbox_2d": [
+    693,
+    336,
+    1078,
+    386
+   ],
+   "id": "tbx3"
+  },
+  {
+   "type": "text",
+   "text": "Full name",
+   "bbox_2d": [
+    693,
+    400,
+    786,
+    423
+   ],
+   "id": "lblField4"
+  },
+  {
+   "type": "input",
+   "text": "Enter your full name",
+   "bbox_2d": [
+    693,
+    429,
+    1078,
+    479
+   ],
+   "id": "tbx5"
+  },
+  {
+   "type": "text",
+   "text": "Mobile number",
+   "bbox_2d": [
+    693,
+    498,
+    835,
+    521
+   ],
+   "id": "lblField6"
+  },
+  {
+   "type": "input",
+   "text": "Enter mobile number",
+   "bbox_2d": [
+    693,
+    527,
+    1078,
+    577
+   ],
+   "id": "tbx7"
+  },
+  {
+   "type": "button",
+   "text": "Sign In",
+   "bbox_2d": [
+    693,
+    601,
+    1078,
+    651
+   ],
+   "id": "btn8"
+  },
+  {
+   "type": "text",
+   "text": "Forgot password?",
+   "bbox_2d": [
+    693,
+    667,
+    836,
+    688
+   ],
+   "id": "lblLink9"
+  }
+ ]
+}

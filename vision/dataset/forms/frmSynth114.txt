@@ -1,0 +1,25 @@
+new form called synth 11 4
+add a flex called flxHeader with layout vertical, width 100%, height 120dp, skin sknflx0f2233
+add a label called lblLogo with text "AvenzaBank", top 28dp, left 40dp, skin CopydefLabel0g3ca6c356c1746
+add a label called lblTagline with text "Your money, your way.", top 8dp, left 40dp, skin sknlblffffff20px
+select flxMain
+add a label called lblHead1 with text "Update profile", top 31dp, left 40dp, skin sknlblHeading0f223320px
+add a label called lblSub2 with text "All fields are required.", top 8dp, left 40dp, skin sknLblDescription
+add a flex called flxPair3 with layout horizontal, width 60%, height preferred, top 18dp, left 40dp
+select flxPair3
+add a flex called flxCol4 with layout vertical, width 48%, height preferred, left 0%
+add a label called lblField5 with text "First name", skin sknlblSubheading00000015px
+add a text box called tbx6 with placeholder "Enter first name", width 100%, height 44dp, top 6dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+select flxPair3
+add a flex called flxCol7 with layout vertical, width 48%, height preferred, left 4%
+add a label called lblField8 with text "Last name", skin sknlblSubheading00000015px
+add a text box called tbx9 with placeholder "Enter last name", width 100%, height 44dp, top 6dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+select flxMain
+add a label called lblField10 with text "Reference", top 17dp, left 40dp, skin sknlblSubheading00000015px
+add a text box called tbx11 with placeholder "Add a reference", width 60%, height 50dp, top 6dp, left 40dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a label called lblField12 with text "Card number", top 17dp, left 40dp, skin sknlblSubheading00000015px
+add a text box called tbx13 with placeholder "XXXX XXXX XXXX XXXX", width 60%, height 40dp, top 6dp, left 40dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a label called lblField14 with text "Password", top 22dp, left 40dp, skin sknlblSubheading00000015px
+add a text box called tbx15 with placeholder "Enter your password", masked, width 60%, height 40dp, top 6dp, left 40dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a button called btn16 with text "Verify", width 60%, height 50dp, top 27dp, left 40dp, skin sknbtn15577d
+add a label called lblLink17 with text "Forgot password?", top 16dp, left 40dp, skin CopydefLabel0ac07d4ebd8e448

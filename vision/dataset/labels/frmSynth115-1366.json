@@ -1,0 +1,161 @@
+{
+ "image": "frmSynth115-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    546,
+    900
+   ],
+   "id": "flxBrand"
+  },
+  {
+   "type": "text",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    61,
+    51,
+    278,
+    93
+   ],
+   "id": "lblLogo"
+  },
+  {
+   "type": "text",
+   "text": "Banking for every day.",
+   "bbox_2d": [
+    61,
+    153,
+    442,
+    187
+   ],
+   "id": "lblTagline"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    546,
+    0,
+    1366,
+    900
+   ],
+   "id": "flxRight"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    696,
+    264,
+    1216,
+    636
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Verify your identity",
+   "bbox_2d": [
+    721,
+    301,
+    1037,
+    341
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Mobile number",
+   "bbox_2d": [
+    721,
+    358,
+    828,
+    375
+   ],
+   "id": "lblField2"
+  },
+  {
+   "type": "input",
+   "text": "Enter mobile number",
+   "bbox_2d": [
+    721,
+    381,
+    1177,
+    421
+   ],
+   "id": "tbx3"
+  },
+  {
+   "type": "text",
+   "text": "Confirm password",
+   "bbox_2d": [
+    721,
+    435,
+    853,
+    452
+   ],
+   "id": "lblField4"
+  },
+  {
+   "type": "input",
+   "text": "Re-enter password",
+   "bbox_2d": [
+    721,
+    458,
+    1177,
+    498
+   ],
+   "id": "tbx5"
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    721,
+    514,
+    743,
+    536
+   ],
+   "id": "flxCheck7"
+  },
+  {
+   "type": "text",
+   "text": "Keep me signed in on this device",
+   "bbox_2d": [
+    753,
+    514,
+    1035,
+    536
+   ],
+   "id": "lblCheck8"
+  },
+  {
+   "type": "button",
+   "text": "Pay now",
+   "bbox_2d": [
+    721,
+    554,
+    1177,
+    598
+   ],
+   "id": "btn9"
+  },
+  {
+   "type": "text",
+   "text": "Terms and conditions",
+   "bbox_2d": [
+    721,
+    614,
+    891,
+    635
+   ],
+   "id": "lblLink10"
+  }
+ ]
+}

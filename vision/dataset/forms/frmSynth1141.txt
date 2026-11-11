@@ -1,0 +1,13 @@
+new form called synth 11 41
+make flxMain horizontal
+add a flex called flxBrand with layout vertical, width 35%, height 100%, skin sknflx15577d
+add a label called lblLogo with text "AvenzaBank", top 50dp, left 60dp, skin CopydefLabel0c4a8fec8b9624a
+add a label called lblTagline with text "Banking for every day.", width 70%, top 60dp, left 60dp, skin CopydefLabel0c4a8fec8b9624a
+select flxMain
+add a flex called flxRight with layout free, width 65%, height 100%, skin CopyslFbox0e142d86d9d5243
+add a flex called flxCard with layout vertical, width 520dp, height preferred, center x 50%, center y 50%, skin sknflxHeaderBorder5b6b7a20px
+add a label called lblHead1 with text "Verify your identity", top 38dp, left 24dp, skin CopydefLabel0b958727ed83141
+add a label called lblSub2 with text "Check the details before you continue.", top 8dp, left 24dp, skin CopysknlblDescription0b6df324c89a54a
+add a label called lblField3 with text "Password", top 22dp, left 24dp, skin sknlblHeading0f223320px
+add a text box called tbx4 with placeholder "Enter your password", masked, width 88%, height 40dp, top 6dp, left 24dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a button called btn5 with text "Verify", width 88%, height 44dp, top 19dp, left 24dp, skin CopydefBtnNormal0a5557b20e63745

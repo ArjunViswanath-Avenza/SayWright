@@ -1,0 +1,62 @@
+{
+ "image": "frmSynth1118-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "text",
+   "text": "Update profile",
+   "bbox_2d": [
+    40,
+    32,
+    288,
+    74
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "We will send a code to your phone.",
+   "bbox_2d": [
+    40,
+    82,
+    339,
+    104
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "Email address",
+   "bbox_2d": [
+    40,
+    121,
+    176,
+    144
+   ],
+   "id": "lblField3"
+  },
+  {
+   "type": "input",
+   "text": "name@example.com",
+   "bbox_2d": [
+    40,
+    150,
+    518,
+    190
+   ],
+   "id": "tbx4"
+  },
+  {
+   "type": "button",
+   "text": "Save changes",
+   "bbox_2d": [
+    40,
+    213,
+    518,
+    269
+   ],
+   "id": "btn5"
+  }
+ ]
+}

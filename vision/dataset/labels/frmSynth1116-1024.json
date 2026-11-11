@@ -1,0 +1,117 @@
+{
+ "image": "frmSynth1116-1024.png",
+ "width": 1024,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1024,
+    900
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    232,
+    263,
+    792,
+    637
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Transfer money",
+   "bbox_2d": [
+    261,
+    294,
+    410,
+    317
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "It only takes a few minutes.",
+   "bbox_2d": [
+    261,
+    325,
+    502,
+    348
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "Confirm password",
+   "bbox_2d": [
+    261,
+    363,
+    393,
+    380
+   ],
+   "id": "lblField3"
+  },
+  {
+   "type": "input",
+   "text": "Re-enter password",
+   "bbox_2d": [
+    261,
+    386,
+    752,
+    430
+   ],
+   "id": "tbx4"
+  },
+  {
+   "type": "text",
+   "text": "Date of birth",
+   "bbox_2d": [
+    261,
+    450,
+    350,
+    467
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "DD/MM/YYYY",
+   "bbox_2d": [
+    261,
+    473,
+    752,
+    513
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "button",
+   "text": "Verify",
+   "bbox_2d": [
+    261,
+    543,
+    752,
+    599
+   ],
+   "id": "btn7"
+  },
+  {
+   "type": "text",
+   "text": "Open an account",
+   "bbox_2d": [
+    261,
+    615,
+    398,
+    636
+   ],
+   "id": "lblLink8"
+  }
+ ]
+}

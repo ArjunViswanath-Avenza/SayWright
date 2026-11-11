@@ -1,0 +1,170 @@
+{
+ "project": "C:\\Projects\\LLM\\Learn\\visualizer-copilot\\work\\head\\AvenzaBank",
+ "forms": [
+  {
+   "form": "Form1",
+   "widgets": 1,
+   "types": {},
+   "controller": true
+  },
+  {
+   "form": "frmAcknowledgement",
+   "widgets": 42,
+   "types": {
+    "FlexContainer": 19,
+    "UserWidgetInstance": 2,
+    "Label": 15,
+    "Image": 1,
+    "Button": 4
+   },
+   "controller": true
+  },
+  {
+   "form": "frmAddress",
+   "widgets": 38,
+   "types": {
+    "FlexContainer": 15,
+    "UserWidgetInstance": 3,
+    "Label": 11,
+    "Image": 1,
+    "TextField": 4,
+    "ListBox": 3
+   },
+   "controller": true
+  },
+  {
+   "form": "frmDashboard",
+   "widgets": 24,
+   "types": {
+    "FlexContainer": 10,
+    "UserWidgetInstance": 1,
+    "Label": 9,
+    "Button": 1,
+    "Segment": 1
+   },
+   "controller": true
+  },
+  {
+   "form": "frmIdentity",
+   "widgets": 46,
+   "types": {
+    "FlexScrollContainer": 2,
+    "FlexContainer": 18,
+    "UserWidgetInstance": 3,
+    "Label": 12,
+    "ListBox": 1,
+    "TextField": 1,
+    "Image": 3,
+    "Button": 5
+   },
+   "controller": true
+  },
+  {
+   "form": "frmLogin",
+   "widgets": 28,
+   "types": {
+    "FlexContainer": 11,
+    "Label": 13,
+    "TextField": 2,
+    "Button": 1
+   },
+   "controller": true
+  },
+  {
+   "form": "frmOpenAccount",
+   "widgets": 48,
+   "types": {
+    "FlexContainer": 22,
+    "UserWidgetInstance": 2,
+    "Image": 4,
+    "Label": 17,
+    "ListBox": 1,
+    "Button": 1
+   },
+   "controller": true
+  },
+  {
+   "form": "frmPersonalDetails",
+   "widgets": 40,
+   "types": {
+    "FlexContainer": 18,
+    "UserWidgetInstance": 2,
+    "Label": 10,
+    "TextField": 4,
+    "Calendar": 1,
+    "ListBox": 2,
+    "Button": 2
+   },
+   "controller": true
+  },
+  {
+   "form": "frmProfile",
+   "widgets": 58,
+   "types": {
+    "FlexContainer": 29,
+    "UserWidgetInstance": 1,
+    "Label": 26,
+    "Button": 1
+   },
+   "controller": true
+  }
+ ],
+ "templates": 1,
+ "components": 10,
+ "skins": 256,
+ "images": 4,
+ "notes": [
+  "image home_icon_silhouette.png not found in resources/",
+  "image right__1_.png not found in resources/"
+ ],
+ "baseFont": 16,
+ "componentControllers": [
+  {
+   "kuid": "effc0845c8f9420c9f5a770b0abbb7d6",
+   "ns": "com.avenza.common.DashboardHeader"
+  },
+  {
+   "kuid": "fe23c764d4fd47fdb6b33453510269bf",
+   "ns": "com.avenza.transfer.TransFlow"
+  },
+  {
+   "kuid": "g7c2519a80924e7282b165b871135181",
+   "ns": "com.avenza.action.buttoncb"
+  },
+  {
+   "kuid": "dc3299f470514829814062d8abd8ef8c",
+   "ns": "com.avenza.common.header2"
+  },
+  {
+   "kuid": "c129c7e95f7142d98c81ad7be7b823f0",
+   "ns": "com.avenza.common.SignIn"
+  },
+  {
+   "kuid": "c8bbc02c88044b4eb89d12cde7dc1064",
+   "ns": "com.avenza.common.MainHeader"
+  },
+  {
+   "kuid": "efcb47cad4bc4b0498275d698d90c096",
+   "ns": "com.avenza.action.continueback"
+  },
+  {
+   "kuid": "d395ff61523e421787129fd0ad6824d1",
+   "ns": "com.avenza.completion.flow"
+  },
+  {
+   "kuid": "d6ae2c099d524b24a0fc75babc109d85",
+   "ns": "com.avenza.common.completionflow"
+  },
+  {
+   "kuid": "a435f14717074d1d8d9d854d1f44633e",
+   "ns": "com.avenza.common.SignInHeader"
+  }
+ ],
+ "i18n": 0,
+ "fonts": 1,
+ "modules": 0,
+ "mdaModules": 0,
+ "globals": [],
+ "appEvents": [],
+ "startForm": "Form1"
+}

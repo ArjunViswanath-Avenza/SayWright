@@ -1,0 +1,244 @@
+{
+ "image": "frmProfile-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    261,
+    639,
+    900
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    36,
+    352,
+    604,
+    778
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    1,
+    639,
+    261
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    36,
+    802,
+    604,
+    900
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    270,
+    31,
+    370,
+    131
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Edit",
+   "bbox_2d": [
+    525,
+    281,
+    613,
+    331
+   ]
+  },
+  {
+   "type": "text",
+   "text": "MF",
+   "bbox_2d": [
+    300,
+    63,
+    341,
+    98
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Maya Fernandes",
+   "bbox_2d": [
+    203,
+    150,
+    437,
+    185
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Customer since March 2021",
+   "bbox_2d": [
+    215,
+    191,
+    423,
+    210
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Personal details",
+   "bbox_2d": [
+    40,
+    294,
+    192,
+    318
+   ]
+  },
+  {
+   "type": "text",
+   "text": "PalleNefrbuth",
+   "bbox_2d": [
+    66,
+    502,
+    157,
+    524
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Maya Fernandes",
+   "bbox_2d": [
+    65,
+    550,
+    198,
+    571
+   ]
+  },
+  {
+   "type": "text",
+   "text": "12July 1989",
+   "bbox_2d": [
+    65,
+    559,
+    170,
+    582
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Email",
+   "bbox_2d": [
+    66,
+    583,
+    107,
+    602
+   ]
+  },
+  {
+   "type": "text",
+   "text": "maya.fernandes@example.com",
+   "bbox_2d": [
+    65,
+    644,
+    317,
+    664
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Mobile",
+   "bbox_2d": [
+    66,
+    663,
+    114,
+    682
+   ]
+  },
+  {
+   "type": "text",
+   "text": "+91 98450 11234",
+   "bbox_2d": [
+    65,
+    724,
+    196,
+    743
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Mailing address",
+   "bbox_2d": [
+    66,
+    743,
+    183,
+    762
+   ]
+  },
+  {
+   "type": "text",
+   "text": "42 Residency Road, Bengaluru 560025",
+   "bbox_2d": [
+    65,
+    804,
+    375,
+    823
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Customer ID",
+   "bbox_2d": [
+    65,
+    833,
+    160,
+    852
+   ]
+  },
+  {
+   "type": "text",
+   "text": "CUS-884210",
+   "bbox_2d": [
+    452,
+    833,
+    550,
+    852
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Branch",
+   "bbox_2d": [
+    66,
+    881,
+    118,
+    900
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Bengaluru  MG Road",
+   "bbox_2d": [
+    366,
+    881,
+    549,
+    900
+   ]
+  }
+ ],
+ "stats": {
+  "model": "ocr+pixels",
+  "ocr_s": 3.1,
+  "wall_s": 3.5,
+  "lines": 18,
+  "blocks": 6
+ }
+}

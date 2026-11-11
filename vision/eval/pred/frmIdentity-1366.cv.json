@@ -1,0 +1,324 @@
+{
+ "image": "frmIdentity-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    258,
+    315,
+    1108,
+    900
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    20,
+    1366,
+    180
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    300,
+    503,
+    1072,
+    653
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    300,
+    691,
+    1072,
+    841
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    21,
+    1365,
+    99
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    101,
+    1365,
+    179
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1366,
+    20
+   ]
+  },
+  {
+   "type": "dropdown",
+   "text": "Passport",
+   "bbox_2d": [
+    302,
+    390,
+    649,
+    460
+   ]
+  },
+  {
+   "type": "input",
+   "text": "",
+   "bbox_2d": [
+    701,
+    390,
+    1048,
+    460
+   ]
+  },
+  {
+   "type": "input",
+   "text": "",
+   "bbox_2d": [
+    306,
+    877,
+    1078,
+    900
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Replace",
+   "bbox_2d": [
+    849,
+    544,
+    1041,
+    614
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Replace",
+   "bbox_2d": [
+    849,
+    732,
+    1041,
+    802
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    354,
+    130,
+    1163,
+    138
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    351,
+    544,
+    428,
+    614
+   ]
+  },
+  {
+   "type": "image",
+   "text": "",
+   "bbox_2d": [
+    351,
+    544,
+    428,
+    614
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    351,
+    732,
+    428,
+    802
+   ]
+  },
+  {
+   "type": "image",
+   "text": "",
+   "bbox_2d": [
+    351,
+    732,
+    428,
+    802
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    115,
+    130,
+    356,
+    138
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Avenza",
+   "bbox_2d": [
+    108,
+    69,
+    229,
+    109
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Bank",
+   "bbox_2d": [
+    229,
+    69,
+    321,
+    109
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Already have an account?Sian in",
+   "bbox_2d": [
+    950,
+    74,
+    1299,
+    101
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Identity documents",
+   "bbox_2d": [
+    125,
+    112,
+    217,
+    123
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Step 4 of 7",
+   "bbox_2d": [
+    1043,
+    111,
+    1143,
+    133
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Prove your identity",
+   "bbox_2d": [
+    302,
+    197,
+    711,
+    244
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Photos must show all four corners, with no glare. JPG or PNG, up to 10 MB each.",
+   "bbox_2d": [
+    301,
+    249,
+    1020,
+    272
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Document Type",
+   "bbox_2d": [
+    304,
+    345,
+    487,
+    373
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Document Number",
+   "bbox_2d": [
+    709,
+    345,
+    930,
+    374
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Passport  photo page",
+   "bbox_2d": [
+    453,
+    549,
+    731,
+    577
+   ]
+  },
+  {
+   "type": "text",
+   "text": "passport-front.jpg - 2.1 MB",
+   "bbox_2d": [
+    452,
+    583,
+    687,
+    606
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Passport  signature page",
+   "bbox_2d": [
+    453,
+    737,
+    774,
+    765
+   ]
+  },
+  {
+   "type": "text",
+   "text": "passport-back.jpg · 1.8 MB",
+   "bbox_2d": [
+    452,
+    771,
+    690,
+    794
+   ]
+  }
+ ],
+ "stats": {
+  "model": "ocr+pixels",
+  "ocr_s": 9.2,
+  "wall_s": 11.1,
+  "lines": 16,
+  "blocks": 16
+ }
+}

@@ -1,0 +1,117 @@
+{
+ "image": "frmSynth118-1024.png",
+ "width": 1024,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1024,
+    160
+   ],
+   "id": "flxHeader"
+  },
+  {
+   "type": "text",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    40,
+    28,
+    218,
+    62
+   ],
+   "id": "lblLogo"
+  },
+  {
+   "type": "text",
+   "text": "Banking that stays out of your way.",
+   "bbox_2d": [
+    40,
+    70,
+    317,
+    91
+   ],
+   "id": "lblTagline"
+  },
+  {
+   "type": "text",
+   "text": "Set up your login",
+   "bbox_2d": [
+    40,
+    195,
+    342,
+    237
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Amount",
+   "bbox_2d": [
+    40,
+    253,
+    116,
+    276
+   ],
+   "id": "lblField2"
+  },
+  {
+   "type": "input",
+   "text": "0.00",
+   "bbox_2d": [
+    40,
+    282,
+    654,
+    326
+   ],
+   "id": "tbx3"
+  },
+  {
+   "type": "text",
+   "text": "IBAN",
+   "bbox_2d": [
+    40,
+    347,
+    89,
+    370
+   ],
+   "id": "lblField4"
+  },
+  {
+   "type": "input",
+   "text": "Enter IBAN",
+   "bbox_2d": [
+    40,
+    376,
+    654,
+    420
+   ],
+   "id": "tbx5"
+  },
+  {
+   "type": "button",
+   "text": "Save changes",
+   "bbox_2d": [
+    40,
+    448,
+    654,
+    498
+   ],
+   "id": "btn6"
+  },
+  {
+   "type": "text",
+   "text": "Back to login",
+   "bbox_2d": [
+    40,
+    514,
+    143,
+    535
+   ],
+   "id": "lblLink7"
+  }
+ ]
+}

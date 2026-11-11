@@ -1,0 +1,161 @@
+{
+ "image": "frmSynth1155-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    640,
+    120
+   ],
+   "id": "flxHeader"
+  },
+  {
+   "type": "text",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    41,
+    29,
+    219,
+    63
+   ],
+   "id": "lblLogo"
+  },
+  {
+   "type": "text",
+   "text": "Banking for every day.",
+   "bbox_2d": [
+    41,
+    71,
+    239,
+    94
+   ],
+   "id": "lblTagline"
+  },
+  {
+   "type": "text",
+   "text": "Transfer money",
+   "bbox_2d": [
+    40,
+    151,
+    189,
+    174
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Confirm password",
+   "bbox_2d": [
+    40,
+    192,
+    172,
+    209
+   ],
+   "id": "lblField2"
+  },
+  {
+   "type": "input",
+   "text": "Re-enter password",
+   "bbox_2d": [
+    40,
+    215,
+    360,
+    265
+   ],
+   "id": "tbx3"
+  },
+  {
+   "type": "text",
+   "text": "Beneficiary name",
+   "bbox_2d": [
+    40,
+    287,
+    165,
+    304
+   ],
+   "id": "lblField4"
+  },
+  {
+   "type": "input",
+   "text": "Enter beneficiary name",
+   "bbox_2d": [
+    40,
+    310,
+    360,
+    354
+   ],
+   "id": "tbx5"
+  },
+  {
+   "type": "text",
+   "text": "Reference",
+   "bbox_2d": [
+    40,
+    368,
+    113,
+    385
+   ],
+   "id": "lblField6"
+  },
+  {
+   "type": "input",
+   "text": "Add a reference",
+   "bbox_2d": [
+    40,
+    391,
+    360,
+    435
+   ],
+   "id": "tbx7"
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    40,
+    451,
+    62,
+    473
+   ],
+   "id": "flxCheck9"
+  },
+  {
+   "type": "text",
+   "text": "Keep me signed in on this device",
+   "bbox_2d": [
+    72,
+    451,
+    354,
+    473
+   ],
+   "id": "lblCheck10"
+  },
+  {
+   "type": "button",
+   "text": "Submit",
+   "bbox_2d": [
+    40,
+    495,
+    360,
+    545
+   ],
+   "id": "btn11"
+  },
+  {
+   "type": "text",
+   "text": "Resend code",
+   "bbox_2d": [
+    40,
+    561,
+    146,
+    582
+   ],
+   "id": "lblLink12"
+  }
+ ]
+}

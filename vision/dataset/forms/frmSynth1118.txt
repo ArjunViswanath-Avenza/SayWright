@@ -1,0 +1,6 @@
+new form called synth 11 18
+add a label called lblHead1 with text "Update profile", top 32dp, left 40dp, skin sknlblAvenza0f223337pxBold
+add a label called lblSub2 with text "We will send a code to your phone.", top 8dp, left 40dp, skin sknLblDescription
+add a label called lblField3 with text "Email address", top 17dp, left 40dp, skin sknlblHeading0f223320px
+add a text box called tbx4 with placeholder "name@example.com", width 35%, height 40dp, top 6dp, left 40dp, skin skntbx5b6b7a15px
+add a button called btn5 with text "Save changes", width 35%, height 56dp, top 23dp, left 40dp, skin CopydefBtnNormal0a5557b20e63745

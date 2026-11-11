@@ -1,0 +1,128 @@
+{
+ "image": "frmSynth1112-1024.png",
+ "width": 1024,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1024,
+    900
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    232,
+    227,
+    792,
+    673
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Add beneficiary",
+   "bbox_2d": [
+    261,
+    255,
+    538,
+    297
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Full name",
+   "bbox_2d": [
+    261,
+    312,
+    354,
+    335
+   ],
+   "id": "lblField2"
+  },
+  {
+   "type": "input",
+   "text": "Enter your full name",
+   "bbox_2d": [
+    261,
+    341,
+    752,
+    381
+   ],
+   "id": "tbx3"
+  },
+  {
+   "type": "text",
+   "text": "Account number",
+   "bbox_2d": [
+    261,
+    402,
+    420,
+    425
+   ],
+   "id": "lblField4"
+  },
+  {
+   "type": "input",
+   "text": "Enter account number",
+   "bbox_2d": [
+    261,
+    431,
+    752,
+    475
+   ],
+   "id": "tbx5"
+  },
+  {
+   "type": "text",
+   "text": "IBAN",
+   "bbox_2d": [
+    261,
+    497,
+    310,
+    520
+   ],
+   "id": "lblField6"
+  },
+  {
+   "type": "input",
+   "text": "Enter IBAN",
+   "bbox_2d": [
+    261,
+    526,
+    752,
+    570
+   ],
+   "id": "tbx7"
+  },
+  {
+   "type": "button",
+   "text": "Pay now",
+   "bbox_2d": [
+    261,
+    591,
+    752,
+    635
+   ],
+   "id": "btn8"
+  },
+  {
+   "type": "text",
+   "text": "Forgot password?",
+   "bbox_2d": [
+    261,
+    651,
+    404,
+    672
+   ],
+   "id": "lblLink9"
+  }
+ ]
+}

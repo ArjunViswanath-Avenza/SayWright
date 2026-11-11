@@ -1,0 +1,12 @@
+new form called synth 11 8
+add a flex called flxHeader with layout vertical, width 100%, height 160dp, skin sknflx0f2233
+add a label called lblLogo with text "AvenzaBank", top 28dp, left 40dp, skin sknlblffffff30px
+add a label called lblTagline with text "Banking that stays out of your way.", top 8dp, left 40dp, skin CopydefLabel0d9c36a8cc7b24d
+select flxMain
+add a label called lblHead1 with text "Set up your login", top 35dp, left 40dp, skin sknlblAvenza0f223337pxBold
+add a label called lblField2 with text "Amount", top 16dp, left 40dp, skin sknlblHeading0f223320px
+add a text box called tbx3 with placeholder "0.00", width 60%, height 44dp, top 6dp, left 40dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a label called lblField4 with text "IBAN", top 21dp, left 40dp, skin sknlblHeading0f223320px
+add a text box called tbx5 with placeholder "Enter IBAN", width 60%, height 44dp, top 6dp, left 40dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a button called btn6 with text "Save changes", width 60%, height 50dp, top 28dp, left 40dp, skin CopydefBtnNormal0a5557b20e63745
+add a label called lblLink7 with text "Back to login", top 16dp, left 40dp, skin CopydefLabel0ac07d4ebd8e448

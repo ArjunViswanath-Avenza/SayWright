@@ -1,0 +1,6 @@
+new form called synth 11 0
+add a label called lblHead1 with text "Reset password", top 36dp, left 120dp, skin sknlblHeading0f223320px
+add a label called lblSub2 with text "All fields are required.", top 8dp, left 120dp, skin sknLblDescription
+add a label called lblField3 with text "Confirm password", top 15dp, left 120dp, skin sknlblSubheading00000015px
+add a text box called tbx4 with placeholder "Re-enter password", masked, width 45%, height 50dp, top 6dp, left 120dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a button called btn5 with text "Continue", width 45%, height 56dp, top 24dp, left 120dp, skin CopydefBtnNormal0a5557b20e63745

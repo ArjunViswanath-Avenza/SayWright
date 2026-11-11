@@ -1,0 +1,161 @@
+{
+ "image": "frmSynth1150-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    192,
+    900
+   ],
+   "id": "flxBrand"
+  },
+  {
+   "type": "text",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    61,
+    51,
+    251,
+    93
+   ],
+   "id": "lblLogo"
+  },
+  {
+   "type": "text",
+   "text": "Your money, your way.",
+   "bbox_2d": [
+    61,
+    153,
+    194,
+    289
+   ],
+   "id": "lblTagline"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    192,
+    0,
+    640,
+    900
+   ],
+   "id": "flxRight"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    196,
+    212,
+    636,
+    689
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Pay a bill",
+   "bbox_2d": [
+    221,
+    247,
+    373,
+    287
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Amount",
+   "bbox_2d": [
+    221,
+    307,
+    297,
+    330
+   ],
+   "id": "lblField2"
+  },
+  {
+   "type": "input",
+   "text": "0.00",
+   "bbox_2d": [
+    221,
+    336,
+    606,
+    386
+   ],
+   "id": "tbx3"
+  },
+  {
+   "type": "text",
+   "text": "Full name",
+   "bbox_2d": [
+    221,
+    400,
+    314,
+    423
+   ],
+   "id": "lblField4"
+  },
+  {
+   "type": "input",
+   "text": "Enter your full name",
+   "bbox_2d": [
+    221,
+    429,
+    606,
+    479
+   ],
+   "id": "tbx5"
+  },
+  {
+   "type": "text",
+   "text": "Mobile number",
+   "bbox_2d": [
+    221,
+    498,
+    363,
+    521
+   ],
+   "id": "lblField6"
+  },
+  {
+   "type": "input",
+   "text": "Enter mobile number",
+   "bbox_2d": [
+    221,
+    527,
+    606,
+    577
+   ],
+   "id": "tbx7"
+  },
+  {
+   "type": "button",
+   "text": "Sign In",
+   "bbox_2d": [
+    221,
+    601,
+    606,
+    651
+   ],
+   "id": "btn8"
+  },
+  {
+   "type": "text",
+   "text": "Forgot password?",
+   "bbox_2d": [
+    221,
+    667,
+    364,
+    688
+   ],
+   "id": "lblLink9"
+  }
+ ]
+}

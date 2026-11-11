@@ -1,0 +1,116 @@
+{
+ "image": "frmDashboard-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "Avenza Bank",
+   "bbox_2d": [
+    0,
+    0,
+    756,
+    1064
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Good morning, Maya",
+   "bbox_2d": [
+    24,
+    130,
+    429,
+    168
+   ]
+  },
+  {
+   "type": "text",
+   "text": "5 accounts · last updated 09:42",
+   "bbox_2d": [
+    34,
+    187,
+    363,
+    208
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Total balance",
+   "bbox_2d": [
+    34,
+    244,
+    207,
+    365
+   ]
+  },
+  {
+   "type": "text",
+   "text": "$164,670.50",
+   "bbox_2d": [
+    58,
+    297,
+    163,
+    318
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Available",
+   "bbox_2d": [
+    281,
+    244,
+    454,
+    365
+   ]
+  },
+  {
+   "type": "text",
+   "text": "$66,981.15",
+   "bbox_2d": [
+    300,
+    307,
+    389,
+    328
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Card outstanding",
+   "bbox_2d": [
+    527,
+    244,
+    696,
+    365
+   ]
+  },
+  {
+   "type": "text",
+   "text": "$2,310.65",
+   "bbox_2d": [
+    533,
+    307,
+    619,
+    328
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Your accounts",
+   "bbox_2d": [
+    44,
+    469,
+    205,
+    489
+   ]
+  }
+ ],
+ "stats": {
+  "model": "qwen2.5vl:7b",
+  "wall_s": 196.9,
+  "prompt_tokens": 1289,
+  "output_tokens": 495,
+  "prompt_s": 101.9,
+  "output_s": 94.9,
+  "output_tok_per_s": 5.22
+ }
+}

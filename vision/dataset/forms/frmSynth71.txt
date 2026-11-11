@@ -1,0 +1,22 @@
+new form called synth 7 1
+make flxMain free
+add a flex called flxBg with layout free, width 100%, height 100%, skin CopyslFbox0e142d86d9d5243
+add a flex called flxCard with layout vertical, width 520dp, height preferred, center x 50%, center y 50%, skin CopyslFbox0a7856aec039c4d
+add a label called lblHead1 with text "Card details", top 23dp, left 28dp, skin sknlblHeading0f223320px
+add a label called lblSub2 with text "Your data is encrypted end to end.", top 8dp, left 28dp, skin CopysknlblDescription0b6df324c89a54a
+add a flex called flxPair3 with layout horizontal, width 88%, height preferred, top 18dp, left 28dp
+select flxPair3
+add a flex called flxCol4 with layout vertical, width 48%, height preferred, left 0%
+add a label called lblField5 with text "From account", skin sknlblSubheading00000015px
+add a text box called tbx6 with placeholder "Select account", width 100%, height 44dp, top 6dp, skin skntbx5b6b7a15px
+select flxPair3
+add a flex called flxCol7 with layout vertical, width 48%, height preferred, left 4%
+add a label called lblField8 with text "To account", skin sknlblSubheading00000015px
+add a text box called tbx9 with placeholder "Select account", width 100%, height 44dp, top 6dp, skin skntbx5b6b7a15px
+select flxCard
+add a label called lblField10 with text "Mobile number", top 14dp, left 28dp, skin sknlblSubheading00000015px
+add a text box called tbx11 with placeholder "Enter mobile number", width 88%, height 50dp, top 6dp, left 28dp, skin skntbx5b6b7a15px
+add a label called lblField12 with text "Reference", top 17dp, left 28dp, skin sknlblSubheading00000015px
+add a text box called tbx13 with placeholder "Add a reference", width 88%, height 44dp, top 6dp, left 28dp, skin skntbx5b6b7a15px
+add a button called btn14 with text "Verify", width 88%, height 50dp, top 25dp, left 28dp, skin CopydefBtnNormal0a5557b20e63745
+add a label called lblLink15 with text "Need help?", top 16dp, left 28dp, skin CopydefLabel0ac07d4ebd8e448

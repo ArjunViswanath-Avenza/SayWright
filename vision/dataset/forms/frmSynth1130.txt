@@ -1,0 +1,17 @@
+new form called synth 11 30
+add a label called lblHead1 with text "Sign in", top 36dp, left 120dp, skin sknlblAvenza0f223337pxBold
+add a label called lblField2 with text "Beneficiary name", top 20dp, left 120dp, skin sknlblHeading0f223320px
+add a text box called tbx3 with placeholder "Enter beneficiary name", width 55%, height 50dp, top 6dp, left 120dp, skin skntbx5b6b7a15px
+add a label called lblField4 with text "Date of birth", top 16dp, left 120dp, skin sknlblHeading0f223320px
+add a text box called tbx5 with placeholder "DD/MM/YYYY", width 55%, height 44dp, top 6dp, left 120dp, skin skntbx5b6b7a15px
+add a label called lblField6 with text "Mobile number", top 17dp, left 120dp, skin sknlblHeading0f223320px
+add a text box called tbx7 with placeholder "Enter mobile number", width 55%, height 44dp, top 6dp, left 120dp, skin skntbx5b6b7a15px
+add a label called lblField8 with text "User Id", top 20dp, left 120dp, skin sknlblHeading0f223320px
+add a text box called tbx9 with placeholder "Enter user id", width 55%, height 50dp, top 6dp, left 120dp, skin skntbx5b6b7a15px
+add a flex called flxRemember10 with layout horizontal, width preferred, height preferred, top 16dp, left 120dp
+add a flex called flxCheck11 with width 22dp, height 22dp, skin CopyslFbox0cf62699586c744
+select flxRemember10
+add a label called lblCheck12 with text "Keep me signed in on this device", left 10dp, skin sknLblDescription
+select flxMain
+add a button called btn13 with text "Continue", width 55%, height 50dp, top 22dp, left 120dp, skin sknbtn15577d
+add a label called lblLink14 with text "Need help?", top 16dp, left 120dp, skin CopydefLabel0ac07d4ebd8e448

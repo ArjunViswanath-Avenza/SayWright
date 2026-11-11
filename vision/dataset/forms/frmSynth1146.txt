@@ -1,0 +1,19 @@
+new form called synth 11 46
+make flxMain free
+add a flex called flxBg with layout free, width 100%, height 100%, skin sknflxE3E9EE
+add a flex called flxCard with layout vertical, width 480dp, height preferred, center x 50%, center y 50%, skin CopyslFbox0ad85847653fd46
+add a label called lblHead1 with text "Contact us", top 32dp, left 28dp, skin CopydefLabel0b958727ed83141
+add a flex called flxPair2 with layout horizontal, width 88%, height preferred, top 18dp, left 28dp
+select flxPair2
+add a flex called flxCol3 with layout vertical, width 48%, height preferred, left 0%
+add a label called lblField4 with text "From account", skin sknlblSubheading00000015px
+add a text box called tbx5 with placeholder "Select account", width 100%, height 44dp, top 6dp, skin CopydefTextBoxNormal0d77bd26223a145
+select flxPair2
+add a flex called flxCol6 with layout vertical, width 48%, height preferred, left 4%
+add a label called lblField7 with text "To account", skin sknlblSubheading00000015px
+add a text box called tbx8 with placeholder "Select account", width 100%, height 44dp, top 6dp, skin CopydefTextBoxNormal0d77bd26223a145
+select flxCard
+add a label called lblField9 with text "Date of birth", top 19dp, left 28dp, skin sknlblSubheading00000015px
+add a text box called tbx10 with placeholder "DD/MM/YYYY", width 88%, height 50dp, top 6dp, left 28dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a button called btn11 with text "Continue", width 88%, height 56dp, top 22dp, left 28dp, skin sknbtn15577d
+add a label called lblLink12 with text "Need help?", top 16dp, left 28dp, skin CopydefLabel0ac07d4ebd8e448

@@ -1,0 +1,414 @@
+{
+ "image": "frmProfile-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1366,
+    882
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    119,
+    1365,
+    881
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    507,
+    282,
+    1323,
+    848
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    57,
+    282,
+    464,
+    688
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    29,
+    1365,
+    120
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    1,
+    1365,
+    29
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    882,
+    1366,
+    900
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    201,
+    307,
+    319,
+    425
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Edit Profile",
+   "bbox_2d": [
+    1224,
+    189,
+    1324,
+    239
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1273,
+    52,
+    1321,
+    100
+   ]
+  },
+  {
+   "type": "text",
+   "text": "MF",
+   "bbox_2d": [
+    1276,
+    50,
+    1319,
+    100
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Avenza",
+   "bbox_2d": [
+    59,
+    54,
+    185,
+    97
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Bank",
+   "bbox_2d": [
+    188,
+    54,
+    276,
+    97
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Maya Fernandes",
+   "bbox_2d": [
+    1103,
+    63,
+    1252,
+    86
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Accounts",
+   "bbox_2d": [
+    328,
+    64,
+    410,
+    88
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Transfers",
+   "bbox_2d": [
+    458,
+    64,
+    542,
+    88
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Profile",
+   "bbox_2d": [
+    591,
+    64,
+    646,
+    88
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Profile",
+   "bbox_2d": [
+    58,
+    168,
+    179,
+    214
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Your personal and contact details",
+   "bbox_2d": [
+    56,
+    223,
+    350,
+    246
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Personal details",
+   "bbox_2d": [
+    553,
+    320,
+    743,
+    349
+   ]
+  },
+  {
+   "type": "text",
+   "text": "MF",
+   "bbox_2d": [
+    240,
+    348,
+    281,
+    383
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Your details as they appear on your account.",
+   "bbox_2d": [
+    552,
+    358,
+    946,
+    381
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Full Name",
+   "bbox_2d": [
+    564,
+    417,
+    653,
+    441
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Maya Fernandes",
+   "bbox_2d": [
+    1104,
+    417,
+    1260,
+    440
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Maya Fernandes",
+   "bbox_2d": [
+    163,
+    446,
+    357,
+    474
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Customer since March 2021",
+   "bbox_2d": [
+    136,
+    484,
+    382,
+    508
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Date of birth",
+   "bbox_2d": [
+    563,
+    505,
+    670,
+    529
+   ]
+  },
+  {
+   "type": "text",
+   "text": "12 July 1989",
+   "bbox_2d": [
+    1143,
+    505,
+    1260,
+    528
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Customer ID",
+   "bbox_2d": [
+    78,
+    555,
+    189,
+    579
+   ]
+  },
+  {
+   "type": "text",
+   "text": "CUS-884210",
+   "bbox_2d": [
+    310,
+    555,
+    425,
+    579
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Email",
+   "bbox_2d": [
+    563,
+    585,
+    611,
+    609
+   ]
+  },
+  {
+   "type": "text",
+   "text": "maya.fernandes@example.com",
+   "bbox_2d": [
+    962,
+    585,
+    1259,
+    610
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Branch",
+   "bbox_2d": [
+    78,
+    603,
+    140,
+    627
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Bengaluru  MG Road",
+   "bbox_2d": [
+    208,
+    603,
+    424,
+    626
+   ]
+  },
+  {
+   "type": "text",
+   "text": "KYC",
+   "bbox_2d": [
+    78,
+    651,
+    117,
+    675
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Verified",
+   "bbox_2d": [
+    360,
+    652,
+    425,
+    673
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Mobile",
+   "bbox_2d": [
+    563,
+    665,
+    621,
+    689
+   ]
+  },
+  {
+   "type": "text",
+   "text": "+91 98450 11234",
+   "bbox_2d": [
+    1105,
+    665,
+    1260,
+    689
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Mailing address",
+   "bbox_2d": [
+    563,
+    745,
+    702,
+    768
+   ]
+  },
+  {
+   "type": "text",
+   "text": "42 Residency Road, Bengaluru 560025",
+   "bbox_2d": [
+    894,
+    745,
+    1260,
+    768
+   ]
+  }
+ ],
+ "stats": {
+  "model": "ocr+pixels",
+  "ocr_s": 5.3,
+  "wall_s": 6.6,
+  "lines": 31,
+  "blocks": 10
+ }
+}

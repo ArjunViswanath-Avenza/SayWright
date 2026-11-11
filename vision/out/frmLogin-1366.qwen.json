@@ -1,0 +1,146 @@
+{
+ "image": "frmLogin-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    0,
+    0,
+    464,
+    896
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Banking that stays out of your way.",
+   "bbox_2d": [
+    68,
+    189,
+    397,
+    268
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Accounts, transfers and statements in one place. Secured with 256-bit encryption.",
+   "bbox_2d": [
+    68,
+    387,
+    405,
+    455
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "FDIC insured 24/7 support v2.4.0",
+   "bbox_2d": [
+    68,
+    493,
+    323,
+    514
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Sign in",
+   "bbox_2d": [
+    651,
+    45,
+    737,
+    71
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Use the credentials issued by your branch.",
+   "bbox_2d": [
+    651,
+    95,
+    900,
+    116
+   ]
+  },
+  {
+   "type": "input",
+   "text": "Enter user id",
+   "bbox_2d": [
+    651,
+    168,
+    1133,
+    225
+   ]
+  },
+  {
+   "type": "input",
+   "text": "Enter your password",
+   "bbox_2d": [
+    651,
+    294,
+    1133,
+    351
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Sign In",
+   "bbox_2d": [
+    865,
+    450,
+    917,
+    467
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Keep me signed in on this device",
+   "bbox_2d": [
+    795,
+    374,
+    1076,
+    391
+   ]
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    659,
+    374,
+    679,
+    391
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Forgot password?",
+   "bbox_2d": [
+    986,
+    260,
+    1118,
+    277
+   ]
+  },
+  {
+   "type": "text",
+   "text": "New to Avenza Bank? Open an account",
+   "bbox_2d": [
+    731,
+    560,
+    1047,
+    577
+   ]
+  }
+ ],
+ "stats": {
+  "model": "qwen2.5vl:7b",
+  "wall_s": 409.9,
+  "prompt_tokens": 1832,
+  "output_tokens": 657,
+  "prompt_s": 217.0,
+  "output_s": 181.2,
+  "output_tok_per_s": 3.63
+ }
+}

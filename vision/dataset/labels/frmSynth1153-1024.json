@@ -1,0 +1,139 @@
+{
+ "image": "frmSynth1153-1024.png",
+ "width": 1024,
+ "height": 900,
+ "elements": [
+  {
+   "type": "text",
+   "text": "Transfer money",
+   "bbox_2d": [
+    40,
+    36,
+    189,
+    59
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "It only takes a few minutes.",
+   "bbox_2d": [
+    40,
+    67,
+    272,
+    89
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "Confirm password",
+   "bbox_2d": [
+    40,
+    107,
+    216,
+    130
+   ],
+   "id": "lblField3"
+  },
+  {
+   "type": "input",
+   "text": "Re-enter password",
+   "bbox_2d": [
+    40,
+    136,
+    398,
+    180
+   ],
+   "id": "tbx4"
+  },
+  {
+   "type": "text",
+   "text": "IBAN",
+   "bbox_2d": [
+    40,
+    201,
+    89,
+    224
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "Enter IBAN",
+   "bbox_2d": [
+    40,
+    230,
+    398,
+    280
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "text",
+   "text": "Date of birth",
+   "bbox_2d": [
+    40,
+    300,
+    158,
+    323
+   ],
+   "id": "lblField7"
+  },
+  {
+   "type": "input",
+   "text": "DD/MM/YYYY",
+   "bbox_2d": [
+    40,
+    329,
+    398,
+    369
+   ],
+   "id": "tbx8"
+  },
+  {
+   "type": "text",
+   "text": "Card number",
+   "bbox_2d": [
+    40,
+    386,
+    164,
+    409
+   ],
+   "id": "lblField9"
+  },
+  {
+   "type": "input",
+   "text": "XXXX XXXX XXXX XXXX",
+   "bbox_2d": [
+    40,
+    415,
+    398,
+    459
+   ],
+   "id": "tbx10"
+  },
+  {
+   "type": "button",
+   "text": "Pay now",
+   "bbox_2d": [
+    40,
+    479,
+    398,
+    529
+   ],
+   "id": "btn11"
+  },
+  {
+   "type": "text",
+   "text": "Terms and conditions",
+   "bbox_2d": [
+    40,
+    545,
+    209,
+    566
+   ],
+   "id": "lblLink12"
+  }
+ ]
+}

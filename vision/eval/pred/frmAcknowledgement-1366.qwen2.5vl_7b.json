@@ -1,0 +1,246 @@
+{
+ "image": "frmAcknowledgement-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    52,
+    58,
+    252,
+    90
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Accounts",
+   "bbox_2d": [
+    326,
+    63,
+    410,
+    83
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Transfers",
+   "bbox_2d": [
+    457,
+    63,
+    542,
+    83
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Profile",
+   "bbox_2d": [
+    590,
+    63,
+    646,
+    83
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Maya Fernandes",
+   "bbox_2d": [
+    1108,
+    63,
+    1228,
+    83
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "MF",
+   "bbox_2d": [
+    1282,
+    63,
+    1325,
+    83
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "1 Details",
+   "bbox_2d": [
+    252,
+    158,
+    342,
+    186
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "2 Confirm",
+   "bbox_2d": [
+    622,
+    158,
+    712,
+    186
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "3 Done",
+   "bbox_2d": [
+    1012,
+    158,
+    1095,
+    186
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Transfer sent",
+   "bbox_2d": [
+    590,
+    375,
+    730,
+    399
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "$1,200.00 is on its way to Rahul Mehta.",
+   "bbox_2d": [
+    510,
+    417,
+    830,
+    437
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "It should land the same business day.",
+   "bbox_2d": [
+    510,
+    448,
+    830,
+    468
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Reference",
+   "bbox_2d": [
+    424,
+    520,
+    514,
+    539
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "TRF-2026-100482",
+   "bbox_2d": [
+    784,
+    519,
+    947,
+    539
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "From",
+   "bbox_2d": [
+    424,
+    567,
+    468,
+    586
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "123456XXXX",
+   "bbox_2d": [
+    826,
+    566,
+    947,
+    586
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "To",
+   "bbox_2d": [
+    424,
+    612,
+    448,
+    631
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "4455XXXX",
+   "bbox_2d": [
+    826,
+    611,
+    947,
+    631
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Posted",
+   "bbox_2d": [
+    424,
+    650,
+    480,
+    669
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "5 Oct, 09:47",
+   "bbox_2d": [
+    830,
+    650,
+    947,
+    669
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Back to accounts",
+   "bbox_2d": [
+    472,
+    748,
+    608,
+    767
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Another transfer",
+   "bbox_2d": [
+    784,
+    748,
+    919,
+    767
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Download receipt(PDF)",
+   "bbox_2d": [
+    586,
+    805,
+    750,
+    819
+   ]
+  }
+ ],
+ "stats": {
+  "model": "qwen2.5vl:7b",
+  "wall_s": 395.7,
+  "prompt_tokens": 1832,
+  "output_tokens": 954,
+  "prompt_s": 165.1,
+  "output_s": 206.2,
+  "output_tok_per_s": 4.63
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "image": "frmSynth1123-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "text",
+   "text": "Sign in",
+   "bbox_2d": [
+    120,
+    30,
+    187,
+    53
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "All fields are required.",
+   "bbox_2d": [
+    120,
+    61,
+    313,
+    84
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "OTP",
+   "bbox_2d": [
+    120,
+    101,
+    151,
+    118
+   ],
+   "id": "lblField3"
+  },
+  {
+   "type": "input",
+   "text": "Enter 6-digit code",
+   "bbox_2d": [
+    120,
+    124,
+    408,
+    164
+   ],
+   "id": "tbx4"
+  },
+  {
+   "type": "text",
+   "text": "Confirm password",
+   "bbox_2d": [
+    120,
+    186,
+    252,
+    203
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "Re-enter password",
+   "bbox_2d": [
+    120,
+    209,
+    408,
+    249
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "button",
+   "text": "Pay now",
+   "bbox_2d": [
+    120,
+    270,
+    408,
+    314
+   ],
+   "id": "btn7"
+  },
+  {
+   "type": "text",
+   "text": "Back to login",
+   "bbox_2d": [
+    120,
+    330,
+    223,
+    351
+   ],
+   "id": "lblLink8"
+  }
+ ]
+}

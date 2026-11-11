@@ -1,0 +1,161 @@
+{
+ "image": "frmLogin-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    640,
+    900
+   ],
+   "id": "flxRight"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    55,
+    1,
+    585,
+    675
+   ],
+   "id": "flxCentre"
+  },
+  {
+   "type": "text",
+   "text": "Sign in",
+   "bbox_2d": [
+    75,
+    40,
+    191,
+    80
+   ],
+   "id": "lblSignin"
+  },
+  {
+   "type": "text",
+   "text": "Use the credentials issued by your branch.",
+   "bbox_2d": [
+    75,
+    97,
+    359,
+    114
+   ],
+   "id": "lblSingninInfo"
+  },
+  {
+   "type": "text",
+   "text": "User Id",
+   "bbox_2d": [
+    81,
+    150,
+    233,
+    167
+   ],
+   "id": "lblUserId"
+  },
+  {
+   "type": "input",
+   "text": "Enter user id",
+   "bbox_2d": [
+    76,
+    181,
+    552,
+    241
+   ],
+   "id": "tbxUserId"
+  },
+  {
+   "type": "text",
+   "text": "Password",
+   "bbox_2d": [
+    79,
+    273,
+    332,
+    290
+   ],
+   "id": "lblPassword"
+  },
+  {
+   "type": "input",
+   "text": "Enter your password",
+   "bbox_2d": [
+    76,
+    306,
+    552,
+    366
+   ],
+   "id": "tbxPassword"
+  },
+  {
+   "type": "text",
+   "text": "Forget password?",
+   "bbox_2d": [
+    426,
+    254,
+    578,
+    313
+   ],
+   "id": "lblForgetPass"
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    81,
+    386,
+    106,
+    411
+   ],
+   "id": "flxRem"
+  },
+  {
+   "type": "text",
+   "text": "Keep me signed in on this device",
+   "bbox_2d": [
+    121,
+    389,
+    400,
+    406
+   ],
+   "id": "lblSignInfo"
+  },
+  {
+   "type": "button",
+   "text": "Sign In",
+   "bbox_2d": [
+    76,
+    446,
+    552,
+    506
+   ],
+   "id": "btnSignIn"
+  },
+  {
+   "type": "text",
+   "text": "New to Avenza Bank?",
+   "bbox_2d": [
+    245,
+    570,
+    414,
+    587
+   ],
+   "id": "lblNewtoBank"
+  },
+  {
+   "type": "text",
+   "text": "Open an account",
+   "bbox_2d": [
+    244,
+    630,
+    389,
+    647
+   ],
+   "id": "lblOpenAcc"
+  }
+ ]
+}

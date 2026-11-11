@@ -1,0 +1,174 @@
+{
+ "image": "frmDashboard-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    91,
+    639,
+    899
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    640,
+    108
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    31,
+    206,
+    176,
+    310
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    238,
+    206,
+    382,
+    310
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    445,
+    206,
+    589,
+    310
+   ]
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    70,
+    239,
+    84,
+    256
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Aveaza",
+   "bbox_2d": [
+    25,
+    22,
+    152,
+    65
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Bank",
+   "bbox_2d": [
+    282,
+    22,
+    370,
+    65
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Good morning, Maya",
+   "bbox_2d": [
+    22,
+    105,
+    388,
+    147
+   ]
+  },
+  {
+   "type": "text",
+   "text": "5 accounts - last updated 09:42",
+   "bbox_2d": [
+    30,
+    155,
+    307,
+    178
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Card outstanding",
+   "bbox_2d": [
+    458,
+    230,
+    572,
+    247
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Available 1",
+   "bbox_2d": [
+    251,
+    228,
+    393,
+    271
+   ]
+  },
+  {
+   "type": "text",
+   "text": "$164,670.50",
+   "bbox_2d": [
+    52,
+    250,
+    136,
+    272
+   ]
+  },
+  {
+   "type": "text",
+   "text": "$66,981.15",
+   "bbox_2d": [
+    251,
+    258,
+    326,
+    280
+   ]
+  },
+  {
+   "type": "text",
+   "text": "$2,310.65",
+   "bbox_2d": [
+    458,
+    258,
+    525,
+    280
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Your accounts",
+   "bbox_2d": [
+    38,
+    394,
+    175,
+    418
+   ]
+  }
+ ],
+ "stats": {
+  "model": "ocr+pixels",
+  "ocr_s": 1.8,
+  "wall_s": 2.1,
+  "lines": 10,
+  "blocks": 6
+ }
+}

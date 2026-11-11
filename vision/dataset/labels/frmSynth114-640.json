@@ -1,0 +1,194 @@
+{
+ "image": "frmSynth114-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    640,
+    120
+   ],
+   "id": "flxHeader"
+  },
+  {
+   "type": "text",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    40,
+    28,
+    257,
+    70
+   ],
+   "id": "lblLogo"
+  },
+  {
+   "type": "text",
+   "text": "Your money, your way.",
+   "bbox_2d": [
+    40,
+    78,
+    240,
+    101
+   ],
+   "id": "lblTagline"
+  },
+  {
+   "type": "text",
+   "text": "Update profile",
+   "bbox_2d": [
+    40,
+    151,
+    174,
+    174
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "All fields are required.",
+   "bbox_2d": [
+    40,
+    182,
+    226,
+    204
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "First name",
+   "bbox_2d": [
+    40,
+    222,
+    116,
+    239
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "Enter first name",
+   "bbox_2d": [
+    40,
+    245,
+    224,
+    289
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "text",
+   "text": "Last name",
+   "bbox_2d": [
+    240,
+    222,
+    314,
+    239
+   ],
+   "id": "lblField8"
+  },
+  {
+   "type": "input",
+   "text": "Enter last name",
+   "bbox_2d": [
+    240,
+    245,
+    424,
+    289
+   ],
+   "id": "tbx9"
+  },
+  {
+   "type": "text",
+   "text": "Reference",
+   "bbox_2d": [
+    40,
+    306,
+    113,
+    323
+   ],
+   "id": "lblField10"
+  },
+  {
+   "type": "input",
+   "text": "Add a reference",
+   "bbox_2d": [
+    40,
+    329,
+    424,
+    379
+   ],
+   "id": "tbx11"
+  },
+  {
+   "type": "text",
+   "text": "Card number",
+   "bbox_2d": [
+    40,
+    396,
+    134,
+    413
+   ],
+   "id": "lblField12"
+  },
+  {
+   "type": "input",
+   "text": "XXXX XXXX XXXX XXXX",
+   "bbox_2d": [
+    40,
+    419,
+    424,
+    459
+   ],
+   "id": "tbx13"
+  },
+  {
+   "type": "text",
+   "text": "Password",
+   "bbox_2d": [
+    40,
+    481,
+    111,
+    498
+   ],
+   "id": "lblField14"
+  },
+  {
+   "type": "input",
+   "text": "Enter your password",
+   "bbox_2d": [
+    40,
+    504,
+    424,
+    544
+   ],
+   "id": "tbx15"
+  },
+  {
+   "type": "button",
+   "text": "Verify",
+   "bbox_2d": [
+    40,
+    571,
+    424,
+    621
+   ],
+   "id": "btn16"
+  },
+  {
+   "type": "text",
+   "text": "Forgot password?",
+   "bbox_2d": [
+    40,
+    637,
+    183,
+    658
+   ],
+   "id": "lblLink17"
+  }
+ ]
+}

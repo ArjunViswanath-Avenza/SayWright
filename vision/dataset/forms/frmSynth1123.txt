@@ -1,0 +1,9 @@
+new form called synth 11 23
+add a label called lblHead1 with text "Sign in", top 30dp, left 120dp, skin sknlblHeading0f223320px
+add a label called lblSub2 with text "All fields are required.", top 8dp, left 120dp, skin sknlblDescription5b6b7a20px
+add a label called lblField3 with text "OTP", top 17dp, left 120dp, skin sknlblSubheading00000015px
+add a text box called tbx4 with placeholder "Enter 6-digit code", width 45%, height 40dp, top 6dp, left 120dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a label called lblField5 with text "Confirm password", top 22dp, left 120dp, skin sknlblSubheading00000015px
+add a text box called tbx6 with placeholder "Re-enter password", masked, width 45%, height 40dp, top 6dp, left 120dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a button called btn7 with text "Pay now", width 45%, height 44dp, top 21dp, left 120dp, skin sknbtn15577d
+add a label called lblLink8 with text "Back to login", top 16dp, left 120dp, skin CopydefLabel0ac07d4ebd8e448

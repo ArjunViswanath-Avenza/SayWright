@@ -1,0 +1,73 @@
+{
+ "image": "frmSynth72-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1366,
+    900
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    403,
+    334,
+    963,
+    567
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Card details",
+   "bbox_2d": [
+    432,
+    370,
+    644,
+    412
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Account number",
+   "bbox_2d": [
+    432,
+    431,
+    552,
+    448
+   ],
+   "id": "lblField2"
+  },
+  {
+   "type": "input",
+   "text": "Enter account number",
+   "bbox_2d": [
+    432,
+    454,
+    923,
+    494
+   ],
+   "id": "tbx3"
+  },
+  {
+   "type": "button",
+   "text": "Verify",
+   "bbox_2d": [
+    432,
+    522,
+    923,
+    566
+   ],
+   "id": "btn4"
+  }
+ ]
+}

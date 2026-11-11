@@ -1,0 +1,22 @@
+new form called synth 11 25
+make flxMain free
+add a flex called flxBg with layout free, width 100%, height 100%, skin sknflxE3E9EE
+add a flex called flxCard with layout vertical, width 480dp, height preferred, center x 50%, center y 50%, skin CopyslFbox0a7856aec039c4d
+add a label called lblHead1 with text "Set up your login", top 21dp, left 28dp, skin sknlblHeading0f223320px
+add a label called lblSub2 with text "We will send a code to your phone.", top 8dp, left 28dp, skin sknLblDescription
+add a flex called flxPair3 with layout horizontal, width 88%, height preferred, top 18dp, left 28dp
+select flxPair3
+add a flex called flxCol4 with layout vertical, width 48%, height preferred, left 0%
+add a label called lblField5 with text "From account", skin sknlblSubheading00000015px
+add a text box called tbx6 with placeholder "Select account", width 100%, height 44dp, top 6dp, skin CopydefTextBoxNormal0d77bd26223a145
+select flxPair3
+add a flex called flxCol7 with layout vertical, width 48%, height preferred, left 4%
+add a label called lblField8 with text "To account", skin sknlblSubheading00000015px
+add a text box called tbx9 with placeholder "Select account", width 100%, height 44dp, top 6dp, skin CopydefTextBoxNormal0d77bd26223a145
+select flxCard
+add a flex called flxRemember10 with layout horizontal, width preferred, height preferred, top 16dp, left 28dp
+add a flex called flxCheck11 with width 22dp, height 22dp, skin CopyslFbox0cf62699586c744
+select flxRemember10
+add a label called lblCheck12 with text "Keep me signed in on this device", left 10dp, skin sknLblDescription
+select flxCard
+add a button called btn13 with text "Submit", width 88%, height 56dp, top 20dp, left 28dp, skin sknbtn15577d

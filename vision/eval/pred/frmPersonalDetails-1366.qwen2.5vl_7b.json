@@ -1,0 +1,206 @@
+{
+ "image": "frmPersonalDetails-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    68,
+    50,
+    290,
+    85
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Already have an account?Sign in",
+   "bbox_2d": [
+    973,
+    60,
+    1250,
+    75
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Getting started",
+   "bbox_2d": [
+    378,
+    132,
+    500,
+    147
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Step 1 to 7",
+   "bbox_2d": [
+    898,
+    132,
+    995,
+    147
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Tell us about you",
+   "bbox_2d": [
+    171,
+    246,
+    455,
+    275
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Enter your name exactly as it appears on your photo ID.",
+   "bbox_2d": [
+    171,
+    299,
+    665,
+    314
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "First name",
+   "bbox_2d": [
+    223,
+    410,
+    323,
+    425
+   ]
+  },
+  {
+   "type": "input",
+   "text": "Maya",
+   "bbox_2d": [
+    223,
+    446,
+    639,
+    504
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Last name",
+   "bbox_2d": [
+    732,
+    410,
+    831,
+    425
+   ]
+  },
+  {
+   "type": "input",
+   "text": "Fernandes",
+   "bbox_2d": [
+    732,
+    446,
+    1147,
+    504
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Date of birth",
+   "bbox_2d": [
+    223,
+    542,
+    343,
+    557
+   ]
+  },
+  {
+   "type": "input",
+   "text": "",
+   "bbox_2d": [
+    223,
+    574,
+    639,
+    632
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Nationality",
+   "bbox_2d": [
+    732,
+    542,
+    838,
+    557
+   ]
+  },
+  {
+   "type": "dropdown",
+   "text": "Indian",
+   "bbox_2d": [
+    732,
+    574,
+    1147,
+    632
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Email",
+   "bbox_2d": [
+    223,
+    672,
+    283,
+    687
+   ]
+  },
+  {
+   "type": "input",
+   "text": "maya.fernandes@example.com",
+   "bbox_2d": [
+    223,
+    706,
+    1147,
+    764
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Mobile Number",
+   "bbox_2d": [
+    223,
+    798,
+    367,
+    813
+   ]
+  },
+  {
+   "type": "dropdown",
+   "text": "+91",
+   "bbox_2d": [
+    223,
+    831,
+    363,
+    889
+   ]
+  },
+  {
+   "type": "input",
+   "text": "98450 11234",
+   "bbox_2d": [
+    380,
+    831,
+    1147,
+    889
+   ]
+  }
+ ],
+ "stats": {
+  "model": "qwen2.5vl:7b",
+  "wall_s": 337.5,
+  "prompt_tokens": 1832,
+  "output_tokens": 917,
+  "prompt_s": 153.3,
+  "output_s": 184.0,
+  "output_tok_per_s": 4.98
+ }
+}

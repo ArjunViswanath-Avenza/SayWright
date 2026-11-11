@@ -1,0 +1,206 @@
+{
+ "image": "frmIdentity-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    104,
+    75,
+    320,
+    100
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Already have an account?",
+   "bbox_2d": [
+    955,
+    80,
+    1185,
+    99
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Sign in",
+   "bbox_2d": [
+    1206,
+    78,
+    1303,
+    99
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Identity documents",
+   "bbox_2d": [
+    119,
+    112,
+    225,
+    121
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Step 4 of 7",
+   "bbox_2d": [
+    1050,
+    115,
+    1165,
+    128
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Prove your identity",
+   "bbox_2d": [
+    301,
+    203,
+    711,
+    237
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Photos must show all four corners, with no glare. JPG or PNG, up to 10 MB each.",
+   "bbox_2d": [
+    301,
+    250,
+    1000,
+    269
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Document Type",
+   "bbox_2d": [
+    301,
+    346,
+    486,
+    369
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Document Number",
+   "bbox_2d": [
+    710,
+    346,
+    933,
+    369
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Passport",
+   "bbox_2d": [
+    307,
+    413,
+    375,
+    434
+   ]
+  },
+  {
+   "type": "input",
+   "text": "",
+   "bbox_2d": [
+    703,
+    391,
+    1052,
+    457
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Passport — photo page",
+   "bbox_2d": [
+    452,
+    550,
+    733,
+    573
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "passport-front.jpg · 2.1 MB",
+   "bbox_2d": [
+    452,
+    586,
+    689,
+    603
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Replace",
+   "bbox_2d": [
+    905,
+    565,
+    992,
+    612
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Passport — signature page",
+   "bbox_2d": [
+    452,
+    739,
+    776,
+    762
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "passport-back.jpg · 1.8 MB",
+   "bbox_2d": [
+    452,
+    775,
+    694,
+    790
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Replace",
+   "bbox_2d": [
+    905,
+    750,
+    992,
+    797
+   ]
+  },
+  {
+   "type": "image",
+   "text": "✓",
+   "bbox_2d": [
+    368,
+    565,
+    424,
+    595
+   ]
+  },
+  {
+   "type": "image",
+   "text": "✓",
+   "bbox_2d": [
+    368,
+    755,
+    424,
+    785
+   ]
+  }
+ ],
+ "stats": {
+  "model": "qwen2.5vl:7b",
+  "wall_s": 320.5,
+  "prompt_tokens": 1832,
+  "output_tokens": 804,
+  "prompt_s": 156.3,
+  "output_s": 164.1,
+  "output_tok_per_s": 4.9
+ }
+}

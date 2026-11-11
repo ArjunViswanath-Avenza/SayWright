@@ -1,0 +1,16 @@
+new form called synth 11 51
+add a label called lblHead1 with text "Transfer money", top 37dp, left 80dp, skin CopydefLabel0b958727ed83141
+add a label called lblSub2 with text "Check the details before you continue.", top 8dp, left 80dp, skin CopysknlblDescription0b6df324c89a54a
+add a label called lblField3 with text "OTP", top 16dp, left 80dp, skin sknlblHeading0f223320px
+add a text box called tbx4 with placeholder "Enter 6-digit code", width 35%, height 44dp, top 6dp, left 80dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a label called lblField5 with text "User Id", top 17dp, left 80dp, skin sknlblHeading0f223320px
+add a text box called tbx6 with placeholder "Enter user id", width 35%, height 50dp, top 6dp, left 80dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a label called lblField7 with text "Card number", top 20dp, left 80dp, skin sknlblHeading0f223320px
+add a text box called tbx8 with placeholder "XXXX XXXX XXXX XXXX", width 35%, height 44dp, top 6dp, left 80dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a flex called flxRemember9 with layout horizontal, width preferred, height preferred, top 16dp, left 80dp
+add a flex called flxCheck10 with width 22dp, height 22dp, skin CopyslFbox0cf62699586c744
+select flxRemember9
+add a label called lblCheck11 with text "Keep me signed in on this device", left 10dp, skin sknLblDescription
+select flxMain
+add a button called btn12 with text "Next", width 35%, height 50dp, top 22dp, left 80dp, skin sknbtn15577d
+add a label called lblLink13 with text "Open an account", top 16dp, left 80dp, skin CopydefLabel0ac07d4ebd8e448

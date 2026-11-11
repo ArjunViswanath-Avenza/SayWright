@@ -1,0 +1,194 @@
+{
+ "image": "frmSynth1133-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1366,
+    900
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    443,
+    166,
+    923,
+    735
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Update profile",
+   "bbox_2d": [
+    472,
+    195,
+    606,
+    218
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "From account",
+   "bbox_2d": [
+    472,
+    236,
+    604,
+    259
+   ],
+   "id": "lblField4"
+  },
+  {
+   "type": "input",
+   "text": "Select account",
+   "bbox_2d": [
+    472,
+    265,
+    674,
+    309
+   ],
+   "id": "tbx5"
+  },
+  {
+   "type": "text",
+   "text": "To account",
+   "bbox_2d": [
+    691,
+    236,
+    796,
+    259
+   ],
+   "id": "lblField7"
+  },
+  {
+   "type": "input",
+   "text": "Select account",
+   "bbox_2d": [
+    691,
+    265,
+    893,
+    309
+   ],
+   "id": "tbx8"
+  },
+  {
+   "type": "text",
+   "text": "Reference",
+   "bbox_2d": [
+    472,
+    326,
+    569,
+    349
+   ],
+   "id": "lblField9"
+  },
+  {
+   "type": "input",
+   "text": "Add a reference",
+   "bbox_2d": [
+    472,
+    355,
+    893,
+    399
+   ],
+   "id": "tbx10"
+  },
+  {
+   "type": "text",
+   "text": "Full name",
+   "bbox_2d": [
+    472,
+    416,
+    565,
+    439
+   ],
+   "id": "lblField11"
+  },
+  {
+   "type": "input",
+   "text": "Enter your full name",
+   "bbox_2d": [
+    472,
+    445,
+    893,
+    495
+   ],
+   "id": "tbx12"
+  },
+  {
+   "type": "text",
+   "text": "Postal code",
+   "bbox_2d": [
+    472,
+    510,
+    584,
+    533
+   ],
+   "id": "lblField13"
+  },
+  {
+   "type": "input",
+   "text": "Enter postal code",
+   "bbox_2d": [
+    472,
+    539,
+    893,
+    583
+   ],
+   "id": "tbx14"
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    472,
+    599,
+    494,
+    621
+   ],
+   "id": "flxCheck16"
+  },
+  {
+   "type": "text",
+   "text": "Keep me signed in on this device",
+   "bbox_2d": [
+    504,
+    599,
+    786,
+    621
+   ],
+   "id": "lblCheck17"
+  },
+  {
+   "type": "button",
+   "text": "Send code",
+   "bbox_2d": [
+    472,
+    647,
+    893,
+    697
+   ],
+   "id": "btn18"
+  },
+  {
+   "type": "text",
+   "text": "Terms and conditions",
+   "bbox_2d": [
+    472,
+    713,
+    641,
+    734
+   ],
+   "id": "lblLink19"
+  }
+ ]
+}

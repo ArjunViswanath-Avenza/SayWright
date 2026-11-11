@@ -1,0 +1,23 @@
+new form called synth 11 13
+add a flex called flxHeader with layout vertical, width 100%, height 160dp, skin sknflx0f2233
+add a label called lblLogo with text "AvenzaBank", top 28dp, left 40dp, skin sknlblffffff30px
+add a label called lblTagline with text "Banking for every day.", top 8dp, left 40dp, skin CopydefLabel0d9c36a8cc7b24d
+select flxMain
+add a label called lblHead1 with text "Confirm transfer", top 22dp, left 40dp, skin CopydefLabel0b958727ed83141
+add a label called lblSub2 with text "All fields are required.", top 8dp, left 40dp, skin sknLblDescription
+add a flex called flxPair3 with layout horizontal, width 60%, height preferred, top 18dp, left 40dp
+select flxPair3
+add a flex called flxCol4 with layout vertical, width 48%, height preferred, left 0%
+add a label called lblField5 with text "Expiry", skin sknlblSubheading00000015px
+add a text box called tbx6 with placeholder "MM/YY", width 100%, height 44dp, top 6dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+select flxPair3
+add a flex called flxCol7 with layout vertical, width 48%, height preferred, left 4%
+add a label called lblField8 with text "CVV", skin sknlblSubheading00000015px
+add a text box called tbx9 with placeholder "123", width 100%, height 44dp, top 6dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+select flxMain
+add a label called lblField10 with text "Amount", top 16dp, left 40dp, skin sknlblSubheading00000015px
+add a text box called tbx11 with placeholder "0.00", width 60%, height 50dp, top 6dp, left 40dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a label called lblField12 with text "Confirm password", top 22dp, left 40dp, skin sknlblSubheading00000015px
+add a text box called tbx13 with placeholder "Re-enter password", masked, width 60%, height 44dp, top 6dp, left 40dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a button called btn14 with text "Transfer now", width 60%, height 50dp, top 26dp, left 40dp, skin sknbtn15577d
+add a label called lblLink15 with text "Resend code", top 16dp, left 40dp, skin CopydefLabel0ac07d4ebd8e448

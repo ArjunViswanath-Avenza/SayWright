@@ -1,0 +1,161 @@
+{
+ "image": "frmSynth71-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1366,
+    900
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    423,
+    227,
+    943,
+    674
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Card details",
+   "bbox_2d": [
+    452,
+    251,
+    566,
+    274
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Your data is encrypted end to end.",
+   "bbox_2d": [
+    452,
+    282,
+    756,
+    305
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "From account",
+   "bbox_2d": [
+    452,
+    323,
+    551,
+    340
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "Select account",
+   "bbox_2d": [
+    452,
+    346,
+    671,
+    390
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "text",
+   "text": "To account",
+   "bbox_2d": [
+    689,
+    323,
+    768,
+    340
+   ],
+   "id": "lblField8"
+  },
+  {
+   "type": "input",
+   "text": "Select account",
+   "bbox_2d": [
+    689,
+    346,
+    908,
+    390
+   ],
+   "id": "tbx9"
+  },
+  {
+   "type": "text",
+   "text": "Mobile number",
+   "bbox_2d": [
+    452,
+    404,
+    559,
+    421
+   ],
+   "id": "lblField10"
+  },
+  {
+   "type": "input",
+   "text": "Enter mobile number",
+   "bbox_2d": [
+    452,
+    427,
+    908,
+    477
+   ],
+   "id": "tbx11"
+  },
+  {
+   "type": "text",
+   "text": "Reference",
+   "bbox_2d": [
+    452,
+    494,
+    525,
+    511
+   ],
+   "id": "lblField12"
+  },
+  {
+   "type": "input",
+   "text": "Add a reference",
+   "bbox_2d": [
+    452,
+    517,
+    908,
+    561
+   ],
+   "id": "tbx13"
+  },
+  {
+   "type": "button",
+   "text": "Verify",
+   "bbox_2d": [
+    452,
+    586,
+    908,
+    636
+   ],
+   "id": "btn14"
+  },
+  {
+   "type": "text",
+   "text": "Need help?",
+   "bbox_2d": [
+    452,
+    652,
+    544,
+    673
+   ],
+   "id": "lblLink15"
+  }
+ ]
+}

@@ -1,0 +1,316 @@
+{
+ "image": "frmProfile-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    55,
+    58,
+    278,
+    90
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Accounts",
+   "bbox_2d": [
+    327,
+    65,
+    410,
+    82
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Transfers",
+   "bbox_2d": [
+    459,
+    65,
+    542,
+    82
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Profile",
+   "bbox_2d": [
+    592,
+    65,
+    648,
+    82
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Maya Fernandes",
+   "bbox_2d": [
+    1107,
+    65,
+    1226,
+    82
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "MF",
+   "bbox_2d": [
+    1282,
+    65,
+    1323,
+    82
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Profile",
+   "bbox_2d": [
+    55,
+    175,
+    179,
+    205
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Your personal and contact details",
+   "bbox_2d": [
+    55,
+    225,
+    350,
+    240
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Edit Profile",
+   "bbox_2d": [
+    1245,
+    205,
+    1323,
+    220
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "MF",
+   "bbox_2d": [
+    239,
+    352,
+    282,
+    375
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Maya Fernandes",
+   "bbox_2d": [
+    162,
+    449,
+    362,
+    467
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Customer since March 2021",
+   "bbox_2d": [
+    135,
+    487,
+    385,
+    500
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Customer ID",
+   "bbox_2d": [
+    78,
+    557,
+    186,
+    570
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "CUS-884210",
+   "bbox_2d": [
+    308,
+    557,
+    425,
+    570
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Branch",
+   "bbox_2d": [
+    78,
+    605,
+    140,
+    618
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Bengaluru — MG Road",
+   "bbox_2d": [
+    208,
+    605,
+    425,
+    618
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "KYC",
+   "bbox_2d": [
+    78,
+    653,
+    100,
+    666
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Verified",
+   "bbox_2d": [
+    360,
+    653,
+    425,
+    666
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Personal details",
+   "bbox_2d": [
+    555,
+    324,
+    720,
+    342
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Your details as they appear on your account.",
+   "bbox_2d": [
+    555,
+    362,
+    955,
+    375
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Full Name",
+   "bbox_2d": [
+    555,
+    420,
+    655,
+    433
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Maya Fernandes",
+   "bbox_2d": [
+    1109,
+    419,
+    1264,
+    433
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Date of birth",
+   "bbox_2d": [
+    555,
+    508,
+    673,
+    521
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "12 July 1989",
+   "bbox_2d": [
+    1146,
+    508,
+    1278,
+    521
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Email",
+   "bbox_2d": [
+    555,
+    590,
+    615,
+    603
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "maya.fernandes@example.com",
+   "bbox_2d": [
+    963,
+    589,
+    1264,
+    603
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Mobile",
+   "bbox_2d": [
+    555,
+    669,
+    622,
+    682
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "+91 98450 11234",
+   "bbox_2d": [
+    1081,
+    669,
+    1264,
+    682
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Mailing address",
+   "bbox_2d": [
+    555,
+    747,
+    705,
+    760
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "42 Residency Road, Bengaluru 560025",
+   "bbox_2d": [
+    900,
+    747,
+    1264,
+    760
+   ]
+  }
+ ],
+ "stats": {
+  "model": "qwen2.5vl:7b",
+  "wall_s": 504.5,
+  "prompt_tokens": 1832,
+  "output_tokens": 1449,
+  "prompt_s": 160.2,
+  "output_s": 344.1,
+  "output_tok_per_s": 4.21
+ }
+}

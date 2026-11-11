@@ -1,0 +1,95 @@
+{
+ "image": "frmSynth1147-1024.png",
+ "width": 1024,
+ "height": 900,
+ "elements": [
+  {
+   "type": "text",
+   "text": "Reset password",
+   "bbox_2d": [
+    40,
+    37,
+    323,
+    79
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Beneficiary name",
+   "bbox_2d": [
+    40,
+    100,
+    165,
+    117
+   ],
+   "id": "lblField2"
+  },
+  {
+   "type": "input",
+   "text": "Enter beneficiary name",
+   "bbox_2d": [
+    40,
+    123,
+    603,
+    167
+   ],
+   "id": "tbx3"
+  },
+  {
+   "type": "text",
+   "text": "City",
+   "bbox_2d": [
+    40,
+    181,
+    68,
+    198
+   ],
+   "id": "lblField4"
+  },
+  {
+   "type": "input",
+   "text": "Enter city",
+   "bbox_2d": [
+    40,
+    204,
+    603,
+    244
+   ],
+   "id": "tbx5"
+  },
+  {
+   "type": "text",
+   "text": "Reference",
+   "bbox_2d": [
+    40,
+    258,
+    113,
+    275
+   ],
+   "id": "lblField6"
+  },
+  {
+   "type": "input",
+   "text": "Add a reference",
+   "bbox_2d": [
+    40,
+    281,
+    603,
+    331
+   ],
+   "id": "tbx7"
+  },
+  {
+   "type": "button",
+   "text": "Sign In",
+   "bbox_2d": [
+    40,
+    351,
+    603,
+    401
+   ],
+   "id": "btn8"
+  }
+ ]
+}

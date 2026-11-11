@@ -1,0 +1,20 @@
+new form called synth 11 22
+make flxMain horizontal
+add a flex called flxBrand with layout vertical, width 40%, height 100%, skin CopyslFbox0bb493771c5f743
+add a label called lblLogo with text "AvenzaBank", top 50dp, left 60dp, skin CopydefLabel0c4a8fec8b9624a
+add a label called lblTagline with text "Banking that stays out of your way.", width 70%, top 60dp, left 60dp, skin CopydefLabel0c4a8fec8b9624a
+select flxMain
+add a flex called flxRight with layout free, width 60%, height 100%, skin CopyslFbox0g86f15b4a96841
+add a flex called flxCard with layout vertical, width 520dp, height preferred, center x 50%, center y 50%, skin sknflxE3E9EE
+add a label called lblHead1 with text "Pay a bill", top 25dp, left 24dp, skin sknlblAvenza0f223337pxBold
+add a label called lblSub2 with text "It only takes a few minutes.", top 8dp, left 24dp, skin sknLblDescription
+add a label called lblField3 with text "City", top 18dp, left 24dp, skin sknlblSubheading00000015px
+add a text box called tbx4 with placeholder "Enter city", width 88%, height 44dp, top 6dp, left 24dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a label called lblField5 with text "Confirm password", top 22dp, left 24dp, skin sknlblSubheading00000015px
+add a text box called tbx6 with placeholder "Re-enter password", masked, width 88%, height 44dp, top 6dp, left 24dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a label called lblField7 with text "IBAN", top 21dp, left 24dp, skin sknlblSubheading00000015px
+add a text box called tbx8 with placeholder "Enter IBAN", width 88%, height 50dp, top 6dp, left 24dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a label called lblField9 with text "Amount", top 18dp, left 24dp, skin sknlblSubheading00000015px
+add a text box called tbx10 with placeholder "0.00", width 88%, height 50dp, top 6dp, left 24dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a button called btn11 with text "Next", width 88%, height 44dp, top 18dp, left 24dp, skin sknbtn15577d
+add a label called lblLink12 with text "Open an account", top 16dp, left 24dp, skin CopydefLabel0ac07d4ebd8e448

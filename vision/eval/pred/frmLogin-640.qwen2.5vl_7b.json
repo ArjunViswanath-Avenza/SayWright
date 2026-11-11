@@ -1,0 +1,166 @@
+{
+ "image": "frmLogin-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "Sign in",
+   "bbox_2d": [
+    88,
+    52,
+    225,
+    90
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Use the credentials issued by your branch.",
+   "bbox_2d": [
+    88,
+    115,
+    422,
+    131
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "User Id",
+   "bbox_2d": [
+    88,
+    179,
+    162,
+    193
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Enter user id",
+   "bbox_2d": [
+    101,
+    238,
+    220,
+    254
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Password",
+   "bbox_2d": [
+    88,
+    326,
+    177,
+    340
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Enter your password",
+   "bbox_2d": [
+    101,
+    386,
+    220,
+    402
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Keep me signed in on this device",
+   "bbox_2d": [
+    145,
+    462,
+    402,
+    478
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Sign In",
+   "bbox_2d": [
+    340,
+    552,
+    402,
+    568
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "New to Avenza Bank?",
+   "bbox_2d": [
+    288,
+    676,
+    460,
+    692
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Open an account",
+   "bbox_2d": [
+    288,
+    747,
+    422,
+    763
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Forget password?",
+   "bbox_2d": [
+    502,
+    326,
+    643,
+    340
+   ]
+  },
+  {
+   "type": "input",
+   "text": "Enter user id",
+   "bbox_2d": [
+    88,
+    213,
+    651,
+    285
+   ]
+  },
+  {
+   "type": "input",
+   "text": "Enter your password",
+   "bbox_2d": [
+    88,
+    361,
+    651,
+    434
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Sign In",
+   "bbox_2d": [
+    88,
+    530,
+    651,
+    595
+   ]
+  },
+  {
+   "type": "checkbox",
+   "text": "Keep me signed in on this device",
+   "bbox_2d": [
+    99,
+    459,
+    122,
+    482
+   ]
+  }
+ ],
+ "stats": {
+  "model": "qwen2.5vl:7b",
+  "wall_s": 222.3,
+  "prompt_tokens": 1289,
+  "output_tokens": 609,
+  "prompt_s": 102.8,
+  "output_s": 119.3,
+  "output_tok_per_s": 5.1
+ }
+}

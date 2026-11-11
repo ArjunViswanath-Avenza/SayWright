@@ -1,0 +1,150 @@
+{
+ "image": "frmSynth119-1024.png",
+ "width": 1024,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1024,
+    900
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    272,
+    253,
+    752,
+    647
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Add beneficiary",
+   "bbox_2d": [
+    301,
+    278,
+    564,
+    318
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Use the credentials issued by your branch.",
+   "bbox_2d": [
+    301,
+    326,
+    679,
+    349
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "Expiry",
+   "bbox_2d": [
+    301,
+    367,
+    362,
+    390
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "MM/YY",
+   "bbox_2d": [
+    301,
+    396,
+    503,
+    440
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "text",
+   "text": "CVV",
+   "bbox_2d": [
+    520,
+    367,
+    561,
+    390
+   ],
+   "id": "lblField8"
+  },
+  {
+   "type": "input",
+   "text": "123",
+   "bbox_2d": [
+    520,
+    396,
+    722,
+    440
+   ],
+   "id": "tbx9"
+  },
+  {
+   "type": "text",
+   "text": "IBAN",
+   "bbox_2d": [
+    301,
+    457,
+    350,
+    480
+   ],
+   "id": "lblField10"
+  },
+  {
+   "type": "input",
+   "text": "Enter IBAN",
+   "bbox_2d": [
+    301,
+    486,
+    722,
+    530
+   ],
+   "id": "tbx11"
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    301,
+    546,
+    323,
+    568
+   ],
+   "id": "flxCheck13"
+  },
+  {
+   "type": "text",
+   "text": "Keep me signed in on this device",
+   "bbox_2d": [
+    333,
+    546,
+    615,
+    568
+   ],
+   "id": "lblCheck14"
+  },
+  {
+   "type": "button",
+   "text": "Send code",
+   "bbox_2d": [
+    301,
+    596,
+    722,
+    646
+   ],
+   "id": "btn15"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+new form called synth 11 36
+make flxMain horizontal
+add a flex called flxBrand with layout vertical, width 30%, height 100%, skin sknflx0f2233
+add a label called lblLogo with text "AvenzaBank", top 50dp, left 60dp, skin CopydefLabel0g3ca6c356c1746
+add a label called lblTagline with text "Banking that stays out of your way.", width 70%, top 60dp, left 60dp, skin sknlblffffff30px
+select flxMain
+add a flex called flxRight with layout free, width 70%, height 100%, skin CopyslFbox0e142d86d9d5243
+add a flex called flxCard with layout vertical, width 440dp, height preferred, center x 50%, center y 50%, skin sknflxHeaderBorder5b6b7a20px
+add a label called lblHead1 with text "Pay a bill", top 36dp, left 24dp, skin CopydefLabel0b958727ed83141
+add a label called lblSub2 with text "It only takes a few minutes.", top 8dp, left 24dp, skin sknlblDescription5b6b7a20px
+add a label called lblField3 with text "Full name", top 19dp, left 24dp, skin sknlblHeading0f223320px
+add a text box called tbx4 with placeholder "Enter your full name", width 88%, height 40dp, top 6dp, left 24dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a label called lblField5 with text "Date of birth", top 22dp, left 24dp, skin sknlblHeading0f223320px
+add a text box called tbx6 with placeholder "DD/MM/YYYY", width 88%, height 40dp, top 6dp, left 24dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a label called lblField7 with text "Amount", top 18dp, left 24dp, skin sknlblHeading0f223320px
+add a text box called tbx8 with placeholder "0.00", width 88%, height 44dp, top 6dp, left 24dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a flex called flxRemember9 with layout horizontal, width preferred, height preferred, top 16dp, left 24dp
+add a flex called flxCheck10 with width 22dp, height 22dp, skin CopyslFbox0cf62699586c744
+select flxRemember9
+add a label called lblCheck11 with text "Keep me signed in on this device", left 10dp, skin sknLblDescription
+select flxCard
+add a button called btn12 with text "Next", width 88%, height 56dp, top 25dp, left 24dp, skin sknbtn15577d
+add a label called lblLink13 with text "Need help?", top 16dp, left 24dp, skin CopydefLabel0ac07d4ebd8e448

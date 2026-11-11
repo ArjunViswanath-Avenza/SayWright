@@ -1,0 +1,161 @@
+{
+ "image": "frmSynth1124-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    410,
+    900
+   ],
+   "id": "flxBrand"
+  },
+  {
+   "type": "text",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    60,
+    50,
+    238,
+    84
+   ],
+   "id": "lblLogo"
+  },
+  {
+   "type": "text",
+   "text": "Your money, your way.",
+   "bbox_2d": [
+    60,
+    144,
+    347,
+    228
+   ],
+   "id": "lblTagline"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    410,
+    0,
+    1366,
+    900
+   ],
+   "id": "flxRight"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    648,
+    225,
+    1128,
+    675
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Set up your login",
+   "bbox_2d": [
+    673,
+    259,
+    975,
+    301
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Your data is encrypted end to end.",
+   "bbox_2d": [
+    673,
+    309,
+    977,
+    332
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "Confirm password",
+   "bbox_2d": [
+    673,
+    348,
+    848,
+    371
+   ],
+   "id": "lblField3"
+  },
+  {
+   "type": "input",
+   "text": "Re-enter password",
+   "bbox_2d": [
+    673,
+    377,
+    1094,
+    417
+   ],
+   "id": "tbx4"
+  },
+  {
+   "type": "text",
+   "text": "OTP",
+   "bbox_2d": [
+    673,
+    438,
+    714,
+    461
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "Enter 6-digit code",
+   "bbox_2d": [
+    673,
+    467,
+    1094,
+    507
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "text",
+   "text": "Date of birth",
+   "bbox_2d": [
+    673,
+    529,
+    791,
+    552
+   ],
+   "id": "lblField7"
+  },
+  {
+   "type": "input",
+   "text": "DD/MM/YYYY",
+   "bbox_2d": [
+    673,
+    558,
+    1094,
+    602
+   ],
+   "id": "tbx8"
+  },
+  {
+   "type": "button",
+   "text": "Save changes",
+   "bbox_2d": [
+    673,
+    624,
+    1094,
+    674
+   ],
+   "id": "btn9"
+  }
+ ]
+}

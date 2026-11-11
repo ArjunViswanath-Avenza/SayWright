@@ -1,0 +1,84 @@
+{
+ "image": "frmSynth73-1024.png",
+ "width": 1024,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1024,
+    120
+   ],
+   "id": "flxHeader"
+  },
+  {
+   "type": "text",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    41,
+    29,
+    219,
+    63
+   ],
+   "id": "lblLogo"
+  },
+  {
+   "type": "text",
+   "text": "Reset password",
+   "bbox_2d": [
+    40,
+    142,
+    309,
+    182
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Reference",
+   "bbox_2d": [
+    40,
+    203,
+    113,
+    220
+   ],
+   "id": "lblField2"
+  },
+  {
+   "type": "input",
+   "text": "Add a reference",
+   "bbox_2d": [
+    40,
+    226,
+    654,
+    270
+   ],
+   "id": "tbx3"
+  },
+  {
+   "type": "button",
+   "text": "Save changes",
+   "bbox_2d": [
+    40,
+    295,
+    654,
+    339
+   ],
+   "id": "btn4"
+  },
+  {
+   "type": "text",
+   "text": "Forgot password?",
+   "bbox_2d": [
+    40,
+    355,
+    183,
+    376
+   ],
+   "id": "lblLink5"
+  }
+ ]
+}

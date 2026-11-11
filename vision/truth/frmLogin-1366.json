@@ -1,0 +1,227 @@
+{
+ "image": "frmLogin-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    478,
+    900
+   ],
+   "id": "flxLeftPannel"
+  },
+  {
+   "type": "text",
+   "text": "Avenza",
+   "bbox_2d": [
+    75,
+    50,
+    186,
+    87
+   ],
+   "id": "lblAvenza"
+  },
+  {
+   "type": "text",
+   "text": "Bank",
+   "bbox_2d": [
+    183,
+    50,
+    262,
+    87
+   ],
+   "id": "lblBank"
+  },
+  {
+   "type": "text",
+   "text": "Banking that stays out of your way.",
+   "bbox_2d": [
+    69,
+    190,
+    409,
+    274
+   ],
+   "id": "lblBanking"
+  },
+  {
+   "type": "text",
+   "text": "Accounts, transfers and statements in one place. Secured with 256-bit encryption.",
+   "bbox_2d": [
+    69,
+    390,
+    409,
+    459
+   ],
+   "id": "lblInfo1"
+  },
+  {
+   "type": "text",
+   "text": "FDIC insured 24/7 support v2.4.0",
+   "bbox_2d": [
+    59,
+    497,
+    323,
+    518
+   ],
+   "id": "lblFDIC"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    478,
+    0,
+    1366,
+    900
+   ],
+   "id": "flxRight"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    627,
+    1,
+    1217,
+    601
+   ],
+   "id": "flxCentre"
+  },
+  {
+   "type": "text",
+   "text": "Sign in",
+   "bbox_2d": [
+    648,
+    40,
+    765,
+    80
+   ],
+   "id": "lblSignin"
+  },
+  {
+   "type": "text",
+   "text": "Use the credentials issued by your branch.",
+   "bbox_2d": [
+    648,
+    97,
+    1026,
+    120
+   ],
+   "id": "lblSingninInfo"
+  },
+  {
+   "type": "text",
+   "text": "User Id",
+   "bbox_2d": [
+    648,
+    136,
+    699,
+    153
+   ],
+   "id": "lblUserId"
+  },
+  {
+   "type": "input",
+   "text": "Enter user id",
+   "bbox_2d": [
+    648,
+    167,
+    1128,
+    227
+   ],
+   "id": "tbxUserId"
+  },
+  {
+   "type": "text",
+   "text": "Password",
+   "bbox_2d": [
+    648,
+    259,
+    719,
+    276
+   ],
+   "id": "lblPassword"
+  },
+  {
+   "type": "input",
+   "text": "Enter your password",
+   "bbox_2d": [
+    648,
+    292,
+    1128,
+    352
+   ],
+   "id": "tbxPassword"
+  },
+  {
+   "type": "text",
+   "text": "Forget password?",
+   "bbox_2d": [
+    983,
+    259,
+    1127,
+    280
+   ],
+   "id": "lblForgetPass"
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    653,
+    372,
+    678,
+    397
+   ],
+   "id": "flxRem"
+  },
+  {
+   "type": "text",
+   "text": "Keep me signed in on this device",
+   "bbox_2d": [
+    791,
+    374,
+    1073,
+    396
+   ],
+   "id": "lblSignInfo"
+  },
+  {
+   "type": "button",
+   "text": "Sign In",
+   "bbox_2d": [
+    648,
+    432,
+    1128,
+    492
+   ],
+   "id": "btnSignIn"
+  },
+  {
+   "type": "text",
+   "text": "New to Avenza Bank?",
+   "bbox_2d": [
+    728,
+    562,
+    916,
+    584
+   ],
+   "id": "lblNewtoBank"
+  },
+  {
+   "type": "text",
+   "text": "Open an account",
+   "bbox_2d": [
+    908,
+    562,
+    1045,
+    583
+   ],
+   "id": "lblOpenAcc"
+  }
+ ]
+}

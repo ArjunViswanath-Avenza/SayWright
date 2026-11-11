@@ -1,0 +1,22 @@
+new form called synth 11 58
+add a label called lblHead1 with text "Card details", top 35dp, left 40dp, skin sknlblHeading0f223320px
+add a flex called flxPair2 with layout horizontal, width 35%, height preferred, top 18dp, left 40dp
+select flxPair2
+add a flex called flxCol3 with layout vertical, width 48%, height preferred, left 0%
+add a label called lblField4 with text "First name", skin sknlblHeading0f223320px
+add a text box called tbx5 with placeholder "Enter first name", width 100%, height 44dp, top 6dp, skin skntbx5b6b7a15px
+select flxPair2
+add a flex called flxCol6 with layout vertical, width 48%, height preferred, left 4%
+add a label called lblField7 with text "Last name", skin sknlblHeading0f223320px
+add a text box called tbx8 with placeholder "Enter last name", width 100%, height 44dp, top 6dp, skin skntbx5b6b7a15px
+select flxMain
+add a label called lblField9 with text "User Id", top 17dp, left 40dp, skin sknlblHeading0f223320px
+add a text box called tbx10 with placeholder "Enter user id", width 35%, height 50dp, top 6dp, left 40dp, skin skntbx5b6b7a15px
+add a label called lblField11 with text "Postal code", top 20dp, left 40dp, skin sknlblHeading0f223320px
+add a text box called tbx12 with placeholder "Enter postal code", width 35%, height 50dp, top 6dp, left 40dp, skin skntbx5b6b7a15px
+add a flex called flxRemember13 with layout horizontal, width preferred, height preferred, top 16dp, left 40dp
+add a flex called flxCheck14 with width 22dp, height 22dp, skin CopyslFbox0cf62699586c744
+select flxRemember13
+add a label called lblCheck15 with text "Keep me signed in on this device", left 10dp, skin sknLblDescription
+select flxMain
+add a button called btn16 with text "Transfer now", width 35%, height 44dp, top 20dp, left 40dp, skin CopydefBtnNormal0a5557b20e63745

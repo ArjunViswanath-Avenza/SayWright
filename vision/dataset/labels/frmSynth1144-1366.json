@@ -1,0 +1,139 @@
+{
+ "image": "frmSynth1144-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1366,
+    900
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    443,
+    230,
+    923,
+    670
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Verify your identity",
+   "bbox_2d": [
+    472,
+    261,
+    805,
+    303
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Card number",
+   "bbox_2d": [
+    472,
+    319,
+    566,
+    336
+   ],
+   "id": "lblField2"
+  },
+  {
+   "type": "input",
+   "text": "XXXX XXXX XXXX XXXX",
+   "bbox_2d": [
+    472,
+    342,
+    893,
+    382
+   ],
+   "id": "tbx3"
+  },
+  {
+   "type": "text",
+   "text": "Amount",
+   "bbox_2d": [
+    472,
+    400,
+    529,
+    417
+   ],
+   "id": "lblField4"
+  },
+  {
+   "type": "input",
+   "text": "0.00",
+   "bbox_2d": [
+    472,
+    423,
+    893,
+    463
+   ],
+   "id": "tbx5"
+  },
+  {
+   "type": "text",
+   "text": "Email address",
+   "bbox_2d": [
+    472,
+    480,
+    574,
+    497
+   ],
+   "id": "lblField6"
+  },
+  {
+   "type": "input",
+   "text": "name@example.com",
+   "bbox_2d": [
+    472,
+    503,
+    893,
+    547
+   ],
+   "id": "tbx7"
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    472,
+    563,
+    494,
+    585
+   ],
+   "id": "flxCheck9"
+  },
+  {
+   "type": "text",
+   "text": "Keep me signed in on this device",
+   "bbox_2d": [
+    504,
+    563,
+    786,
+    585
+   ],
+   "id": "lblCheck10"
+  },
+  {
+   "type": "button",
+   "text": "Transfer now",
+   "bbox_2d": [
+    472,
+    613,
+    893,
+    669
+   ],
+   "id": "btn11"
+  }
+ ]
+}

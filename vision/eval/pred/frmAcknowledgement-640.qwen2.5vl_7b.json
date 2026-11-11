@@ -1,0 +1,176 @@
+{
+ "image": "frmAcknowledgement-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "Transfer sent",
+   "bbox_2d": [
+    39,
+    25,
+    206,
+    52
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "3 of 3",
+   "bbox_2d": [
+    665,
+    30,
+    740,
+    48
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "On its way",
+   "bbox_2d": [
+    302,
+    328,
+    450,
+    356
+   ]
+  },
+  {
+   "type": "text",
+   "text": "$1,200.00 is on its way to Rahul Mehta.It",
+   "bbox_2d": [
+    195,
+    381,
+    557,
+    403
+   ]
+  },
+  {
+   "type": "text",
+   "text": "should land the same business day.",
+   "bbox_2d": [
+    219,
+    415,
+    533,
+    436
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Reference",
+   "bbox_2d": [
+    133,
+    505,
+    226,
+    523
+   ]
+  },
+  {
+   "type": "text",
+   "text": "TRF-2026-100482",
+   "bbox_2d": [
+    447,
+    505,
+    640,
+    523
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "From",
+   "bbox_2d": [
+    133,
+    559,
+    180,
+    577
+   ]
+  },
+  {
+   "type": "text",
+   "text": "123456XXXX",
+   "bbox_2d": [
+    492,
+    559,
+    622,
+    577
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "To",
+   "bbox_2d": [
+    133,
+    613,
+    157,
+    631
+   ]
+  },
+  {
+   "type": "text",
+   "text": "4455XXXX",
+   "bbox_2d": [
+    516,
+    613,
+    622,
+    631
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Posted",
+   "bbox_2d": [
+    133,
+    660,
+    196,
+    678
+   ]
+  },
+  {
+   "type": "text",
+   "text": "5 Oct, 09:47",
+   "bbox_2d": [
+    500,
+    660,
+    595,
+    678
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Back to accounts",
+   "bbox_2d": [
+    298,
+    799,
+    453,
+    817
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Another transfer",
+   "bbox_2d": [
+    304,
+    883,
+    452,
+    899
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Download receipt(PDF)",
+   "bbox_2d": [
+    260,
+    943,
+    494,
+    961
+   ]
+  }
+ ],
+ "stats": {
+  "model": "qwen2.5vl:7b",
+  "wall_s": 262.0,
+  "prompt_tokens": 1289,
+  "output_tokens": 789,
+  "prompt_s": 106.0,
+  "output_s": 155.8,
+  "output_tok_per_s": 5.06
+ }
+}

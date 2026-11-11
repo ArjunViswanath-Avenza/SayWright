@@ -1,0 +1,359 @@
+{
+ "image": "frmOpenAccount-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1366,
+    900
+   ],
+   "id": "flxParent"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1366,
+    80
+   ],
+   "id": "flxHeader"
+  },
+  {
+   "type": "text",
+   "text": "Avenza",
+   "bbox_2d": [
+    69,
+    20,
+    197,
+    62
+   ],
+   "id": "SignInHeader.lblAvenza"
+  },
+  {
+   "type": "text",
+   "text": "Bank",
+   "bbox_2d": [
+    197,
+    20,
+    288,
+    62
+   ],
+   "id": "SignInHeader.lblBank"
+  },
+  {
+   "type": "text",
+   "text": "Already have an account?",
+   "bbox_2d": [
+    1065,
+    31,
+    1274,
+    52
+   ],
+   "id": "SignInHeader.lblaccount"
+  },
+  {
+   "type": "text",
+   "text": "Sign in",
+   "bbox_2d": [
+    1274,
+    30,
+    1341,
+    53
+   ],
+   "id": "SignInHeader.lblSignIn"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    80,
+    1366,
+    160
+   ],
+   "id": "flxFlow"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    81,
+    1365,
+    161
+   ],
+   "id": "completionflow.flxFlow"
+  },
+  {
+   "type": "text",
+   "text": "Getting started",
+   "bbox_2d": [
+    612,
+    92,
+    754,
+    115
+   ],
+   "id": "completionflow.lblGettingStared"
+  },
+  {
+   "type": "text",
+   "text": "Step 1 to 7",
+   "bbox_2d": [
+    612,
+    92,
+    709,
+    115
+   ],
+   "id": "completionflow.lblStep"
+  },
+  {
+   "type": "text",
+   "text": "Open an account",
+   "bbox_2d": [
+    205,
+    209,
+    529,
+    254
+   ],
+   "id": "lblOpenAccount"
+  },
+  {
+   "type": "text",
+   "text": "Takes about 8 minutes. You can save and come back at any point.",
+   "bbox_2d": [
+    205,
+    273,
+    791,
+    296
+   ],
+   "id": "lblDes"
+  },
+  {
+   "type": "text",
+   "text": "Which account would you like?",
+   "bbox_2d": [
+    205,
+    325,
+    503,
+    348
+   ],
+   "id": "lblWhichAccount"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    205,
+    367,
+    1161,
+    477
+   ],
+   "id": "flxSavingsAccount"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    244,
+    395,
+    264,
+    415
+   ],
+   "id": "flxRadioIcon3"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    248,
+    399,
+    260,
+    411
+   ],
+   "id": "flxGreen"
+  },
+  {
+   "type": "text",
+   "text": "Savings Account",
+   "bbox_2d": [
+    291,
+    394,
+    452,
+    417
+   ],
+   "id": "lblSavings"
+  },
+  {
+   "type": "text",
+   "text": "Everyday banking with interest on your balance. No minimum.",
+   "bbox_2d": [
+    291,
+    495,
+    786,
+    516
+   ],
+   "id": "lblSent3"
+  },
+  {
+   "type": "text",
+   "text": "3.25% p.a.",
+   "bbox_2d": [
+    1050,
+    395,
+    1131,
+    415
+   ],
+   "id": "lbl325pa"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    205,
+    496,
+    1161,
+    606
+   ],
+   "id": "flxCurrentAccount"
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    244,
+    524,
+    264,
+    544
+   ],
+   "id": "flxRadioIcon"
+  },
+  {
+   "type": "text",
+   "text": "Current Account",
+   "bbox_2d": [
+    291,
+    523,
+    448,
+    546
+   ],
+   "id": "lblCurrentAccount"
+  },
+  {
+   "type": "text",
+   "text": "For business use. Higher transaction limits, overdraft on request.",
+   "bbox_2d": [
+    291,
+    624,
+    808,
+    645
+   ],
+   "id": "lblSent1"
+  },
+  {
+   "type": "text",
+   "text": "No interest",
+   "bbox_2d": [
+    1049,
+    524,
+    1131,
+    544
+   ],
+   "id": "lblNointerest"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    205,
+    625,
+    1161,
+    735
+   ],
+   "id": "flxSalaryAccount"
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    244,
+    653,
+    264,
+    673
+   ],
+   "id": "flxRadioIcon2"
+  },
+  {
+   "type": "text",
+   "text": "Salary Account",
+   "bbox_2d": [
+    291,
+    652,
+    436,
+    675
+   ],
+   "id": "lblSalAcct"
+  },
+  {
+   "type": "text",
+   "text": "Zero balance account opened through your employer.",
+   "bbox_2d": [
+    291,
+    753,
+    720,
+    774
+   ],
+   "id": "lblSent2"
+  },
+  {
+   "type": "text",
+   "text": "3.00% p.a.",
+   "bbox_2d": [
+    1050,
+    653,
+    1131,
+    673
+   ],
+   "id": "lbl3pa"
+  },
+  {
+   "type": "text",
+   "text": "Country of residence",
+   "bbox_2d": [
+    205,
+    764,
+    405,
+    787
+   ],
+   "id": "lblCountry"
+  },
+  {
+   "type": "dropdown",
+   "text": "India",
+   "bbox_2d": [
+    205,
+    806,
+    1161,
+    866
+   ],
+   "id": "lbxCountry"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    205,
+    894,
+    1161,
+    900
+   ],
+   "id": "flxInfo"
+  }
+ ]
+}

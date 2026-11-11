@@ -1,0 +1,11 @@
+new form called synth 11 35
+add a label called lblHead1 with text "Open an account", top 28dp, left 120dp, skin CopydefLabel0b958727ed83141
+add a label called lblSub2 with text "Your data is encrypted end to end.", top 8dp, left 120dp, skin CopysknlblDescription0b6df324c89a54a
+add a label called lblField3 with text "User Id", top 20dp, left 120dp, skin sknlblHeading0f223320px
+add a text box called tbx4 with placeholder "Enter user id", width 55%, height 40dp, top 6dp, left 120dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a label called lblField5 with text "Beneficiary name", top 15dp, left 120dp, skin sknlblHeading0f223320px
+add a text box called tbx6 with placeholder "Enter beneficiary name", width 55%, height 40dp, top 6dp, left 120dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a label called lblField7 with text "City", top 15dp, left 120dp, skin sknlblHeading0f223320px
+add a text box called tbx8 with placeholder "Enter city", width 55%, height 40dp, top 6dp, left 120dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a button called btn9 with text "Sign In", width 55%, height 44dp, top 21dp, left 120dp, skin CopydefBtnNormal0a5557b20e63745
+add a label called lblLink10 with text "Back to login", top 16dp, left 120dp, skin CopydefLabel0ac07d4ebd8e448

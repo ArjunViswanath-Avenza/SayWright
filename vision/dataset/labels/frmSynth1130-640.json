@@ -1,0 +1,150 @@
+{
+ "image": "frmSynth1130-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "text",
+   "text": "Sign in",
+   "bbox_2d": [
+    120,
+    36,
+    243,
+    78
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Beneficiary name",
+   "bbox_2d": [
+    120,
+    98,
+    286,
+    121
+   ],
+   "id": "lblField2"
+  },
+  {
+   "type": "input",
+   "text": "Enter beneficiary name",
+   "bbox_2d": [
+    120,
+    127,
+    472,
+    177
+   ],
+   "id": "tbx3"
+  },
+  {
+   "type": "text",
+   "text": "Date of birth",
+   "bbox_2d": [
+    120,
+    193,
+    238,
+    216
+   ],
+   "id": "lblField4"
+  },
+  {
+   "type": "input",
+   "text": "DD/MM/YYYY",
+   "bbox_2d": [
+    120,
+    222,
+    472,
+    266
+   ],
+   "id": "tbx5"
+  },
+  {
+   "type": "text",
+   "text": "Mobile number",
+   "bbox_2d": [
+    120,
+    283,
+    262,
+    306
+   ],
+   "id": "lblField6"
+  },
+  {
+   "type": "input",
+   "text": "Enter mobile number",
+   "bbox_2d": [
+    120,
+    312,
+    472,
+    356
+   ],
+   "id": "tbx7"
+  },
+  {
+   "type": "text",
+   "text": "User Id",
+   "bbox_2d": [
+    120,
+    376,
+    188,
+    399
+   ],
+   "id": "lblField8"
+  },
+  {
+   "type": "input",
+   "text": "Enter user id",
+   "bbox_2d": [
+    120,
+    405,
+    472,
+    455
+   ],
+   "id": "tbx9"
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    120,
+    471,
+    142,
+    493
+   ],
+   "id": "flxCheck11"
+  },
+  {
+   "type": "text",
+   "text": "Keep me signed in on this device",
+   "bbox_2d": [
+    152,
+    471,
+    434,
+    493
+   ],
+   "id": "lblCheck12"
+  },
+  {
+   "type": "button",
+   "text": "Continue",
+   "bbox_2d": [
+    120,
+    515,
+    472,
+    565
+   ],
+   "id": "btn13"
+  },
+  {
+   "type": "text",
+   "text": "Need help?",
+   "bbox_2d": [
+    120,
+    581,
+    212,
+    602
+   ],
+   "id": "lblLink14"
+  }
+ ]
+}

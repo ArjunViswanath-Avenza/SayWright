@@ -1,0 +1,166 @@
+{
+ "image": "frmAddress-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    105,
+    55,
+    325,
+    88
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Already have an account? Sign in",
+   "bbox_2d": [
+    958,
+    65,
+    1303,
+    88
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Where do you live?",
+   "bbox_2d": [
+    278,
+    205,
+    665,
+    238
+   ]
+  },
+  {
+   "type": "text",
+   "text": "We post your card and statements here, so make sure it is current.",
+   "bbox_2d": [
+    278,
+    255,
+    844,
+    272
+   ]
+  },
+  {
+   "type": "checkbox",
+   "text": "Use the address printed on my passport",
+   "bbox_2d": [
+    300,
+    355,
+    842,
+    388
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Address line",
+   "bbox_2d": [
+    290,
+    432,
+    437,
+    453
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Address line (optional)",
+   "bbox_2d": [
+    283,
+    562,
+    485,
+    583
+   ]
+  },
+  {
+   "type": "text",
+   "text": "city",
+   "bbox_2d": [
+    283,
+    699,
+    322,
+    718
+   ]
+  },
+  {
+   "type": "input",
+   "text": "",
+   "bbox_2d": [
+    283,
+    738,
+    644,
+    794
+   ]
+  },
+  {
+   "type": "text",
+   "text": "state",
+   "bbox_2d": [
+    728,
+    699,
+    784,
+    718
+   ]
+  },
+  {
+   "type": "dropdown",
+   "text": "TamilNadu",
+   "bbox_2d": [
+    723,
+    738,
+    1086,
+    794
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Pincode",
+   "bbox_2d": [
+    283,
+    833,
+    349,
+    852
+   ]
+  },
+  {
+   "type": "input",
+   "text": "",
+   "bbox_2d": [
+    283,
+    872,
+    644,
+    916
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Country",
+   "bbox_2d": [
+    728,
+    833,
+    820,
+    852
+   ]
+  },
+  {
+   "type": "input",
+   "text": "",
+   "bbox_2d": [
+    723,
+    872,
+    1086,
+    916
+   ]
+  }
+ ],
+ "stats": {
+  "model": "qwen2.5vl:7b",
+  "wall_s": 305.5,
+  "prompt_tokens": 1832,
+  "output_tokens": 718,
+  "prompt_s": 157.2,
+  "output_s": 148.2,
+  "output_tok_per_s": 4.84
+ }
+}

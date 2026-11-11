@@ -1,0 +1,17 @@
+new form called synth 11 50
+make flxMain horizontal
+add a flex called flxBrand with layout vertical, width 30%, height 100%, skin sknflx15577d
+add a label called lblLogo with text "AvenzaBank", top 50dp, left 60dp, skin CopydefLabel0c4a8fec8b9624a
+add a label called lblTagline with text "Your money, your way.", width 70%, top 60dp, left 60dp, skin sknlblffffff30px
+select flxMain
+add a flex called flxRight with layout free, width 70%, height 100%, skin CopyslFbox0e142d86d9d5243
+add a flex called flxCard with layout vertical, width 440dp, height preferred, center x 50%, center y 50%, skin CopyslFbox0a7856aec039c4d
+add a label called lblHead1 with text "Pay a bill", top 34dp, left 24dp, skin CopydefLabel0b958727ed83141
+add a label called lblField2 with text "Amount", top 20dp, left 24dp, skin sknlblHeading0f223320px
+add a text box called tbx3 with placeholder "0.00", width 88%, height 50dp, top 6dp, left 24dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a label called lblField4 with text "Full name", top 14dp, left 24dp, skin sknlblHeading0f223320px
+add a text box called tbx5 with placeholder "Enter your full name", width 88%, height 50dp, top 6dp, left 24dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a label called lblField6 with text "Mobile number", top 19dp, left 24dp, skin sknlblHeading0f223320px
+add a text box called tbx7 with placeholder "Enter mobile number", width 88%, height 50dp, top 6dp, left 24dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a button called btn8 with text "Sign In", width 88%, height 50dp, top 24dp, left 24dp, skin sknbtn15577d
+add a label called lblLink9 with text "Forgot password?", top 16dp, left 24dp, skin CopydefLabel0ac07d4ebd8e448

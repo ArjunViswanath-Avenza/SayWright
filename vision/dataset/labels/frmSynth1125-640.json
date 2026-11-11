@@ -1,0 +1,128 @@
+{
+ "image": "frmSynth1125-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    640,
+    900
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    80,
+    313,
+    560,
+    588
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Set up your login",
+   "bbox_2d": [
+    109,
+    335,
+    272,
+    358
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "We will send a code to your phone.",
+   "bbox_2d": [
+    109,
+    366,
+    408,
+    388
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "From account",
+   "bbox_2d": [
+    109,
+    406,
+    208,
+    423
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "Select account",
+   "bbox_2d": [
+    109,
+    429,
+    311,
+    473
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "text",
+   "text": "To account",
+   "bbox_2d": [
+    328,
+    406,
+    407,
+    423
+   ],
+   "id": "lblField8"
+  },
+  {
+   "type": "input",
+   "text": "Select account",
+   "bbox_2d": [
+    328,
+    429,
+    530,
+    473
+   ],
+   "id": "tbx9"
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    109,
+    489,
+    131,
+    511
+   ],
+   "id": "flxCheck11"
+  },
+  {
+   "type": "text",
+   "text": "Keep me signed in on this device",
+   "bbox_2d": [
+    141,
+    489,
+    423,
+    511
+   ],
+   "id": "lblCheck12"
+  },
+  {
+   "type": "button",
+   "text": "Submit",
+   "bbox_2d": [
+    109,
+    531,
+    530,
+    587
+   ],
+   "id": "btn13"
+  }
+ ]
+}

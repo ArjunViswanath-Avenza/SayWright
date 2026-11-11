@@ -1,0 +1,381 @@
+{
+ "image": "frmOpenAccount-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    640,
+    900
+   ],
+   "id": "flxParent"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    640,
+    80
+   ],
+   "id": "flxFlow"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    1,
+    639,
+    81
+   ],
+   "id": "completionflow.flxFlow"
+  },
+  {
+   "type": "text",
+   "text": "Getting started",
+   "bbox_2d": [
+    249,
+    16,
+    391,
+    39
+   ],
+   "id": "completionflow.lblGettingStared"
+  },
+  {
+   "type": "text",
+   "text": "1 to 7",
+   "bbox_2d": [
+    249,
+    16,
+    299,
+    39
+   ],
+   "id": "completionflow.lblStep"
+  },
+  {
+   "type": "text",
+   "text": "Open an account",
+   "bbox_2d": [
+    32,
+    97,
+    316,
+    137
+   ],
+   "id": "lblOpenAccount"
+  },
+  {
+   "type": "text",
+   "text": "Takes about 8 minutes. You can save and come back.",
+   "bbox_2d": [
+    32,
+    143,
+    464,
+    163
+   ],
+   "id": "lblDes"
+  },
+  {
+   "type": "text",
+   "text": "Which account?",
+   "bbox_2d": [
+    32,
+    180,
+    172,
+    201
+   ],
+   "id": "lblWhichAccount"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    87,
+    213,
+    553,
+    323
+   ],
+   "id": "flxSavingsAccount"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    112,
+    241,
+    132,
+    261
+   ],
+   "id": "flxRadioIcon3"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    116,
+    245,
+    128,
+    257
+   ],
+   "id": "flxGreen"
+  },
+  {
+   "type": "text",
+   "text": "Savings",
+   "bbox_2d": [
+    148,
+    240,
+    218,
+    261
+   ],
+   "id": "lblSavings"
+  },
+  {
+   "type": "text",
+   "text": "Everyday banking with interest. No minimum balance.",
+   "bbox_2d": [
+    148,
+    301,
+    451,
+    341
+   ],
+   "id": "lblSent3"
+  },
+  {
+   "type": "text",
+   "text": "3.25% p.a.",
+   "bbox_2d": [
+    457,
+    241,
+    538,
+    261
+   ],
+   "id": "lbl325pa"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    106,
+    334,
+    534,
+    444
+   ],
+   "id": "flxCurrentAccount"
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    129,
+    362,
+    149,
+    382
+   ],
+   "id": "flxRadioIcon"
+  },
+  {
+   "type": "text",
+   "text": "Current",
+   "bbox_2d": [
+    167,
+    361,
+    233,
+    382
+   ],
+   "id": "lblCurrentAccount"
+  },
+  {
+   "type": "text",
+   "text": "For business. Higher limits, overdraft on request.",
+   "bbox_2d": [
+    167,
+    419,
+    441,
+    459
+   ],
+   "id": "lblSent1"
+  },
+  {
+   "type": "text",
+   "text": "No interest",
+   "bbox_2d": [
+    438,
+    362,
+    520,
+    382
+   ],
+   "id": "lblNointerest"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    106,
+    456,
+    534,
+    566
+   ],
+   "id": "flxSalaryAccount"
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    128,
+    484,
+    148,
+    504
+   ],
+   "id": "flxRadioIcon2"
+  },
+  {
+   "type": "text",
+   "text": "Salary",
+   "bbox_2d": [
+    167,
+    483,
+    221,
+    504
+   ],
+   "id": "lblSalAcct"
+  },
+  {
+   "type": "text",
+   "text": "Zero balance account opened via your employer.",
+   "bbox_2d": [
+    167,
+    540,
+    442,
+    580
+   ],
+   "id": "lblSent2"
+  },
+  {
+   "type": "text",
+   "text": "3.00% p.a.",
+   "bbox_2d": [
+    439,
+    484,
+    520,
+    504
+   ],
+   "id": "lbl3pa"
+  },
+  {
+   "type": "text",
+   "text": "Country of residence",
+   "bbox_2d": [
+    32,
+    583,
+    213,
+    604
+   ],
+   "id": "lblCountry"
+  },
+  {
+   "type": "dropdown",
+   "text": "India",
+   "bbox_2d": [
+    32,
+    610,
+    608,
+    670
+   ],
+   "id": "lbxCountry"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    32,
+    687,
+    608,
+    900
+   ],
+   "id": "flxInfo"
+  },
+  {
+   "type": "text",
+   "text": "Have these ready",
+   "bbox_2d": [
+    69,
+    719,
+    218,
+    740
+   ],
+   "id": "flxHave"
+  },
+  {
+   "type": "image",
+   "text": "",
+   "bbox_2d": [
+    216,
+    764,
+    246,
+    794
+   ],
+   "id": "imgTick"
+  },
+  {
+   "type": "text",
+   "text": "A government photo ID",
+   "bbox_2d": [
+    261,
+    759,
+    432,
+    799
+   ],
+   "id": "lblGov"
+  },
+  {
+   "type": "image",
+   "text": "",
+   "bbox_2d": [
+    241,
+    806,
+    271,
+    836
+   ],
+   "id": "imgTick2"
+  },
+  {
+   "type": "text",
+   "text": "Your tax number",
+   "bbox_2d": [
+    286,
+    811,
+    420,
+    831
+   ],
+   "id": "lblTax"
+  },
+  {
+   "type": "image",
+   "text": "",
+   "bbox_2d": [
+    149,
+    848,
+    179,
+    878
+   ],
+   "id": "imgTick3"
+  },
+  {
+   "type": "text",
+   "text": "A mobile number for the verification code",
+   "bbox_2d": [
+    194,
+    843,
+    466,
+    883
+   ],
+   "id": "lblMobile"
+  }
+ ]
+}

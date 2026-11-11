@@ -1,0 +1,62 @@
+{
+ "image": "frmSynth110-1024.png",
+ "width": 1024,
+ "height": 900,
+ "elements": [
+  {
+   "type": "text",
+   "text": "Reset password",
+   "bbox_2d": [
+    120,
+    36,
+    273,
+    59
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "All fields are required.",
+   "bbox_2d": [
+    120,
+    67,
+    306,
+    89
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "Confirm password",
+   "bbox_2d": [
+    120,
+    104,
+    252,
+    121
+   ],
+   "id": "lblField3"
+  },
+  {
+   "type": "input",
+   "text": "Re-enter password",
+   "bbox_2d": [
+    120,
+    127,
+    581,
+    177
+   ],
+   "id": "tbx4"
+  },
+  {
+   "type": "button",
+   "text": "Continue",
+   "bbox_2d": [
+    120,
+    201,
+    581,
+    257
+   ],
+   "id": "btn5"
+  }
+ ]
+}

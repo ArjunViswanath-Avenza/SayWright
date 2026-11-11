@@ -1,0 +1,9 @@
+new form called synth 11 47
+add a label called lblHead1 with text "Reset password", top 37dp, left 40dp, skin sknlblAvenza0f223337pxBold
+add a label called lblField2 with text "Beneficiary name", top 21dp, left 40dp, skin sknlblSubheading00000015px
+add a text box called tbx3 with placeholder "Enter beneficiary name", width 55%, height 44dp, top 6dp, left 40dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a label called lblField4 with text "City", top 14dp, left 40dp, skin sknlblSubheading00000015px
+add a text box called tbx5 with placeholder "Enter city", width 55%, height 40dp, top 6dp, left 40dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a label called lblField6 with text "Reference", top 14dp, left 40dp, skin sknlblSubheading00000015px
+add a text box called tbx7 with placeholder "Add a reference", width 55%, height 50dp, top 6dp, left 40dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a button called btn8 with text "Sign In", width 55%, height 50dp, top 20dp, left 40dp, skin sknbtn15577d

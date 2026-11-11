@@ -1,0 +1,29 @@
+new form called synth 11 34
+add a flex called flxHeader with layout vertical, width 100%, height 120dp, skin sknflx0f2233
+add a label called lblLogo with text "AvenzaBank", top 28dp, left 40dp, skin CopydefLabel0c4a8fec8b9624a
+add a label called lblTagline with text "Banking for every day.", top 8dp, left 40dp, skin sknlblffffff20px
+select flxMain
+add a label called lblHead1 with text "Open an account", top 24dp, left 40dp, skin CopydefLabel0b958727ed83141
+add a label called lblSub2 with text "Your data is encrypted end to end.", top 8dp, left 40dp, skin sknLblDescription
+add a flex called flxPair3 with layout horizontal, width 50%, height preferred, top 18dp, left 40dp
+select flxPair3
+add a flex called flxCol4 with layout vertical, width 48%, height preferred, left 0%
+add a label called lblField5 with text "Expiry", skin sknlblSubheading00000015px
+add a text box called tbx6 with placeholder "MM/YY", width 100%, height 44dp, top 6dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+select flxPair3
+add a flex called flxCol7 with layout vertical, width 48%, height preferred, left 4%
+add a label called lblField8 with text "CVV", skin sknlblSubheading00000015px
+add a text box called tbx9 with placeholder "123", width 100%, height 44dp, top 6dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+select flxMain
+add a label called lblField10 with text "OTP", top 15dp, left 40dp, skin sknlblSubheading00000015px
+add a text box called tbx11 with placeholder "Enter 6-digit code", width 50%, height 44dp, top 6dp, left 40dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a label called lblField12 with text "Password", top 14dp, left 40dp, skin sknlblSubheading00000015px
+add a text box called tbx13 with placeholder "Enter your password", masked, width 50%, height 50dp, top 6dp, left 40dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a label called lblField14 with text "Confirm password", top 17dp, left 40dp, skin sknlblSubheading00000015px
+add a text box called tbx15 with placeholder "Re-enter password", masked, width 50%, height 50dp, top 6dp, left 40dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a flex called flxRemember16 with layout horizontal, width preferred, height preferred, top 16dp, left 40dp
+add a flex called flxCheck17 with width 22dp, height 22dp, skin CopyslFbox0cf62699586c744
+select flxRemember16
+add a label called lblCheck18 with text "Keep me signed in on this device", left 10dp, skin sknLblDescription
+select flxMain
+add a button called btn19 with text "Verify", width 50%, height 56dp, top 29dp, left 40dp, skin CopydefBtnNormal0a5557b20e63745

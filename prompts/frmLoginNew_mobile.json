@@ -1,0 +1,26 @@
+{
+  "about": "frmLoginNew: put the card's rows back inside flxCard, then a separate Mobile design (breakpoint b3, widths up to 640 px). Each entry is one /api/edit call; bp b3 = Breakpoint forking on Mobile.",
+  "edits": [
+    {"id": "flxPasswordRow", "move": {"parent": "flxCard", "after": "tbxUserId"}},
+    {"id": "flxRemember", "move": {"parent": "flxCard", "after": "tbxPassword"}},
+    {"id": "flxCheck", "move": {"parent": "flxRemember", "after": null}},
+    {"id": "flxOpenAccount", "move": {"parent": "flxCard", "after": "btnSignIn"}},
+
+    {"id": "flxMain", "bp": "b3", "attrs": {"layout": "vertical"}},
+    {"id": "flxLeftPanel", "bp": "b3", "attrs": {"w": "100%", "h": "150dp"}},
+    {"id": "flxBrand", "bp": "b3", "attrs": {"top": "32dp", "left": "24dp"}},
+    {"id": "lblBanking", "bp": "b3", "attrs": {"top": "20dp", "left": "24dp", "w": "88%", "skin": "sknlblffffff30px"}},
+    {"id": "lblInfo", "bp": "b3", "attrs": {"visible": false}},
+    {"id": "flxBadges", "bp": "b3", "attrs": {"visible": false}},
+    {"id": "flxRight", "bp": "b3", "attrs": {"w": "100%", "h": "100%"}},
+    {"id": "flxCard", "bp": "b3", "attrs": {"w": "92%", "cy": "284dp"}},
+    {"id": "lblSignIn", "bp": "b3", "attrs": {"left": "4%"}},
+    {"id": "lblSignInInfo", "bp": "b3", "attrs": {"left": "4%"}},
+    {"id": "lblUserId", "bp": "b3", "attrs": {"left": "4%"}},
+    {"id": "tbxUserId", "bp": "b3", "attrs": {"w": "92%", "left": "4%"}},
+    {"id": "flxPasswordRow", "bp": "b3", "attrs": {"w": "92%", "left": "4%"}},
+    {"id": "tbxPassword", "bp": "b3", "attrs": {"w": "92%", "left": "4%"}},
+    {"id": "flxRemember", "bp": "b3", "attrs": {"w": "92%", "left": "4%"}},
+    {"id": "btnSignIn", "bp": "b3", "attrs": {"w": "92%", "left": "4%"}}
+  ]
+}

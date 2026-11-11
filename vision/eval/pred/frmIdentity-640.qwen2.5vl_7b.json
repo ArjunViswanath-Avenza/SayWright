@@ -1,0 +1,206 @@
+{
+ "image": "frmIdentity-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "Identity documents",
+   "bbox_2d": [
+    133,
+    15,
+    423,
+    50
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Prove your identity",
+   "bbox_2d": [
+    65,
+    113,
+    297,
+    135
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Show all four corners, Up to 10 MB each.",
+   "bbox_2d": [
+    65,
+    167,
+    393,
+    183
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Document Type",
+   "bbox_2d": [
+    54,
+    258,
+    204,
+    274
+   ]
+  },
+  {
+   "type": "input",
+   "text": "Passport",
+   "bbox_2d": [
+    54,
+    314,
+    700,
+    333
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Document Number",
+   "bbox_2d": [
+    54,
+    375,
+    234,
+    391
+   ]
+  },
+  {
+   "type": "input",
+   "text": "",
+   "bbox_2d": [
+    54,
+    406,
+    700,
+    485
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Passport — photo page",
+   "bbox_2d": [
+    153,
+    553,
+    375,
+    570
+   ]
+  },
+  {
+   "type": "input",
+   "text": "passport-front.jpg · 2.1 MB",
+   "bbox_2d": [
+    153,
+    577,
+    375,
+    594
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Replace",
+   "bbox_2d": [
+    563,
+    553,
+    656,
+    604
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Passport — signature page",
+   "bbox_2d": [
+    153,
+    715,
+    408,
+    732
+   ]
+  },
+  {
+   "type": "input",
+   "text": "passport-back.jpg · 1.8 MB",
+   "bbox_2d": [
+    153,
+    739,
+    408,
+    756
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Replace",
+   "bbox_2d": [
+    563,
+    715,
+    656,
+    766
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Selfie with document",
+   "bbox_2d": [
+    153,
+    899,
+    352,
+    916
+   ]
+  },
+  {
+   "type": "input",
+   "text": "Not uploaded yet",
+   "bbox_2d": [
+    153,
+    923,
+    352,
+    940
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Upload",
+   "bbox_2d": [
+    563,
+    887,
+    689,
+    964
+   ]
+  },
+  {
+   "type": "image",
+   "text": "✓",
+   "bbox_2d": [
+    78,
+    568,
+    126,
+    596
+   ]
+  },
+  {
+   "type": "image",
+   "text": "✓",
+   "bbox_2d": [
+    78,
+    736,
+    126,
+    764
+   ]
+  },
+  {
+   "type": "image",
+   "text": "↑",
+   "bbox_2d": [
+    78,
+    908,
+    126,
+    950
+   ]
+  }
+ ],
+ "stats": {
+  "model": "qwen2.5vl:7b",
+  "wall_s": 251.6,
+  "prompt_tokens": 1289,
+  "output_tokens": 765,
+  "prompt_s": 102.5,
+  "output_s": 149.0,
+  "output_tok_per_s": 5.13
+ }
+}

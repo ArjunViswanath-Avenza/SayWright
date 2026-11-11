@@ -1,0 +1,186 @@
+{
+ "image": "frmAddress-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "Where do you live?",
+   "bbox_2d": [
+    129,
+    137,
+    424,
+    168
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "We post your card and statements here",
+   "bbox_2d": [
+    129,
+    168,
+    424,
+    187
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Use the address printed on my passport",
+   "bbox_2d": [
+    242,
+    274,
+    512,
+    293
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Address line",
+   "bbox_2d": [
+    84,
+    345,
+    192,
+    360
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Address line",
+   "bbox_2d": [
+    74,
+    501,
+    181,
+    516
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "(optional)",
+   "bbox_2d": [
+    251,
+    509,
+    320,
+    524
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "city",
+   "bbox_2d": [
+    74,
+    663,
+    108,
+    678
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "state",
+   "bbox_2d": [
+    335,
+    663,
+    369,
+    678
+   ]
+  },
+  {
+   "type": "input",
+   "text": "",
+   "bbox_2d": [
+    74,
+    705,
+    316,
+    778
+   ]
+  },
+  {
+   "type": "dropdown",
+   "text": "TamilNadu",
+   "bbox_2d": [
+    398,
+    705,
+    642,
+    778
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Pincode",
+   "bbox_2d": [
+    74,
+    821,
+    143,
+    836
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Country",
+   "bbox_2d": [
+    335,
+    821,
+    400,
+    836
+   ]
+  },
+  {
+   "type": "input",
+   "text": "",
+   "bbox_2d": [
+    74,
+    869,
+    316,
+    940
+   ]
+  },
+  {
+   "type": "dropdown",
+   "text": "India",
+   "bbox_2d": [
+    398,
+    869,
+    642,
+    940
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "How long have you lived here?",
+   "bbox_2d": [
+    74,
+    975,
+    311,
+    990
+   ]
+  },
+  {
+   "type": "dropdown",
+   "text": "1 year",
+   "bbox_2d": [
+    74,
+    1013,
+    316,
+    1052
+   ]
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    102,
+    279,
+    126,
+    298
+   ]
+  }
+ ],
+ "stats": {
+  "model": "qwen2.5vl:7b",
+  "wall_s": 260.1,
+  "prompt_tokens": 1289,
+  "output_tokens": 791,
+  "prompt_s": 104.5,
+  "output_s": 155.4,
+  "output_tok_per_s": 5.09
+ }
+}

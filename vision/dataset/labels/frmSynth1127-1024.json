@@ -1,0 +1,106 @@
+{
+ "image": "frmSynth1127-1024.png",
+ "width": 1024,
+ "height": 900,
+ "elements": [
+  {
+   "type": "text",
+   "text": "Open an account",
+   "bbox_2d": [
+    80,
+    29,
+    364,
+    69
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "User Id",
+   "bbox_2d": [
+    80,
+    86,
+    131,
+    103
+   ],
+   "id": "lblField2"
+  },
+  {
+   "type": "input",
+   "text": "Enter user id",
+   "bbox_2d": [
+    80,
+    109,
+    438,
+    153
+   ],
+   "id": "tbx3"
+  },
+  {
+   "type": "text",
+   "text": "Confirm password",
+   "bbox_2d": [
+    80,
+    172,
+    212,
+    189
+   ],
+   "id": "lblField4"
+  },
+  {
+   "type": "input",
+   "text": "Re-enter password",
+   "bbox_2d": [
+    80,
+    195,
+    438,
+    239
+   ],
+   "id": "tbx5"
+  },
+  {
+   "type": "text",
+   "text": "Mobile number",
+   "bbox_2d": [
+    80,
+    254,
+    187,
+    271
+   ],
+   "id": "lblField6"
+  },
+  {
+   "type": "input",
+   "text": "Enter mobile number",
+   "bbox_2d": [
+    80,
+    277,
+    438,
+    321
+   ],
+   "id": "tbx7"
+  },
+  {
+   "type": "button",
+   "text": "Next",
+   "bbox_2d": [
+    80,
+    347,
+    438,
+    397
+   ],
+   "id": "btn8"
+  },
+  {
+   "type": "text",
+   "text": "Need help?",
+   "bbox_2d": [
+    80,
+    413,
+    172,
+    434
+   ],
+   "id": "lblLink9"
+  }
+ ]
+}

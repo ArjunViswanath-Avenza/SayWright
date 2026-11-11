@@ -1,0 +1,271 @@
+{
+ "image": "frmProfile-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    640,
+    900
+   ],
+   "id": "flxParent"
+  },
+  {
+   "type": "text",
+   "text": "Personal details",
+   "bbox_2d": [
+    39,
+    295,
+    193,
+    318
+   ],
+   "id": "lblProfile"
+  },
+  {
+   "type": "button",
+   "text": "Edit",
+   "bbox_2d": [
+    525,
+    281,
+    613,
+    331
+   ],
+   "id": "btnEdit"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    35,
+    801,
+    605,
+    900
+   ],
+   "id": "flxCustDetail"
+  },
+  {
+   "type": "text",
+   "text": "Customer ID",
+   "bbox_2d": [
+    65,
+    833,
+    160,
+    853
+   ],
+   "id": "lblCustID"
+  },
+  {
+   "type": "text",
+   "text": "CUS-884210",
+   "bbox_2d": [
+    452,
+    833,
+    550,
+    853
+   ],
+   "id": "lblId"
+  },
+  {
+   "type": "text",
+   "text": "Branch",
+   "bbox_2d": [
+    65,
+    881,
+    119,
+    900
+   ],
+   "id": "lblBranch"
+  },
+  {
+   "type": "text",
+   "text": "Bengaluru — MG Road",
+   "bbox_2d": [
+    365,
+    881,
+    550,
+    900
+   ],
+   "id": "lblBranchName"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    35,
+    351,
+    605,
+    779
+   ],
+   "id": "flxPersonalInfo"
+  },
+  {
+   "type": "text",
+   "text": "Full Name",
+   "bbox_2d": [
+    65,
+    505,
+    142,
+    525
+   ],
+   "id": "lblName"
+  },
+  {
+   "type": "text",
+   "text": "Maya Fernandes",
+   "bbox_2d": [
+    65,
+    551,
+    198,
+    571
+   ],
+   "id": "lblMaya"
+  },
+  {
+   "type": "text",
+   "text": "Date of birth",
+   "bbox_2d": [
+    65,
+    503,
+    157,
+    523
+   ],
+   "id": "lblDOB"
+  },
+  {
+   "type": "text",
+   "text": "12 July 1989",
+   "bbox_2d": [
+    65,
+    564,
+    165,
+    584
+   ],
+   "id": "lblDate"
+  },
+  {
+   "type": "text",
+   "text": "Email",
+   "bbox_2d": [
+    65,
+    583,
+    107,
+    603
+   ],
+   "id": "lblMail"
+  },
+  {
+   "type": "text",
+   "text": "maya.fernandes@example.com",
+   "bbox_2d": [
+    65,
+    644,
+    318,
+    664
+   ],
+   "id": "lblMailId"
+  },
+  {
+   "type": "text",
+   "text": "Mobile",
+   "bbox_2d": [
+    65,
+    663,
+    115,
+    683
+   ],
+   "id": "lblMobile"
+  },
+  {
+   "type": "text",
+   "text": "+91 98450 11234",
+   "bbox_2d": [
+    65,
+    724,
+    196,
+    744
+   ],
+   "id": "lblMobilenum"
+  },
+  {
+   "type": "text",
+   "text": "Mailing address",
+   "bbox_2d": [
+    65,
+    743,
+    184,
+    763
+   ],
+   "id": "lblMailingaddress"
+  },
+  {
+   "type": "text",
+   "text": "42 Residency Road, Bengaluru 560025",
+   "bbox_2d": [
+    65,
+    804,
+    375,
+    824
+   ],
+   "id": "lblAddress"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    1,
+    639,
+    261
+   ],
+   "id": "flxUserName"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    270,
+    31,
+    370,
+    131
+   ],
+   "id": "flxNameLogo"
+  },
+  {
+   "type": "text",
+   "text": "MF",
+   "bbox_2d": [
+    298,
+    64,
+    342,
+    98
+   ],
+   "id": "lblM"
+  },
+  {
+   "type": "text",
+   "text": "Maya Fernandes",
+   "bbox_2d": [
+    202,
+    151,
+    438,
+    185
+   ],
+   "id": "lblMayaFer"
+  },
+  {
+   "type": "text",
+   "text": "Customer since March 2021",
+   "bbox_2d": [
+    214,
+    191,
+    426,
+    211
+   ],
+   "id": "lblDesCust"
+  }
+ ]
+}

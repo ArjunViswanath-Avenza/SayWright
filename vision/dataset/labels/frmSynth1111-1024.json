@@ -1,0 +1,183 @@
+{
+ "image": "frmSynth1111-1024.png",
+ "width": 1024,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    410,
+    900
+   ],
+   "id": "flxBrand"
+  },
+  {
+   "type": "text",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    60,
+    50,
+    277,
+    92
+   ],
+   "id": "lblLogo"
+  },
+  {
+   "type": "text",
+   "text": "Banking for every day.",
+   "bbox_2d": [
+    60,
+    152,
+    347,
+    220
+   ],
+   "id": "lblTagline"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    410,
+    0,
+    1024,
+    900
+   ],
+   "id": "flxRight"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    457,
+    196,
+    977,
+    705
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Reset password",
+   "bbox_2d": [
+    482,
+    234,
+    635,
+    257
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "It only takes a few minutes.",
+   "bbox_2d": [
+    482,
+    265,
+    713,
+    287
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "Beneficiary name",
+   "bbox_2d": [
+    482,
+    307,
+    606,
+    324
+   ],
+   "id": "lblField3"
+  },
+  {
+   "type": "input",
+   "text": "Enter beneficiary name",
+   "bbox_2d": [
+    482,
+    330,
+    938,
+    370
+   ],
+   "id": "tbx4"
+  },
+  {
+   "type": "text",
+   "text": "Email address",
+   "bbox_2d": [
+    482,
+    391,
+    584,
+    408
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "name@example.com",
+   "bbox_2d": [
+    482,
+    414,
+    938,
+    458
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "text",
+   "text": "Amount",
+   "bbox_2d": [
+    482,
+    475,
+    539,
+    492
+   ],
+   "id": "lblField7"
+  },
+  {
+   "type": "input",
+   "text": "0.00",
+   "bbox_2d": [
+    482,
+    498,
+    938,
+    548
+   ],
+   "id": "tbx8"
+  },
+  {
+   "type": "text",
+   "text": "Date of birth",
+   "bbox_2d": [
+    482,
+    562,
+    570,
+    579
+   ],
+   "id": "lblField9"
+  },
+  {
+   "type": "input",
+   "text": "DD/MM/YYYY",
+   "bbox_2d": [
+    482,
+    585,
+    938,
+    629
+   ],
+   "id": "tbx10"
+  },
+  {
+   "type": "button",
+   "text": "Send code",
+   "bbox_2d": [
+    482,
+    654,
+    938,
+    704
+   ],
+   "id": "btn11"
+  }
+ ]
+}

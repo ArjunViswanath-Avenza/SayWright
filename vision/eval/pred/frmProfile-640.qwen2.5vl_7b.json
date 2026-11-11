@@ -1,0 +1,196 @@
+{
+ "image": "frmProfile-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "MF",
+   "bbox_2d": [
+    318,
+    35,
+    435,
+    152
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Maya Fernandes",
+   "bbox_2d": [
+    238,
+    180,
+    515,
+    215
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Customer since March 2021",
+   "bbox_2d": [
+    252,
+    225,
+    500,
+    245
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Personal details",
+   "bbox_2d": [
+    46,
+    350,
+    226,
+    370
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Edit",
+   "bbox_2d": [
+    653,
+    348,
+    722,
+    388
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Date of birth",
+   "bbox_2d": [
+    104,
+    598,
+    165,
+    616
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Maya Fernandes",
+   "bbox_2d": [
+    77,
+    654,
+    232,
+    672
+   ]
+  },
+  {
+   "type": "text",
+   "text": "12 July 1989",
+   "bbox_2d": [
+    77,
+    668,
+    194,
+    686
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Email",
+   "bbox_2d": [
+    77,
+    695,
+    109,
+    713
+   ]
+  },
+  {
+   "type": "input",
+   "text": "maya.fernandes@example.com",
+   "bbox_2d": [
+    77,
+    763,
+    677,
+    782
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Mobile",
+   "bbox_2d": [
+    77,
+    788,
+    112,
+    806
+   ]
+  },
+  {
+   "type": "input",
+   "text": "+91 98450 11234",
+   "bbox_2d": [
+    77,
+    856,
+    677,
+    875
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Mailing address",
+   "bbox_2d": [
+    77,
+    881,
+    215,
+    899
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "42 Residency Road, Bengaluru 560025",
+   "bbox_2d": [
+    77,
+    952,
+    444,
+    971
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Customer ID",
+   "bbox_2d": [
+    77,
+    987,
+    152,
+    1005
+   ]
+  },
+  {
+   "type": "text",
+   "text": "CUS-884210",
+   "bbox_2d": [
+    532,
+    987,
+    650,
+    1005
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Branch",
+   "bbox_2d": [
+    77,
+    1015,
+    141,
+    1033
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Bengaluru — MG Road",
+   "bbox_2d": [
+    430,
+    1015,
+    650,
+    1033
+   ]
+  }
+ ],
+ "stats": {
+  "model": "qwen2.5vl:7b",
+  "wall_s": 295.5,
+  "prompt_tokens": 1289,
+  "output_tokens": 771,
+  "prompt_s": 105.8,
+  "output_s": 189.6,
+  "output_tok_per_s": 4.07
+ }
+}

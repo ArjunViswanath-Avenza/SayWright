@@ -1,0 +1,294 @@
+{
+ "image": "frmOpenAccount-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    80,
+    640,
+    900
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    33,
+    688,
+    607,
+    900
+   ]
+  },
+  {
+   "type": "button",
+   "text": "Geiting started",
+   "bbox_2d": [
+    0,
+    0,
+    640,
+    81
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    87,
+    213,
+    553,
+    323
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    107,
+    335,
+    533,
+    443
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    107,
+    457,
+    533,
+    565
+   ]
+  },
+  {
+   "type": "dropdown",
+   "text": "India",
+   "bbox_2d": [
+    32,
+    610,
+    608,
+    670
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Open an account",
+   "bbox_2d": [
+    33,
+    97,
+    316,
+    137
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Takes about 8 minutes. You can save and come back.",
+   "bbox_2d": [
+    32,
+    143,
+    435,
+    162
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Which account?",
+   "bbox_2d": [
+    32,
+    179,
+    171,
+    200
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Savings",
+   "bbox_2d": [
+    149,
+    239,
+    218,
+    260
+   ]
+  },
+  {
+   "type": "text",
+   "text": "3.25% p.a.",
+   "bbox_2d": [
+    457,
+    241,
+    537,
+    260
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Everyday banking with interest. No",
+   "bbox_2d": [
+    149,
+    301,
+    409,
+    320
+   ]
+  },
+  {
+   "type": "text",
+   "text": "minimum halance",
+   "bbox_2d": [
+    149,
+    321,
+    281,
+    337
+   ]
+  },
+  {
+   "type": "text",
+   "text": "current",
+   "bbox_2d": [
+    168,
+    360,
+    233,
+    381
+   ]
+  },
+  {
+   "type": "text",
+   "text": "No interest",
+   "bbox_2d": [
+    439,
+    362,
+    520,
+    381
+   ]
+  },
+  {
+   "type": "text",
+   "text": "For business. Higher limits,",
+   "bbox_2d": [
+    168,
+    419,
+    371,
+    438
+   ]
+  },
+  {
+   "type": "text",
+   "text": "overdraft on request.",
+   "bbox_2d": [
+    168,
+    439,
+    323,
+    456
+   ]
+  },
+  {
+   "type": "text",
+   "text": "salary",
+   "bbox_2d": [
+    167,
+    482,
+    221,
+    503
+   ]
+  },
+  {
+   "type": "text",
+   "text": "3.00% p.a.",
+   "bbox_2d": [
+    440,
+    484,
+    520,
+    503
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Zero balance account opened via",
+   "bbox_2d": [
+    167,
+    540,
+    417,
+    559
+   ]
+  },
+  {
+   "type": "text",
+   "text": "your employer.",
+   "bbox_2d": [
+    167,
+    560,
+    277,
+    579
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Country of residence",
+   "bbox_2d": [
+    32,
+    582,
+    213,
+    603
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Have these ready",
+   "bbox_2d": [
+    70,
+    718,
+    218,
+    739
+   ]
+  },
+  {
+   "type": "text",
+   "text": "A government photo ID",
+   "bbox_2d": [
+    261,
+    759,
+    412,
+    798
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Your tax number",
+   "bbox_2d": [
+    286,
+    811,
+    410,
+    830
+   ]
+  },
+  {
+   "type": "text",
+   "text": "A mobile number for the verification",
+   "bbox_2d": [
+    194,
+    843,
+    459,
+    862
+   ]
+  },
+  {
+   "type": "text",
+   "text": "code",
+   "bbox_2d": [
+    194,
+    863,
+    230,
+    882
+   ]
+  }
+ ],
+ "stats": {
+  "model": "ocr+pixels",
+  "ocr_s": 5.6,
+  "wall_s": 6.0,
+  "lines": 24,
+  "blocks": 7
+ }
+}

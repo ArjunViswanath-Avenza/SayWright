@@ -1,0 +1,16 @@
+# installed by npm install (electron.exe alone is 189 MB, over GitHub's 100 MB limit)
+node_modules/
+
+# Visualizer workspace: Kony/Temenos plugin jars and the AvenzaBank project you save into
+workspace/
+
+# generated at run time: canvas scratch project, Figma cache, checks, renders
+work/
+exports/
+__pycache__/
+*.pyc
+
+# per-user run data (session logs, uploads, deleted items)
+data/sessions/
+data/images/
+data/trash/

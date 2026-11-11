@@ -1,0 +1,11 @@
+new form called synth 11 10
+add a label called lblHead1 with text "Sign in", top 28dp, left 80dp, skin sknlblHeading0f223320px
+add a label called lblSub2 with text "Your data is encrypted end to end.", top 8dp, left 80dp, skin sknLblDescription
+add a label called lblField3 with text "Full name", top 20dp, left 80dp, skin sknlblHeading0f223320px
+add a text box called tbx4 with placeholder "Enter your full name", width 35%, height 44dp, top 6dp, left 80dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a label called lblField5 with text "User Id", top 17dp, left 80dp, skin sknlblHeading0f223320px
+add a text box called tbx6 with placeholder "Enter user id", width 35%, height 40dp, top 6dp, left 80dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a label called lblField7 with text "Mobile number", top 18dp, left 80dp, skin sknlblHeading0f223320px
+add a text box called tbx8 with placeholder "Enter mobile number", width 35%, height 40dp, top 6dp, left 80dp, skin CopydefTextBoxNormal0eaf25455ad3d48
+add a button called btn9 with text "Continue", width 35%, height 56dp, top 19dp, left 80dp, skin CopydefBtnNormal0a5557b20e63745
+add a label called lblLink10 with text "Resend code", top 16dp, left 80dp, skin CopydefLabel0ac07d4ebd8e448

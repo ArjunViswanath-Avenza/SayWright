@@ -1,0 +1,315 @@
+{
+ "image": "frmPersonalDetails-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    640,
+    900
+   ],
+   "id": "flxParent"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    28,
+    640,
+    118
+   ],
+   "id": "flxHeader"
+  },
+  {
+   "type": "text",
+   "text": "Avenza",
+   "bbox_2d": [
+    33,
+    48,
+    161,
+    90
+   ],
+   "id": "SignInHeader.lblAvenza"
+  },
+  {
+   "type": "text",
+   "text": "Bank",
+   "bbox_2d": [
+    161,
+    48,
+    251,
+    90
+   ],
+   "id": "SignInHeader.lblBank"
+  },
+  {
+   "type": "text",
+   "text": "Already have an account?",
+   "bbox_2d": [
+    275,
+    58,
+    506,
+    81
+   ],
+   "id": "SignInHeader.lblaccount"
+  },
+  {
+   "type": "text",
+   "text": "Sign in",
+   "bbox_2d": [
+    506,
+    58,
+    573,
+    81
+   ],
+   "id": "SignInHeader.lblSignIn"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    118,
+    640,
+    198
+   ],
+   "id": "flxFlow"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    119,
+    639,
+    199
+   ],
+   "id": "completionflow.flxFlow"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    177,
+    164,
+    463,
+    170
+   ],
+   "id": "completionflow.flxTraxck"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    177,
+    164,
+    234,
+    170
+   ],
+   "id": "completionflow.flxGreenFlow"
+  },
+  {
+   "type": "text",
+   "text": "Getting started",
+   "bbox_2d": [
+    177,
+    130,
+    319,
+    153
+   ],
+   "id": "completionflow.lblGettingStared"
+  },
+  {
+   "type": "text",
+   "text": "Step 1 to 7",
+   "bbox_2d": [
+    366,
+    130,
+    463,
+    153
+   ],
+   "id": "completionflow.lblStep"
+  },
+  {
+   "type": "text",
+   "text": "Tell us about you",
+   "bbox_2d": [
+    80,
+    243,
+    366,
+    283
+   ],
+   "id": "lblTell"
+  },
+  {
+   "type": "text",
+   "text": "Enter your name exactly as it appears on your photo ID.",
+   "bbox_2d": [
+    80,
+    301,
+    527,
+    322
+   ],
+   "id": "lblEnter"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    80,
+    367,
+    560,
+    900
+   ],
+   "id": "flxDetails"
+  },
+  {
+   "type": "text",
+   "text": "First name",
+   "bbox_2d": [
+    105,
+    412,
+    206,
+    435
+   ],
+   "id": "lblFirstname"
+  },
+  {
+   "type": "input",
+   "text": "Maya",
+   "bbox_2d": [
+    105,
+    447,
+    298,
+    507
+   ],
+   "id": "tbxFirstname"
+  },
+  {
+   "type": "text",
+   "text": "Last name",
+   "bbox_2d": [
+    342,
+    408,
+    440,
+    431
+   ],
+   "id": "lblLastname"
+  },
+  {
+   "type": "input",
+   "text": "Fernandes",
+   "bbox_2d": [
+    342,
+    443,
+    535,
+    503
+   ],
+   "id": "tbxLastname"
+  },
+  {
+   "type": "text",
+   "text": "Date of birth",
+   "bbox_2d": [
+    105,
+    542,
+    223,
+    565
+   ],
+   "id": "lblDOB"
+  },
+  {
+   "type": "input",
+   "text": "",
+   "bbox_2d": [
+    105,
+    577,
+    299,
+    637
+   ],
+   "id": "calDOB"
+  },
+  {
+   "type": "text",
+   "text": "Nationality",
+   "bbox_2d": [
+    342,
+    538,
+    444,
+    561
+   ],
+   "id": "Nationality"
+  },
+  {
+   "type": "dropdown",
+   "text": "Indian",
+   "bbox_2d": [
+    342,
+    573,
+    535,
+    633
+   ],
+   "id": "lbxNationality"
+  },
+  {
+   "type": "text",
+   "text": "Email",
+   "bbox_2d": [
+    105,
+    672,
+    158,
+    695
+   ],
+   "id": "lblEmail"
+  },
+  {
+   "type": "input",
+   "text": "maya.fernandes@example.com",
+   "bbox_2d": [
+    105,
+    707,
+    535,
+    767
+   ],
+   "id": "tbxEmail"
+  },
+  {
+   "type": "text",
+   "text": "Mobile Number",
+   "bbox_2d": [
+    105,
+    798,
+    249,
+    821
+   ],
+   "id": "lblMobilenumber"
+  },
+  {
+   "type": "dropdown",
+   "text": "+91",
+   "bbox_2d": [
+    105,
+    833,
+    170,
+    893
+   ],
+   "id": "tbxCode"
+  },
+  {
+   "type": "input",
+   "text": "98450 11234",
+   "bbox_2d": [
+    178,
+    833,
+    535,
+    893
+   ],
+   "id": "tbxNumber"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+new form called sign in vision
+make flxMain horizontal
+add a flex called flxLeftPanel with layout vertical, width 34%, height 100%, left 0dp, skin sknflx0f2233
+add a label called lblBankingThatStays with text "Banking that stays out of your way.", width 70.9%, top 189dp, left 68dp, skin CopydefLabel0c4a8fec8b9624a
+add a label called lblAccountsTransfersAnd with text "Accounts, transfers and statements in one place. Secured with 256-bit encryption.", width 72.6%, top 119dp, left 68dp, skin CopysknlblDescription0b6df324c89a54a
+add a label called lblFdicInsured24 with text "FDIC insured 24/7 support v2.4.0", top 38dp, left 68dp, skin CopydefLabel0b73cbc39d9754c
+select flxMain
+add a flex called flxRightPanel with layout vertical, width 66%, height 100%, left 0dp, skin sknflxe8ecefborder20px
+add a label called lblSignIn with text "Sign in", top 45dp, left 187dp, skin CopysknlblSignIn0j881dc701f4445
+add a label called lblUseCredentialsIssued with text "Use the credentials issued by your branch.", top 24dp, left 187dp, skin CopydefLabel0b73cbc39d9754c
+add a text box called tbxUserId with placeholder "Enter user id", width 53.4%, height 57dp, top 52dp, left 187dp, skin defTextBoxFocus
+add a label called lblForgotPassword with text "Forgot password?", top 35dp, left 522dp, skin sknlbl15577d17px
+add a text box called tbxPassword with placeholder "Enter your password", masked, width 53.4%, height 57dp, top 17dp, left 187dp, skin defTextBoxFocus
+add a flex called flxRowKeepMe with layout horizontal, width preferred, height preferred, top 23dp, left 195dp
+add a flex called flxCheck with width 20dp, height 17dp, left 0dp, skin CopyslFbox0cf62699586c744
+add a label called lblKeepMeSigned with text "Keep me signed in on this device", left 116dp, skin CopysknLblDescription0a5e41a9efff54f
+select flxRightPanel
+add a button called btnSignIn with text "Sign In", width 52.2%, height 59dp, top 41dp, left 188dp, skin CopydefBtnNormal0b2690c9922ae43
+add a label called lblNewAvenzaBank with text "New to Avenza Bank? Open an account", top 69dp, left 267dp, skin CopysknLblDescription0a5e41a9efff54f

@@ -1,0 +1,284 @@
+{
+ "image": "frmOpenAccount-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    160,
+    1366,
+    900
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1366,
+    161
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    1,
+    1365,
+    79
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    2,
+    82,
+    1364,
+    160
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    205,
+    367,
+    1161,
+    477
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    206,
+    497,
+    1160,
+    605
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    206,
+    626,
+    1160,
+    734
+   ]
+  },
+  {
+   "type": "dropdown",
+   "text": "India",
+   "bbox_2d": [
+    205,
+    806,
+    1161,
+    866
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    213,
+    895,
+    1153,
+    900
+   ]
+  },
+  {
+   "type": "image",
+   "text": "",
+   "bbox_2d": [
+    244,
+    395,
+    264,
+    415
+   ]
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    244,
+    524,
+    264,
+    544
+   ]
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    244,
+    653,
+    264,
+    673
+   ]
+  },
+  {
+   "type": "image",
+   "text": "",
+   "bbox_2d": [
+    602,
+    759,
+    637,
+    773
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Avenza",
+   "bbox_2d": [
+    70,
+    18,
+    196,
+    61
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Bank",
+   "bbox_2d": [
+    200,
+    18,
+    287,
+    61
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Already have an account?",
+   "bbox_2d": [
+    1065,
+    29,
+    1275,
+    52
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Sign in",
+   "bbox_2d": [
+    1275,
+    29,
+    1340,
+    52
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Gtetin gcstarted",
+   "bbox_2d": [
+    612,
+    91,
+    754,
+    114
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Open an account",
+   "bbox_2d": [
+    206,
+    208,
+    529,
+    254
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Takes about 8 minutes. You can save and come back at any point",
+   "bbox_2d": [
+    205,
+    272,
+    790,
+    295
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Which account would you like?",
+   "bbox_2d": [
+    205,
+    324,
+    502,
+    347
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Savings Account",
+   "bbox_2d": [
+    291,
+    393,
+    452,
+    416
+   ]
+  },
+  {
+   "type": "text",
+   "text": "3.25% p.a.",
+   "bbox_2d": [
+    1051,
+    395,
+    1131,
+    414
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Current Account",
+   "bbox_2d": [
+    291,
+    522,
+    448,
+    546
+   ]
+  },
+  {
+   "type": "text",
+   "text": "No interest",
+   "bbox_2d": [
+    1050,
+    524,
+    1131,
+    543
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Salary Account",
+   "bbox_2d": [
+    291,
+    651,
+    436,
+    674
+   ]
+  },
+  {
+   "type": "text",
+   "text": "3.00% p.a.",
+   "bbox_2d": [
+    1051,
+    653,
+    1131,
+    672
+   ]
+  }
+ ],
+ "stats": {
+  "model": "ocr+pixels",
+  "ocr_s": 7.3,
+  "wall_s": 8.6,
+  "lines": 15,
+  "blocks": 9
+ }
+}

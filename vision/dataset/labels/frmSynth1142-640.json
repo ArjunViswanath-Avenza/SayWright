@@ -1,0 +1,95 @@
+{
+ "image": "frmSynth1142-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "text",
+   "text": "Add beneficiary",
+   "bbox_2d": [
+    120,
+    40,
+    270,
+    63
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Use the credentials issued by your branch.",
+   "bbox_2d": [
+    120,
+    71,
+    498,
+    94
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "Card number",
+   "bbox_2d": [
+    120,
+    108,
+    214,
+    125
+   ],
+   "id": "lblField3"
+  },
+  {
+   "type": "input",
+   "text": "XXXX XXXX XXXX XXXX",
+   "bbox_2d": [
+    120,
+    131,
+    344,
+    175
+   ],
+   "id": "tbx4"
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    120,
+    191,
+    142,
+    213
+   ],
+   "id": "flxCheck6"
+  },
+  {
+   "type": "text",
+   "text": "Keep me signed in on this device",
+   "bbox_2d": [
+    152,
+    191,
+    434,
+    213
+   ],
+   "id": "lblCheck7"
+  },
+  {
+   "type": "button",
+   "text": "Next",
+   "bbox_2d": [
+    120,
+    236,
+    344,
+    280
+   ],
+   "id": "btn8"
+  },
+  {
+   "type": "text",
+   "text": "Back to login",
+   "bbox_2d": [
+    120,
+    296,
+    223,
+    317
+   ],
+   "id": "lblLink9"
+  }
+ ]
+}

@@ -1,0 +1,172 @@
+{
+ "image": "frmSynth1113-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1366,
+    160
+   ],
+   "id": "flxHeader"
+  },
+  {
+   "type": "text",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    40,
+    28,
+    218,
+    62
+   ],
+   "id": "lblLogo"
+  },
+  {
+   "type": "text",
+   "text": "Banking for every day.",
+   "bbox_2d": [
+    40,
+    70,
+    217,
+    91
+   ],
+   "id": "lblTagline"
+  },
+  {
+   "type": "text",
+   "text": "Confirm transfer",
+   "bbox_2d": [
+    40,
+    182,
+    315,
+    222
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "All fields are required.",
+   "bbox_2d": [
+    40,
+    230,
+    226,
+    252
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "Expiry",
+   "bbox_2d": [
+    40,
+    270,
+    86,
+    287
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "MM/YY",
+   "bbox_2d": [
+    40,
+    293,
+    433,
+    337
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "text",
+   "text": "CVV",
+   "bbox_2d": [
+    466,
+    270,
+    497,
+    287
+   ],
+   "id": "lblField8"
+  },
+  {
+   "type": "input",
+   "text": "123",
+   "bbox_2d": [
+    466,
+    293,
+    860,
+    337
+   ],
+   "id": "tbx9"
+  },
+  {
+   "type": "text",
+   "text": "Amount",
+   "bbox_2d": [
+    40,
+    353,
+    97,
+    370
+   ],
+   "id": "lblField10"
+  },
+  {
+   "type": "input",
+   "text": "0.00",
+   "bbox_2d": [
+    40,
+    376,
+    860,
+    426
+   ],
+   "id": "tbx11"
+  },
+  {
+   "type": "text",
+   "text": "Confirm password",
+   "bbox_2d": [
+    40,
+    448,
+    172,
+    465
+   ],
+   "id": "lblField12"
+  },
+  {
+   "type": "input",
+   "text": "Re-enter password",
+   "bbox_2d": [
+    40,
+    471,
+    860,
+    515
+   ],
+   "id": "tbx13"
+  },
+  {
+   "type": "button",
+   "text": "Transfer now",
+   "bbox_2d": [
+    40,
+    541,
+    860,
+    591
+   ],
+   "id": "btn14"
+  },
+  {
+   "type": "text",
+   "text": "Resend code",
+   "bbox_2d": [
+    40,
+    607,
+    146,
+    628
+   ],
+   "id": "lblLink15"
+  }
+ ]
+}

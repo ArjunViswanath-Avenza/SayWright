@@ -1,0 +1,8 @@
+new form called synth 11 59
+add a label called lblHead1 with text "Update profile", top 33dp, left 120dp, skin sknlblAvenza0f223337pxBold
+add a label called lblSub2 with text "Your data is encrypted end to end.", top 8dp, left 120dp, skin sknlblDescription5b6b7a20px
+add a label called lblField3 with text "Account number", top 22dp, left 120dp, skin sknlblSubheading00000015px
+add a text box called tbx4 with placeholder "Enter account number", width 45%, height 50dp, top 6dp, left 120dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a label called lblField5 with text "Card number", top 16dp, left 120dp, skin sknlblSubheading00000015px
+add a text box called tbx6 with placeholder "XXXX XXXX XXXX XXXX", width 45%, height 40dp, top 6dp, left 120dp, skin CopydefTextBoxNormal0d77bd26223a145
+add a button called btn7 with text "Submit", width 45%, height 56dp, top 22dp, left 120dp, skin sknbtn15577d

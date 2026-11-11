@@ -1,0 +1,205 @@
+{
+ "image": "frmSynth1134-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1366,
+    120
+   ],
+   "id": "flxHeader"
+  },
+  {
+   "type": "text",
+   "text": "AvenzaBank",
+   "bbox_2d": [
+    40,
+    28,
+    257,
+    70
+   ],
+   "id": "lblLogo"
+  },
+  {
+   "type": "text",
+   "text": "Banking for every day.",
+   "bbox_2d": [
+    40,
+    78,
+    238,
+    101
+   ],
+   "id": "lblTagline"
+  },
+  {
+   "type": "text",
+   "text": "Open an account",
+   "bbox_2d": [
+    40,
+    144,
+    324,
+    184
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Your data is encrypted end to end.",
+   "bbox_2d": [
+    40,
+    192,
+    332,
+    214
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "Expiry",
+   "bbox_2d": [
+    40,
+    232,
+    86,
+    249
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "MM/YY",
+   "bbox_2d": [
+    40,
+    255,
+    368,
+    299
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "text",
+   "text": "CVV",
+   "bbox_2d": [
+    395,
+    232,
+    426,
+    249
+   ],
+   "id": "lblField8"
+  },
+  {
+   "type": "input",
+   "text": "123",
+   "bbox_2d": [
+    395,
+    255,
+    723,
+    299
+   ],
+   "id": "tbx9"
+  },
+  {
+   "type": "text",
+   "text": "OTP",
+   "bbox_2d": [
+    40,
+    314,
+    71,
+    331
+   ],
+   "id": "lblField10"
+  },
+  {
+   "type": "input",
+   "text": "Enter 6-digit code",
+   "bbox_2d": [
+    40,
+    337,
+    723,
+    381
+   ],
+   "id": "tbx11"
+  },
+  {
+   "type": "text",
+   "text": "Password",
+   "bbox_2d": [
+    40,
+    395,
+    111,
+    412
+   ],
+   "id": "lblField12"
+  },
+  {
+   "type": "input",
+   "text": "Enter your password",
+   "bbox_2d": [
+    40,
+    418,
+    723,
+    468
+   ],
+   "id": "tbx13"
+  },
+  {
+   "type": "text",
+   "text": "Confirm password",
+   "bbox_2d": [
+    40,
+    485,
+    172,
+    502
+   ],
+   "id": "lblField14"
+  },
+  {
+   "type": "input",
+   "text": "Re-enter password",
+   "bbox_2d": [
+    40,
+    508,
+    723,
+    558
+   ],
+   "id": "tbx15"
+  },
+  {
+   "type": "checkbox",
+   "text": "",
+   "bbox_2d": [
+    40,
+    574,
+    62,
+    596
+   ],
+   "id": "flxCheck17"
+  },
+  {
+   "type": "text",
+   "text": "Keep me signed in on this device",
+   "bbox_2d": [
+    72,
+    574,
+    354,
+    596
+   ],
+   "id": "lblCheck18"
+  },
+  {
+   "type": "button",
+   "text": "Verify",
+   "bbox_2d": [
+    40,
+    625,
+    723,
+    681
+   ],
+   "id": "btn19"
+  }
+ ]
+}

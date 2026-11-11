@@ -1,0 +1,95 @@
+{
+ "image": "frmSynth1119-1024.png",
+ "width": 1024,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1024,
+    900
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    232,
+    299,
+    792,
+    601
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Update profile",
+   "bbox_2d": [
+    261,
+    322,
+    395,
+    345
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "User Id",
+   "bbox_2d": [
+    261,
+    363,
+    329,
+    386
+   ],
+   "id": "lblField2"
+  },
+  {
+   "type": "input",
+   "text": "Enter user id",
+   "bbox_2d": [
+    261,
+    392,
+    752,
+    436
+   ],
+   "id": "tbx3"
+  },
+  {
+   "type": "text",
+   "text": "Postal code",
+   "bbox_2d": [
+    261,
+    451,
+    373,
+    474
+   ],
+   "id": "lblField4"
+  },
+  {
+   "type": "input",
+   "text": "Enter postal code",
+   "bbox_2d": [
+    261,
+    480,
+    752,
+    530
+   ],
+   "id": "tbx5"
+  },
+  {
+   "type": "button",
+   "text": "Sign In",
+   "bbox_2d": [
+    261,
+    550,
+    752,
+    600
+   ],
+   "id": "btn6"
+  }
+ ]
+}

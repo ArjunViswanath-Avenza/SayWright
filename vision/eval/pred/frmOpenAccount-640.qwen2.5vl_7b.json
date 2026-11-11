@@ -1,0 +1,256 @@
+{
+ "image": "frmOpenAccount-640.png",
+ "width": 640,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "Getting started",
+   "bbox_2d": [
+    0,
+    0,
+    756,
+    97
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Open an account",
+   "bbox_2d": [
+    0,
+    97,
+    756,
+    164
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Takes about 8 minutes. You can save and come back.",
+   "bbox_2d": [
+    38,
+    170,
+    485,
+    186
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Which account?",
+   "bbox_2d": [
+    0,
+    164,
+    756,
+    231
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Savings",
+   "bbox_2d": [
+    175,
+    285,
+    256,
+    305
+   ]
+  },
+  {
+   "type": "text",
+   "text": "3.25% p.a.",
+   "bbox_2d": [
+    537,
+    285,
+    640,
+    305
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Everyday banking with interest. No",
+   "bbox_2d": [
+    175,
+    355,
+    483,
+    373
+   ]
+  },
+  {
+   "type": "text",
+   "text": "minimum balance",
+   "bbox_2d": [
+    175,
+    379,
+    305,
+    395
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Current",
+   "bbox_2d": [
+    198,
+    429,
+    256,
+    449
+   ]
+  },
+  {
+   "type": "text",
+   "text": "No interest",
+   "bbox_2d": [
+    517,
+    429,
+    613,
+    449
+   ]
+  },
+  {
+   "type": "text",
+   "text": "For business. Higher limits,",
+   "bbox_2d": [
+    198,
+    499,
+    440,
+    517
+   ]
+  },
+  {
+   "type": "text",
+   "text": "overdraft on request.",
+   "bbox_2d": [
+    198,
+    523,
+    440,
+    540
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Salary",
+   "bbox_2d": [
+    198,
+    574,
+    256,
+    594
+   ]
+  },
+  {
+   "type": "text",
+   "text": "3.00% p.a.",
+   "bbox_2d": [
+    517,
+    574,
+    613,
+    594
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Zero balance account opened via",
+   "bbox_2d": [
+    198,
+    644,
+    492,
+    662
+   ]
+  },
+  {
+   "type": "text",
+   "text": "your employer.",
+   "bbox_2d": [
+    198,
+    668,
+    492,
+    684
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Country of residence",
+   "bbox_2d": [
+    38,
+    684,
+    252,
+    711
+   ]
+  },
+  {
+   "type": "input",
+   "text": "India",
+   "bbox_2d": [
+    38,
+    742,
+    716,
+    790
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "Have these ready",
+   "bbox_2d": [
+    81,
+    848,
+    256,
+    875
+   ]
+  },
+  {
+   "type": "text",
+   "text": "A government photo",
+   "bbox_2d": [
+    305,
+    899,
+    485,
+    917
+   ]
+  },
+  {
+   "type": "text",
+   "text": "ID",
+   "bbox_2d": [
+    305,
+    923,
+    345,
+    940
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Your tax number",
+   "bbox_2d": [
+    305,
+    956,
+    485,
+    974
+   ]
+  },
+  {
+   "type": "text",
+   "text": "A mobile number for the verification",
+   "bbox_2d": [
+    184,
+    998,
+    542,
+    1016
+   ]
+  },
+  {
+   "type": "text",
+   "text": "code",
+   "bbox_2d": [
+    229,
+    1022,
+    280,
+    1038
+   ]
+  }
+ ],
+ "stats": {
+  "model": "qwen2.5vl:7b",
+  "wall_s": 335.7,
+  "prompt_tokens": 1289,
+  "output_tokens": 1142,
+  "prompt_s": 103.1,
+  "output_s": 232.4,
+  "output_tok_per_s": 4.91
+ }
+}

@@ -1,0 +1,524 @@
+{
+ "image": "frmDashboard-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "text",
+   "text": "Accounts",
+   "bbox_2d": [
+    415,
+    34,
+    494,
+    56
+   ],
+   "id": "MainHeader.lblAccounts"
+  },
+  {
+   "type": "text",
+   "text": "Transfers",
+   "bbox_2d": [
+    523,
+    34,
+    607,
+    57
+   ],
+   "id": "MainHeader.lblTransfer"
+  },
+  {
+   "type": "text",
+   "text": "Profile",
+   "bbox_2d": [
+    655,
+    34,
+    712,
+    57
+   ],
+   "id": "MainHeader.lblProfile"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1175,
+    20,
+    1225,
+    70
+   ],
+   "id": "MainHeader.flxNameRound"
+  },
+  {
+   "type": "text",
+   "text": "MF",
+   "bbox_2d": [
+    1186,
+    34,
+    1214,
+    57
+   ],
+   "id": "MainHeader.lblMF"
+  },
+  {
+   "type": "text",
+   "text": "Maya Fernandes",
+   "bbox_2d": [
+    1015,
+    34,
+    1165,
+    57
+   ],
+   "id": "MainHeader.lblMayaFernandes"
+  },
+  {
+   "type": "text",
+   "text": "Avenza",
+   "bbox_2d": [
+    125,
+    24,
+    253,
+    66
+   ],
+   "id": "MainHeader.lblAvenza"
+  },
+  {
+   "type": "text",
+   "text": "Bank",
+   "bbox_2d": [
+    253,
+    24,
+    343,
+    66
+   ],
+   "id": "MainHeader.lblBank"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    90,
+    1366,
+    900
+   ],
+   "id": "flxContent"
+  },
+  {
+   "type": "text",
+   "text": "5 accounts · last updated 09:42",
+   "bbox_2d": [
+    111,
+    156,
+    390,
+    179
+   ],
+   "id": "lblAccInfo"
+  },
+  {
+   "type": "text",
+   "text": "Good morning, Maya",
+   "bbox_2d": [
+    111,
+    106,
+    479,
+    148
+   ],
+   "id": "lblGM"
+  },
+  {
+   "type": "button",
+   "text": "New Transfer",
+   "bbox_2d": [
+    1091,
+    106,
+    1201,
+    151
+   ],
+   "id": "btnNewTransfer"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    111,
+    206,
+    420,
+    310
+   ],
+   "id": "flxTotBal"
+  },
+  {
+   "type": "text",
+   "text": "Total balence",
+   "bbox_2d": [
+    132,
+    227,
+    250,
+    250
+   ],
+   "id": "lblTotBal"
+  },
+  {
+   "type": "text",
+   "text": "$164,670.50",
+   "bbox_2d": [
+    132,
+    252,
+    299,
+    286
+   ],
+   "id": "lblToAMt"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    499,
+    206,
+    808,
+    310
+   ],
+   "id": "flxSpend"
+  },
+  {
+   "type": "text",
+   "text": "Available to spend",
+   "bbox_2d": [
+    520,
+    230,
+    683,
+    253
+   ],
+   "id": "lblAva"
+  },
+  {
+   "type": "text",
+   "text": "$66,981.15",
+   "bbox_2d": [
+    520,
+    260,
+    670,
+    294
+   ],
+   "id": "lblAmt2"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    896,
+    206,
+    1206,
+    310
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Card outstanding",
+   "bbox_2d": [
+    917,
+    230,
+    1070,
+    253
+   ],
+   "id": "lblCard"
+  },
+  {
+   "type": "text",
+   "text": "$2,310.65",
+   "bbox_2d": [
+    917,
+    260,
+    1051,
+    294
+   ],
+   "id": "lblCardAmt"
+  },
+  {
+   "type": "text",
+   "text": "Your accounts",
+   "bbox_2d": [
+    111,
+    395,
+    283,
+    424
+   ],
+   "id": "lblYrAcc"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    131,
+    458,
+    173,
+    500
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "text",
+   "text": "Saving Account",
+   "bbox_2d": [
+    196,
+    459,
+    383,
+    488
+   ],
+   "id": "lblSavingsAcc"
+  },
+  {
+   "type": "text",
+   "text": "123456XXXX",
+   "bbox_2d": [
+    196,
+    488,
+    316,
+    511
+   ],
+   "id": "lblAccNo"
+  },
+  {
+   "type": "text",
+   "text": "$12,450.75",
+   "bbox_2d": [
+    890,
+    459,
+    1015,
+    488
+   ],
+   "id": "lblSavAmt"
+  },
+  {
+   "type": "text",
+   "text": "Primary Savings",
+   "bbox_2d": [
+    890,
+    488,
+    1021,
+    509
+   ],
+   "id": "lblPriSav"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    131,
+    539,
+    173,
+    581
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "text",
+   "text": "Current ACcount",
+   "bbox_2d": [
+    196,
+    540,
+    396,
+    569
+   ],
+   "id": "lblSavingsAcc"
+  },
+  {
+   "type": "text",
+   "text": "778812XXXX",
+   "bbox_2d": [
+    196,
+    569,
+    316,
+    592
+   ],
+   "id": "lblAccNo"
+  },
+  {
+   "type": "text",
+   "text": "$48,210.00",
+   "bbox_2d": [
+    890,
+    540,
+    1015,
+    569
+   ],
+   "id": "lblSavAmt"
+  },
+  {
+   "type": "text",
+   "text": "Business Current",
+   "bbox_2d": [
+    890,
+    569,
+    1028,
+    590
+   ],
+   "id": "lblPriSav"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    131,
+    620,
+    173,
+    662
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "text",
+   "text": "Salary Account",
+   "bbox_2d": [
+    196,
+    621,
+    377,
+    650
+   ],
+   "id": "lblSavingsAcc"
+  },
+  {
+   "type": "text",
+   "text": "990045XXXX",
+   "bbox_2d": [
+    196,
+    650,
+    316,
+    673
+   ],
+   "id": "lblAccNo"
+  },
+  {
+   "type": "text",
+   "text": "$6,320.40",
+   "bbox_2d": [
+    890,
+    621,
+    1001,
+    650
+   ],
+   "id": "lblSavAmt"
+  },
+  {
+   "type": "text",
+   "text": "Payroll",
+   "bbox_2d": [
+    890,
+    650,
+    945,
+    671
+   ],
+   "id": "lblPriSav"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    131,
+    701,
+    173,
+    743
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "text",
+   "text": "Fixed Deposit",
+   "bbox_2d": [
+    196,
+    702,
+    359,
+    731
+   ],
+   "id": "lblSavingsAcc"
+  },
+  {
+   "type": "text",
+   "text": "556677XXXX",
+   "bbox_2d": [
+    196,
+    731,
+    316,
+    754
+   ],
+   "id": "lblAccNo"
+  },
+  {
+   "type": "text",
+   "text": "$100,000.00",
+   "bbox_2d": [
+    890,
+    702,
+    1028,
+    731
+   ],
+   "id": "lblSavAmt"
+  },
+  {
+   "type": "text",
+   "text": "FD 2026",
+   "bbox_2d": [
+    890,
+    731,
+    959,
+    752
+   ],
+   "id": "lblPriSav"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    131,
+    782,
+    173,
+    824
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "text",
+   "text": "Credit Card",
+   "bbox_2d": [
+    196,
+    783,
+    332,
+    812
+   ],
+   "id": "lblSavingsAcc"
+  },
+  {
+   "type": "text",
+   "text": "889900XXXX",
+   "bbox_2d": [
+    196,
+    812,
+    316,
+    835
+   ],
+   "id": "lblAccNo"
+  },
+  {
+   "type": "text",
+   "text": "-$2,310.65",
+   "bbox_2d": [
+    890,
+    783,
+    1009,
+    812
+   ],
+   "id": "lblSavAmt"
+  },
+  {
+   "type": "text",
+   "text": "Platinum card",
+   "bbox_2d": [
+    890,
+    812,
+    1000,
+    833
+   ],
+   "id": "lblPriSav"
+  }
+ ]
+}

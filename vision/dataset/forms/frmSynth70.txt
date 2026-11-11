@@ -1,0 +1,11 @@
+new form called synth 7 0
+add a flex called flxHeader with layout vertical, width 100%, height 90dp, skin CopyslFbox0bb493771c5f743
+add a label called lblLogo with text "AvenzaBank", top 28dp, left 40dp, skin CopydefLabel0c4a8fec8b9624a
+add a label called lblTagline with text "Banking that stays out of your way.", top 8dp, left 40dp, skin CopydefLabel0d9c36a8cc7b24d
+select flxMain
+add a label called lblHead1 with text "Sign in", top 36dp, left 40dp, skin CopydefLabel0b958727ed83141
+add a label called lblSub2 with text "Check the details before you continue.", top 8dp, left 40dp, skin sknLblDescription
+add a label called lblField3 with text "Email address", top 15dp, left 40dp, skin sknlblSubheading00000015px
+add a text box called tbx4 with placeholder "name@example.com", width 60%, height 40dp, top 6dp, left 40dp, skin skntbx5b6b7a15px
+add a button called btn5 with text "Continue", width 60%, height 56dp, top 27dp, left 40dp, skin CopydefBtnNormal0a5557b20e63745
+add a label called lblLink6 with text "Need help?", top 16dp, left 40dp, skin CopydefLabel0ac07d4ebd8e448

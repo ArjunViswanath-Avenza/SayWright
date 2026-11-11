@@ -1,0 +1,172 @@
+{
+ "image": "frmSynth113-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1366,
+    900
+   ],
+   "id": "flxBg"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    403,
+    179,
+    963,
+    721
+   ],
+   "id": "flxCard"
+  },
+  {
+   "type": "text",
+   "text": "Reset password",
+   "bbox_2d": [
+    432,
+    216,
+    701,
+    256
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Expiry",
+   "bbox_2d": [
+    432,
+    274,
+    493,
+    297
+   ],
+   "id": "lblField4"
+  },
+  {
+   "type": "input",
+   "text": "MM/YY",
+   "bbox_2d": [
+    432,
+    303,
+    668,
+    347
+   ],
+   "id": "tbx5"
+  },
+  {
+   "type": "text",
+   "text": "CVV",
+   "bbox_2d": [
+    687,
+    274,
+    728,
+    297
+   ],
+   "id": "lblField7"
+  },
+  {
+   "type": "input",
+   "text": "123",
+   "bbox_2d": [
+    687,
+    303,
+    923,
+    347
+   ],
+   "id": "tbx8"
+  },
+  {
+   "type": "text",
+   "text": "Amount",
+   "bbox_2d": [
+    432,
+    365,
+    508,
+    388
+   ],
+   "id": "lblField9"
+  },
+  {
+   "type": "input",
+   "text": "0.00",
+   "bbox_2d": [
+    432,
+    394,
+    923,
+    434
+   ],
+   "id": "tbx10"
+  },
+  {
+   "type": "text",
+   "text": "Full name",
+   "bbox_2d": [
+    432,
+    451,
+    525,
+    474
+   ],
+   "id": "lblField11"
+  },
+  {
+   "type": "input",
+   "text": "Enter your full name",
+   "bbox_2d": [
+    432,
+    480,
+    923,
+    520
+   ],
+   "id": "tbx12"
+  },
+  {
+   "type": "text",
+   "text": "Confirm password",
+   "bbox_2d": [
+    432,
+    540,
+    608,
+    563
+   ],
+   "id": "lblField13"
+  },
+  {
+   "type": "input",
+   "text": "Re-enter password",
+   "bbox_2d": [
+    432,
+    569,
+    923,
+    619
+   ],
+   "id": "tbx14"
+  },
+  {
+   "type": "button",
+   "text": "Submit",
+   "bbox_2d": [
+    432,
+    639,
+    923,
+    683
+   ],
+   "id": "btn15"
+  },
+  {
+   "type": "text",
+   "text": "Forgot password?",
+   "bbox_2d": [
+    432,
+    699,
+    575,
+    720
+   ],
+   "id": "lblLink16"
+  }
+ ]
+}

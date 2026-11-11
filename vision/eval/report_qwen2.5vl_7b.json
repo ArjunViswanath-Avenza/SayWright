@@ -1,0 +1,287 @@
+{
+ "model": "qwen2.5vl:7b",
+ "images": 16,
+ "recall": 0.292,
+ "precision": 0.492,
+ "mean_iou": 0.293,
+ "text_similarity": 0.905,
+ "seconds_per_image": 343.994,
+ "rows": [
+  {
+   "image": "frmAcknowledgement-1366",
+   "seconds": 395.7,
+   "truth": 37,
+   "predicted": 23,
+   "matched": 8,
+   "recall": 0.22,
+   "precision": 0.35,
+   "mean_iou": 0.14,
+   "text_similarity": 1.0,
+   "by_type": {
+    "button": "2/2",
+    "image": "0/1",
+    "panel": "6/9",
+    "text": "0/25"
+   }
+  },
+  {
+   "image": "frmAcknowledgement-640",
+   "seconds": 262.0,
+   "truth": 23,
+   "predicted": 16,
+   "matched": 8,
+   "recall": 0.35,
+   "precision": 0.5,
+   "mean_iou": 0.21,
+   "text_similarity": 0.35,
+   "by_type": {
+    "button": "1/2",
+    "image": "0/1",
+    "panel": "4/6",
+    "text": "3/14"
+   }
+  },
+  {
+   "image": "frmAddress-1366",
+   "seconds": 305.5,
+   "truth": 31,
+   "predicted": 15,
+   "matched": 12,
+   "recall": 0.39,
+   "precision": 0.8,
+   "mean_iou": 0.56,
+   "text_similarity": 0.96,
+   "by_type": {
+    "dropdown": "1/2",
+    "image": "0/1",
+    "input": "2/4",
+    "panel": "2/8",
+    "text": "7/16"
+   }
+  },
+  {
+   "image": "frmAddress-640",
+   "seconds": 260.1,
+   "truth": 27,
+   "predicted": 17,
+   "matched": 9,
+   "recall": 0.33,
+   "precision": 0.53,
+   "mean_iou": 0.31,
+   "text_similarity": 1.0,
+   "by_type": {
+    "dropdown": "3/3",
+    "image": "0/1",
+    "input": "2/4",
+    "panel": "4/7",
+    "text": "0/12"
+   }
+  },
+  {
+   "image": "frmDashboard-1366",
+   "seconds": 475.5,
+   "truth": 47,
+   "predicted": 35,
+   "matched": 5,
+   "recall": 0.11,
+   "precision": 0.14,
+   "mean_iou": 0.17,
+   "text_similarity": 1.0,
+   "by_type": {
+    "button": "1/1",
+    "panel": "4/10",
+    "text": "0/36"
+   }
+  },
+  {
+   "image": "frmDashboard-640",
+   "seconds": 196.9,
+   "truth": 18,
+   "predicted": 10,
+   "matched": 10,
+   "recall": 0.56,
+   "precision": 1.0,
+   "mean_iou": 0.87,
+   "text_similarity": 1.0,
+   "by_type": {
+    "panel": "4/4",
+    "text": "6/14"
+   }
+  },
+  {
+   "image": "frmIdentity-1366",
+   "seconds": 320.5,
+   "truth": 33,
+   "predicted": 19,
+   "matched": 11,
+   "recall": 0.33,
+   "precision": 0.58,
+   "mean_iou": 0.22,
+   "text_similarity": 1.0,
+   "by_type": {
+    "button": "2/2",
+    "dropdown": "0/1",
+    "image": "2/2",
+    "input": "1/1",
+    "panel": "6/13",
+    "text": "0/14"
+   }
+  },
+  {
+   "image": "frmIdentity-640",
+   "seconds": 251.6,
+   "truth": 34,
+   "predicted": 19,
+   "matched": 5,
+   "recall": 0.15,
+   "precision": 0.26,
+   "mean_iou": 0.06,
+   "text_similarity": null,
+   "by_type": {
+    "button": "0/3",
+    "dropdown": "0/1",
+    "image": "0/3",
+    "input": "0/1",
+    "panel": "5/15",
+    "text": "0/11"
+   }
+  },
+  {
+   "image": "frmLogin-1366",
+   "seconds": 291.1,
+   "truth": 20,
+   "predicted": 13,
+   "matched": 10,
+   "recall": 0.5,
+   "precision": 0.77,
+   "mean_iou": 0.58,
+   "text_similarity": 0.95,
+   "by_type": {
+    "button": "1/1",
+    "checkbox": "1/1",
+    "input": "2/2",
+    "panel": "2/3",
+    "text": "4/13"
+   }
+  },
+  {
+   "image": "frmLogin-640",
+   "seconds": 222.3,
+   "truth": 14,
+   "predicted": 15,
+   "matched": 2,
+   "recall": 0.14,
+   "precision": 0.13,
+   "mean_iou": 0.01,
+   "text_similarity": null,
+   "by_type": {
+    "button": "0/1",
+    "checkbox": "0/1",
+    "input": "0/2",
+    "panel": "2/2",
+    "text": "0/8"
+   }
+  },
+  {
+   "image": "frmOpenAccount-1366",
+   "seconds": 298.6,
+   "truth": 32,
+   "predicted": 16,
+   "matched": 6,
+   "recall": 0.19,
+   "precision": 0.38,
+   "mean_iou": 0.03,
+   "text_similarity": null,
+   "by_type": {
+    "checkbox": "0/2",
+    "dropdown": "0/1",
+    "panel": "6/10",
+    "text": "0/19"
+   }
+  },
+  {
+   "image": "frmOpenAccount-640",
+   "seconds": 335.7,
+   "truth": 34,
+   "predicted": 24,
+   "matched": 14,
+   "recall": 0.41,
+   "precision": 0.58,
+   "mean_iou": 0.31,
+   "text_similarity": 0.9,
+   "by_type": {
+    "checkbox": "0/2",
+    "dropdown": "0/1",
+    "image": "0/3",
+    "panel": "6/9",
+    "text": "8/19"
+   }
+  },
+  {
+   "image": "frmPersonalDetails-1366",
+   "seconds": 337.5,
+   "truth": 28,
+   "predicted": 19,
+   "matched": 12,
+   "recall": 0.43,
+   "precision": 0.63,
+   "mean_iou": 0.54,
+   "text_similarity": 1.0,
+   "by_type": {
+    "dropdown": "2/2",
+    "input": "5/5",
+    "panel": "5/7",
+    "text": "0/14"
+   }
+  },
+  {
+   "image": "frmPersonalDetails-640",
+   "seconds": 750.9,
+   "truth": 28,
+   "predicted": 0,
+   "matched": 0,
+   "recall": 0.0,
+   "precision": null,
+   "mean_iou": null,
+   "text_similarity": null,
+   "by_type": {
+    "dropdown": "0/2",
+    "input": "0/5",
+    "panel": "0/7",
+    "text": "0/14"
+   }
+  },
+  {
+   "image": "frmProfile-1366",
+   "seconds": 504.5,
+   "truth": 38,
+   "predicted": 30,
+   "matched": 7,
+   "recall": 0.18,
+   "precision": 0.23,
+   "mean_iou": 0.06,
+   "text_similarity": null,
+   "by_type": {
+    "button": "0/1",
+    "panel": "7/7",
+    "text": "0/30"
+   }
+  },
+  {
+   "image": "frmProfile-640",
+   "seconds": 295.5,
+   "truth": 24,
+   "predicted": 18,
+   "matched": 9,
+   "recall": 0.38,
+   "precision": 0.5,
+   "mean_iou": 0.33,
+   "text_similarity": 0.79,
+   "by_type": {
+    "button": "1/1",
+    "panel": "5/5",
+    "text": "3/18"
+   }
+  }
+ ]
+}

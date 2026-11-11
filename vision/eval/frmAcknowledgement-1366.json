@@ -1,0 +1,414 @@
+{
+ "image": "frmAcknowledgement-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1366,
+    847
+   ],
+   "id": "flxParent"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    29,
+    1365,
+    122
+   ],
+   "id": "DashboardHeader.flxParent"
+  },
+  {
+   "type": "text",
+   "text": "Avenza",
+   "bbox_2d": [
+    56,
+    55,
+    185,
+    97
+   ],
+   "id": "DashboardHeader.lblAvenza"
+  },
+  {
+   "type": "text",
+   "text": "Bank",
+   "bbox_2d": [
+    185,
+    55,
+    275,
+    97
+   ],
+   "id": "DashboardHeader.lblBank"
+  },
+  {
+   "type": "text",
+   "text": "Accounts",
+   "bbox_2d": [
+    327,
+    64,
+    409,
+    87
+   ],
+   "id": "DashboardHeader.lblAccounts"
+  },
+  {
+   "type": "text",
+   "text": "Transfers",
+   "bbox_2d": [
+    457,
+    64,
+    541,
+    87
+   ],
+   "id": "DashboardHeader.lblTransfers"
+  },
+  {
+   "type": "text",
+   "text": "Profile",
+   "bbox_2d": [
+    589,
+    64,
+    646,
+    87
+   ],
+   "id": "DashboardHeader.lblProfile"
+  },
+  {
+   "type": "text",
+   "text": "Maya Fernandes",
+   "bbox_2d": [
+    1103,
+    63,
+    1253,
+    86
+   ],
+   "id": "DashboardHeader.lblNme"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1273,
+    50,
+    1323,
+    100
+   ],
+   "id": "DashboardHeader.flxLogo"
+  },
+  {
+   "type": "text",
+   "text": "MF",
+   "bbox_2d": [
+    1284,
+    63,
+    1313,
+    86
+   ],
+   "id": "DashboardHeader.lblMF"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    250,
+    153,
+    290,
+    193
+   ],
+   "id": "TransFlow.flxR1"
+  },
+  {
+   "type": "text",
+   "text": "1",
+   "bbox_2d": [
+    264,
+    162,
+    275,
+    185
+   ],
+   "id": "TransFlow.lbl1"
+  },
+  {
+   "type": "text",
+   "text": "Details",
+   "bbox_2d": [
+    305,
+    162,
+    363,
+    184
+   ],
+   "id": "TransFlow.lblDetails"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    613,
+    153,
+    653,
+    193
+   ],
+   "id": "TransFlow.flxR2"
+  },
+  {
+   "type": "text",
+   "text": "2",
+   "bbox_2d": [
+    627,
+    162,
+    638,
+    185
+   ],
+   "id": "TransFlow.lbl2"
+  },
+  {
+   "type": "text",
+   "text": "Confirm",
+   "bbox_2d": [
+    668,
+    162,
+    738,
+    185
+   ],
+   "id": "TransFlow.lblConfirm"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    988,
+    153,
+    1028,
+    193
+   ],
+   "id": "TransFlow.flxR3"
+  },
+  {
+   "type": "text",
+   "text": "3",
+   "bbox_2d": [
+    1002,
+    162,
+    1013,
+    185
+   ],
+   "id": "TransFlow.lbl3"
+  },
+  {
+   "type": "text",
+   "text": "Done",
+   "bbox_2d": [
+    1043,
+    162,
+    1090,
+    185
+   ],
+   "id": "TransFlow.lblDone"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    342,
+    226,
+    1024,
+    846
+   ],
+   "id": "flxTransferDetail"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    628,
+    252,
+    738,
+    362
+   ],
+   "id": "flxSuccess"
+  },
+  {
+   "type": "image",
+   "text": "",
+   "bbox_2d": [
+    643,
+    267,
+    723,
+    347
+   ],
+   "id": "imgTick"
+  },
+  {
+   "type": "text",
+   "text": "Transfer sent",
+   "bbox_2d": [
+    589,
+    372,
+    777,
+    406
+   ],
+   "id": "lblTransfersent"
+  },
+  {
+   "type": "text",
+   "text": "$1,200.00 is on its way to Rahul Mehta.",
+   "bbox_2d": [
+    508,
+    418,
+    858,
+    441
+   ],
+   "id": "lblDes1"
+  },
+  {
+   "type": "text",
+   "text": "It should land the same business day.",
+   "bbox_2d": [
+    516,
+    446,
+    850,
+    469
+   ],
+   "id": "lblDes2"
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    393,
+    485,
+    973,
+    705
+   ],
+   "id": "flxDetails"
+  },
+  {
+   "type": "text",
+   "text": "Reference",
+   "bbox_2d": [
+    423,
+    520,
+    515,
+    543
+   ],
+   "id": "lblReference"
+  },
+  {
+   "type": "text",
+   "text": "TRF-2026-100482",
+   "bbox_2d": [
+    780,
+    520,
+    943,
+    543
+   ],
+   "id": "lblId1"
+  },
+  {
+   "type": "text",
+   "text": "From",
+   "bbox_2d": [
+    423,
+    565,
+    470,
+    588
+   ],
+   "id": "lblFrom"
+  },
+  {
+   "type": "text",
+   "text": "123456XXXX",
+   "bbox_2d": [
+    823,
+    565,
+    943,
+    588
+   ],
+   "id": "lblId2"
+  },
+  {
+   "type": "text",
+   "text": "To",
+   "bbox_2d": [
+    423,
+    610,
+    444,
+    633
+   ],
+   "id": "lblTo"
+  },
+  {
+   "type": "text",
+   "text": "4455XXXX",
+   "bbox_2d": [
+    845,
+    610,
+    943,
+    633
+   ],
+   "id": "lblId3"
+  },
+  {
+   "type": "text",
+   "text": "Posted",
+   "bbox_2d": [
+    423,
+    650,
+    485,
+    673
+   ],
+   "id": "lblPosted"
+  },
+  {
+   "type": "text",
+   "text": "5 Oct, 09:47",
+   "bbox_2d": [
+    831,
+    650,
+    943,
+    673
+   ],
+   "id": "lblId4"
+  },
+  {
+   "type": "button",
+   "text": "Back to accounts",
+   "bbox_2d": [
+    394,
+    735,
+    683,
+    785
+   ],
+   "id": "btnBacktoAccounts"
+  },
+  {
+   "type": "button",
+   "text": "Another transfer",
+   "bbox_2d": [
+    712,
+    735,
+    972,
+    785
+   ],
+   "id": "btnAnotherTransfer"
+  },
+  {
+   "type": "text",
+   "text": "Download receipt(PDF)",
+   "bbox_2d": [
+    584,
+    805,
+    782,
+    826
+   ],
+   "id": "lblDownloadreceipt"
+  }
+ ]
+}

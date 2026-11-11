@@ -1,0 +1,294 @@
+{
+ "image": "frmPersonalDetails-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    172,
+    368,
+    1194,
+    900
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    28,
+    1366,
+    199
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    1,
+    29,
+    1365,
+    117
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    2,
+    120,
+    1364,
+    198
+   ]
+  },
+  {
+   "type": "input",
+   "text": "maya.fernandes@example.com",
+   "bbox_2d": [
+    223,
+    707,
+    1143,
+    767
+   ]
+  },
+  {
+   "type": "input",
+   "text": "98450 11234",
+   "bbox_2d": [
+    379,
+    833,
+    1143,
+    893
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    0,
+    0,
+    1366,
+    28
+   ]
+  },
+  {
+   "type": "dropdown",
+   "text": "Indian",
+   "bbox_2d": [
+    729,
+    573,
+    1144,
+    633
+   ]
+  },
+  {
+   "type": "input",
+   "text": "Fernandes",
+   "bbox_2d": [
+    729,
+    443,
+    1143,
+    503
+   ]
+  },
+  {
+   "type": "input",
+   "text": "Maya",
+   "bbox_2d": [
+    223,
+    447,
+    637,
+    507
+   ]
+  },
+  {
+   "type": "input",
+   "text": "",
+   "bbox_2d": [
+    223,
+    577,
+    637,
+    637
+   ]
+  },
+  {
+   "type": "dropdown",
+   "text": "+91",
+   "bbox_2d": [
+    223,
+    833,
+    362,
+    893
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    498,
+    164,
+    989,
+    170
+   ]
+  },
+  {
+   "type": "panel",
+   "text": "",
+   "bbox_2d": [
+    378,
+    164,
+    498,
+    170
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Avenza",
+   "bbox_2d": [
+    70,
+    46,
+    196,
+    89
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Bank",
+   "bbox_2d": [
+    200,
+    46,
+    287,
+    89
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Already have an account?",
+   "bbox_2d": [
+    970,
+    58,
+    1178,
+    79
+   ]
+  },
+  {
+   "type": "text",
+   "text": "sign in",
+   "bbox_2d": [
+    1179,
+    58,
+    1238,
+    79
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Getting started",
+   "bbox_2d": [
+    377,
+    129,
+    518,
+    152
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Step 1 to 7",
+   "bbox_2d": [
+    894,
+    129,
+    989,
+    152
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Tell us about you",
+   "bbox_2d": [
+    172,
+    243,
+    454,
+    283
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Enter your name exactly as it appears on your photo ID",
+   "bbox_2d": [
+    172,
+    300,
+    617,
+    321
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Last name",
+   "bbox_2d": [
+    730,
+    407,
+    828,
+    431
+   ]
+  },
+  {
+   "type": "text",
+   "text": "First name",
+   "bbox_2d": [
+    224,
+    411,
+    324,
+    435
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Nationality",
+   "bbox_2d": [
+    731,
+    537,
+    832,
+    560
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Date of birth",
+   "bbox_2d": [
+    224,
+    541,
+    340,
+    565
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Email",
+   "bbox_2d": [
+    224,
+    671,
+    276,
+    695
+   ]
+  },
+  {
+   "type": "text",
+   "text": "Mobile Number",
+   "bbox_2d": [
+    224,
+    797,
+    367,
+    821
+   ]
+  }
+ ],
+ "stats": {
+  "model": "ocr+pixels",
+  "ocr_s": 5.8,
+  "wall_s": 6.9,
+  "lines": 20,
+  "blocks": 14
+ }
+}

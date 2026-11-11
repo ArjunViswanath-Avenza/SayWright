@@ -1,0 +1,95 @@
+{
+ "image": "frmSynth1152-1024.png",
+ "width": 1024,
+ "height": 900,
+ "elements": [
+  {
+   "type": "text",
+   "text": "Confirm transfer",
+   "bbox_2d": [
+    120,
+    26,
+    410,
+    68
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Use the credentials issued by your branch.",
+   "bbox_2d": [
+    120,
+    76,
+    498,
+    99
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "Password",
+   "bbox_2d": [
+    120,
+    118,
+    214,
+    141
+   ],
+   "id": "lblField3"
+  },
+  {
+   "type": "input",
+   "text": "Enter your password",
+   "bbox_2d": [
+    120,
+    147,
+    683,
+    191
+   ],
+   "id": "tbx4"
+  },
+  {
+   "type": "text",
+   "text": "Full name",
+   "bbox_2d": [
+    120,
+    212,
+    213,
+    235
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "Enter your full name",
+   "bbox_2d": [
+    120,
+    241,
+    683,
+    281
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "button",
+   "text": "Verify",
+   "bbox_2d": [
+    120,
+    303,
+    683,
+    353
+   ],
+   "id": "btn7"
+  },
+  {
+   "type": "text",
+   "text": "Resend code",
+   "bbox_2d": [
+    120,
+    369,
+    226,
+    390
+   ],
+   "id": "lblLink8"
+  }
+ ]
+}

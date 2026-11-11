@@ -1,0 +1,117 @@
+{
+ "image": "frmSynth1110-1366.png",
+ "width": 1366,
+ "height": 900,
+ "elements": [
+  {
+   "type": "text",
+   "text": "Sign in",
+   "bbox_2d": [
+    80,
+    28,
+    147,
+    51
+   ],
+   "id": "lblHead1"
+  },
+  {
+   "type": "text",
+   "text": "Your data is encrypted end to end.",
+   "bbox_2d": [
+    80,
+    59,
+    372,
+    81
+   ],
+   "id": "lblSub2"
+  },
+  {
+   "type": "text",
+   "text": "Full name",
+   "bbox_2d": [
+    80,
+    101,
+    173,
+    124
+   ],
+   "id": "lblField3"
+  },
+  {
+   "type": "input",
+   "text": "Enter your full name",
+   "bbox_2d": [
+    80,
+    130,
+    558,
+    174
+   ],
+   "id": "tbx4"
+  },
+  {
+   "type": "text",
+   "text": "User Id",
+   "bbox_2d": [
+    80,
+    191,
+    148,
+    214
+   ],
+   "id": "lblField5"
+  },
+  {
+   "type": "input",
+   "text": "Enter user id",
+   "bbox_2d": [
+    80,
+    220,
+    558,
+    260
+   ],
+   "id": "tbx6"
+  },
+  {
+   "type": "text",
+   "text": "Mobile number",
+   "bbox_2d": [
+    80,
+    278,
+    222,
+    301
+   ],
+   "id": "lblField7"
+  },
+  {
+   "type": "input",
+   "text": "Enter mobile number",
+   "bbox_2d": [
+    80,
+    307,
+    558,
+    347
+   ],
+   "id": "tbx8"
+  },
+  {
+   "type": "button",
+   "text": "Continue",
+   "bbox_2d": [
+    80,
+    366,
+    558,
+    422
+   ],
+   "id": "btn9"
+  },
+  {
+   "type": "text",
+   "text": "Resend code",
+   "bbox_2d": [
+    80,
+    438,
+    186,
+    459
+   ],
+   "id": "lblLink10"
+  }
+ ]
+}
